@@ -180,7 +180,6 @@ CHC动作电影,http://120.84.96.222:808/hls/31/index.m3u8
 广东珠江HD,http://120.84.96.222:808/hls/122/index.m3u8
 广东影视HD,http://120.84.96.222:808/hls/142/index.m3u8
 HK国际财经台,http://iptv.tvfix.org/hls/hkibc.m3u8
-HK开电视,http://iptv.tvfix.org/hls/opentv.m3u8
 美亚电影台(粤语),http://iptv.tvfix.org/hls/mydy.m3u8
 美亚电影台(普通话),http://iptv.tvfix.org/hls/mydy2.m3u8
 卫视电影台,http://iptv.tvfix.org/hls/starmovies.m3u8
