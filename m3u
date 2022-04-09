@@ -1,1549 +1,1179 @@
 #EXTM3U
-#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",31 RTSH Sport HD
+#EXTINF:-1 group-title="BEIN SPORTS 4K",31 RTSH Sport HD
 http://185.204.32.4:9981/stream/channelid/1261192802?ticket=E164CD67A6836FEAF3BC6D7E2CADDEC4EAC87E29&profile=pass&checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Sport",ESPN
+#EXTINF:-1 group-title="BEIN SPORTS 4K",ESPN
 http://new-pro.tv:8080/Fernando/123321/73582?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",FOX SPORTS 1
+#EXTINF:-1 group-title="BEIN SPORTS 4K",FOX SPORTS 1
 http://mains.services:2086/kixy2030/u8zC9nvB69/92696?checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo="https://bit.ly/3BzhbzD" group-title="Sport",Edge Sport
+#EXTINF:-1 group-title="BEIN SPORTS 4K",Edge Sport
 https://edgesports-sportstribal.amagi.tv/playlist.m3u8
-#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Sport",beIN SPORTS 2
+#EXTINF:-1 group-title="BEIN SPORTS 4K",beIN SPORTS 2
 http://red.ipfox.org:8080/amer/amer1234/2439?checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo="https://awsimages.detik.net.id/customthumb/2013/07/03/82/bein_sport_logo.jpg?w=700&q=90" group-title="Sports",Bein Sports 3 AR
+#EXTINF:-1 group-title="BEIN SPORTS 4K",Bein Sports 3 AR
 http://93.152.174.144:4000/play/bein3ar/index.m3u8
-#EXTINF:-1,beIN Sport NBA 4K
+#EXTINF:-1 group-title="BEIN SPORTS 4K",beIN Sport NBA 4K
 http://stariptv.org:8080/nour2020/123456/150161
-#EXTINF:-1,beIN 1 PREMIUM 4K
+#EXTINF:-1 group-title="BEIN SPORTS 4K",beIN 1 PREMIUM 4K
 http://stariptv.org:8080/nour2020/123456/141545
-#EXTINF:-1,beIN 2 PREMIUM 4K
+#EXTINF:-1 group-title="BEIN SPORTS 4K",beIN 2 PREMIUM 4K
 http://stariptv.org:8080/nour2020/123456/141546
-#EXTINF:-1,beIN 3 PREMIUM 4K
+#EXTINF:-1 group-title="BEIN SPORTS 4K",beIN 3 PREMIUM 4K
 http://stariptv.org:8080/nour2020/123456/141547
-#EXTINF:-1,beIN SPORTS 1 4K
+#EXTINF:-1 group-title="BEIN SPORTS 4K",beIN SPORTS 1 4K
 http://stariptv.org:8080/nour2020/123456/141548
-#EXTINF:-1,beIN SPORTS 2 4K
+#EXTINF:-1 group-title="BEIN SPORTS 4K",beIN SPORTS 2 4K
 http://stariptv.org:8080/nour2020/123456/141549
-#EXTINF:-1,beIN SPORTS 3 4K
+#EXTINF:-1 group-title="BEIN SPORTS 4K",beIN SPORTS 3 4K
 http://stariptv.org:8080/nour2020/123456/141550
-#EXTINF:-1,beIN SPORTS 4 4K
+#EXTINF:-1 group-title="BEIN SPORTS 4K",beIN SPORTS 4 4K
 http://stariptv.org:8080/nour2020/123456/141551
-#EXTINF:-1,beIN SPORTS 5 4K
+#EXTINF:-1 group-title="BEIN SPORTS 4K",beIN SPORTS 5 4K
 http://stariptv.org:8080/nour2020/123456/141552
-#EXTINF:-1,beIN SPORTS 6 4K
+#EXTINF:-1 group-title="BEIN SPORTS 4K",beIN SPORTS 6 4K
 http://stariptv.org:8080/nour2020/123456/141553
-#EXTINF:-1,beIN SPORTS 7 4K
+#EXTINF:-1 group-title="BEIN SPORTS 4K",beIN SPORTS 7 4K
 http://stariptv.org:8080/nour2020/123456/141554
-#EXTINF:-1,beIN 1 PREMIUM HQ
+#EXTINF:-1 group-title="BEIN SPORTS 4K",beIN 1 PREMIUM HQ
 http://stariptv.org:8080/nour2020/123456/2762
-#EXTINF:-1,beIN 2 PREMIUM HQ
+#EXTINF:-1 group-title="BEIN SPORTS 4K",beIN 2 PREMIUM HQ
 http://stariptv.org:8080/nour2020/123456/2763
-#EXTINF:-1,beIN 3 PREMIUM HQ
+#EXTINF:-1 group-title="BEIN SPORTS 4K",beIN 3 PREMIUM HQ
 http://stariptv.org:8080/nour2020/123456/2766
-#EXTINF:-1,AR: beIN 1 XTRA HQ
+#EXTINF:-1 group-title="BEIN SPORTS 4K",AR: beIN 1 XTRA HQ
 http://stariptv.org:8080/nour2020/123456/132027
-#EXTINF:-1,AR: beIN 2 XTRA HQ
+#EXTINF:-1 group-title="BEIN SPORTS 4K",AR: beIN 2 XTRA HQ
 http://stariptv.org:8080/nour2020/123456/132028
-#EXTINF:-1,AR: beIN 1 HQ
+#EXTINF:-1 group-title="BEIN SPORTS 4K",AR: beIN 1 HQ
 http://stariptv.org:8080/nour2020/123456/2755
-#EXTINF:-1,AR: beIN 2 HQ
+#EXTINF:-1 group-title="BEIN SPORTS 4K",AR: beIN 2 HQ
 http://stariptv.org:8080/nour2020/123456/2756
-#EXTINF:-1,AR: beIN 3 HQ
+#EXTINF:-1 group-title="BEIN SPORTS 4K",AR: beIN 3 HQ
 http://stariptv.org:8080/nour2020/123456/2757
-#EXTINF:-1,AR: beIN 4 HQ
+#EXTINF:-1 group-title="BEIN SPORTS 4K",AR: beIN 4 HQ
 http://stariptv.org:8080/nour2020/123456/2758
-#EXTINF:-1,AR: beIN 5 HQ
+#EXTINF:-1 group-title="BEIN SPORTS 4K",AR: beIN 5 HQ
 http://stariptv.org:8080/nour2020/123456/2759
-#EXTINF:-1,AR: beIN 6 HQ
+#EXTINF:-1 group-title="BEIN SPORTS 4K",AR: beIN 6 HQ
 http://stariptv.org:8080/nour2020/123456/2760
-#EXTINF:-1,AR: beIN 7 HQ
+#EXTINF:-1 group-title="BEIN SPORTS 4K",AR: beIN 7 HQ
 http://stariptv.org:8080/nour2020/123456/2761
-#EXTINF:-1,beIN Sport NBA HD
+#EXTINF:-1 group-title="BEIN SPORTS 4K",beIN Sport NBA HD
 http://stariptv.org:8080/nour2020/123456/150160
-#EXTINF:-1,beIN 1 PREMIUM HD
+#EXTINF:-1 group-title="BEIN SPORTS 4K",beIN 1 PREMIUM HD
 http://stariptv.org:8080/nour2020/123456/15563
-#EXTINF:-1,beIN 2 PREMIUM HD
+#EXTINF:-1 group-title="BEIN SPORTS 4K",beIN 2 PREMIUM HD
 http://stariptv.org:8080/nour2020/123456/15562
-#EXTINF:-1,beIN 3 PREMIUM HD
+#EXTINF:-1 group-title="BEIN SPORTS 4K",beIN 3 PREMIUM HD
 http://stariptv.org:8080/nour2020/123456/15561
-#EXTINF:-1,AR: beIN EXTRA 1 HD
+#EXTINF:-1 group-title="BEIN SPORTS 4K",AR: beIN EXTRA 1 HD
 http://stariptv.org:8080/nour2020/123456/15721
-#EXTINF:-1,AR: beIN EXTRA 2 HD
+#EXTINF:-1 group-title="BEIN SPORTS 4K",AR: beIN EXTRA 2 HD
 http://stariptv.org:8080/nour2020/123456/15722
-#EXTINF:-1,AR: beIN 1 HD
+#EXTINF:-1 group-title="BEIN SPORTS 4K",AR: beIN 1 HD
 http://stariptv.org:8080/nour2020/123456/15560
-#EXTINF:-1,AR: beIN 2 HD
+#EXTINF:-1 group-title="BEIN SPORTS 4K",AR: beIN 2 HD
 http://stariptv.org:8080/nour2020/123456/15559
-#EXTINF:-1,AR: beIN 3 HD
+#EXTINF:-1 group-title="BEIN SPORTS 4K",AR: beIN 3 HD
 http://stariptv.org:8080/nour2020/123456/15558
-#EXTINF:-1,AR: beIN 4 HD
+#EXTINF:-1 group-title="BEIN SPORTS 4K",AR: beIN 4 HD
 http://stariptv.org:8080/nour2020/123456/15557
-#EXTINF:-1,AR: beIN 5 HD
+#EXTINF:-1 group-title="BEIN SPORTS 4K",AR: beIN 5 HD
 http://stariptv.org:8080/nour2020/123456/15556
-#EXTINF:-1,AR: beIN 6 HD
+#EXTINF:-1 group-title="BEIN SPORTS 4K",AR: beIN 6 HD
 http://stariptv.org:8080/nour2020/123456/15555
-#EXTINF:-1,AR: beIN 7 HD
+#EXTINF:-1 group-title="BEIN SPORTS 4K",AR: beIN 7 HD
 http://stariptv.org:8080/nour2020/123456/15720
-#EXTINF:-1,AR: beIN 1 EN HD
+#EXTINF:-1 group-title="BEIN SPORTS 4K",AR: beIN 1 EN HD
 http://stariptv.org:8080/nour2020/123456/112461
-#EXTINF:-1,AR: beIN 2 EN HD
+#EXTINF:-1 group-title="BEIN SPORTS 4K",AR: beIN 2 EN HD
 http://stariptv.org:8080/nour2020/123456/112462
-#EXTINF:-1,AR: beIN 3 EN HD
+#EXTINF:-1 group-title="BEIN SPORTS 4K",AR: beIN 3 EN HD
 http://stariptv.org:8080/nour2020/123456/112463
-#EXTINF:-1,AR: beIN 1 FR HD
+#EXTINF:-1 group-title="BEIN SPORTS 4K",AR: beIN 1 FR HD
 http://stariptv.org:8080/nour2020/123456/112464
-#EXTINF:-1,AR: beIN 2 FR HD
+#EXTINF:-1 group-title="BEIN SPORTS 4K",AR: beIN 2 FR HD
 http://stariptv.org:8080/nour2020/123456/112465
-#EXTINF:-1,AR: beIN 3 FR HD
+#EXTINF:-1 group-title="BEIN SPORTS 4K",AR: beIN 3 FR HD
 http://stariptv.org:8080/nour2020/123456/112466
-#EXTINF:-1,AR: beIN News HD
+#EXTINF:-1 group-title="BEIN SPORTS 4K",AR: beIN News HD
 http://stariptv.org:8080/nour2020/123456/22185
-#EXTINF:-1,AR: beIN SPORT HD
+#EXTINF:-1 group-title="BEIN SPORTS 4K",AR: beIN SPORT HD
 http://stariptv.org:8080/nour2020/123456/22186
-#EXTINF:-1,beIN 1 PREMIUM LQ
+#EXTINF:-1 group-title="BEIN SPORTS 4K",beIN 1 PREMIUM LQ
 http://stariptv.org:8080/nour2020/123456/35374
-#EXTINF:-1,beIN 2 PREMIUM LQ
+#EXTINF:-1 group-title="BEIN SPORTS 4K",beIN 2 PREMIUM LQ
 http://stariptv.org:8080/nour2020/123456/35375
-#EXTINF:-1,beIN 3 PREMIUM LQ
+#EXTINF:-1 group-title="BEIN SPORTS 4K",beIN 3 PREMIUM LQ
 http://stariptv.org:8080/nour2020/123456/35366
-#EXTINF:-1,AR: beIN 1 LQ
+#EXTINF:-1 group-title="BEIN SPORTS 4K",AR: beIN 1 LQ
 http://stariptv.org:8080/nour2020/123456/35367
-#EXTINF:-1,AR: beIN 2 LQ
+#EXTINF:-1 group-title="BEIN SPORTS 4K",AR: beIN 2 LQ
 http://stariptv.org:8080/nour2020/123456/35368
-#EXTINF:-1,AR: beIN 3 LQ
+#EXTINF:-1 group-title="BEIN SPORTS 4K",AR: beIN 3 LQ
 http://stariptv.org:8080/nour2020/123456/35369
-#EXTINF:-1,AR: beIN 4 LQ
+#EXTINF:-1 group-title="BEIN SPORTS 4K",AR: beIN 4 LQ
 http://stariptv.org:8080/nour2020/123456/35370
-#EXTINF:-1,AR: beIN 5 LQ
+#EXTINF:-1 group-title="BEIN SPORTS 4K",AR: beIN 5 LQ
 http://stariptv.org:8080/nour2020/123456/35371
-#EXTINF:-1,AR: beIN 6 LQ
+#EXTINF:-1 group-title="BEIN SPORTS 4K",AR: beIN 6 LQ
 http://stariptv.org:8080/nour2020/123456/35372
-#EXTINF:-1,AR: beIN 7 LQ
+#EXTINF:-1 group-title="BEIN SPORTS 4K",AR: beIN 7 LQ
 http://stariptv.org:8080/nour2020/123456/35373
-#EXTINF: -1 tvg-logo="" group-title="SPORTS",BeinSport1 Canli
-https://1dn2.e26cc6e52169cb.cdn.fdcservers.com/test/chann2/chunklist.m3u8
-#EXTINF: -1 tvg-logo="" group-title="SPORTS",BeinSport2 Canli
-https://1dn2.e26cc6e52169cb.cdn.fdcservers.com/test/chann3/chunklist.m3u8
-#EXTINF: -1 tvg-logo="" group-title="SPORTS",BeinSport3 Canli
-https://1dn2.e26cc6e52169cb.cdn.fdcservers.com/test/chann4/chunklist.m3u8
-#EXTINF: -1 tvg-logo="" group-title="SPORTS",BeinSport4 Canli
-https://1dn2.e26cc6e52169cb.cdn.fdcservers.com/test/chann5/chunklist.m3u8
-#EXTINF: -1 tvg-logo="" group-title="SPORTS",BeinSport1 MAX
-https://1dn2.e26cc6e52169cb.cdn.fdcservers.com/test/chann6/chunklist.m3u8
-#EXTINF: -1 tvg-logo="" group-title="SPORTS",BeinSport2 MAX
-https://1dn2.e26cc6e52169cb.cdn.fdcservers.com/test/chann7/chunklist.m3u8
-#EXTINF: -1 tvg-logo="" group-title="SPORTS",BeinSport Haber
-https://1dn2.e26cc6e52169cb.cdn.fdcservers.com/test/chann8/chunklist.m3u8
-#EXTINF: -1 tvg-logo="" group-title="SPORTS",
-https://1dn2.e26cc6e52169cb.cdn.fdcservers.com/test/chann9/chunklist.m3u8
-#EXTINF: -1 tvg-logo="" group-title="SPORTS",TiviBuSport2
-https://1dn2.e26cc6e52169cb.cdn.fdcservers.com/test/chann10/chunklist.m3u8
-#EXTINF: -1 tvg-logo="" group-title="SPORTS",
-https://1dn2.e26cc6e52169cb.cdn.fdcservers.com/test/chann11/chunklist.m3u8
-#EXTINF: -1 tvg-logo="" group-title="SPORTS",
-https://1dn2.e26cc6e52169cb.cdn.fdcservers.com/test/chann12/chunklist.m3u8
-#EXTINF: -1 tvg-logo="" group-title="SPORTS",
-https://1dn2.e26cc6e52169cb.cdn.fdcservers.com/test/chann13/chunklist.m3u8
-#EXTINF: -1 tvg-logo="" group-title="SPORTS",
-https://1dn2.e26cc6e52169cb.cdn.fdcservers.com/test/chann14/chunklist.m3u8
-#EXTINF: -1 tvg-logo="" group-title="SPORTS",
-https://1dn2.e26cc6e52169cb.cdn.fdcservers.com/test/chann15/chunklist.m3u8
-#EXTINF: -1 tvg-logo="" group-title="SPORTS",
-https://1dn2.e26cc6e52169cb.cdn.fdcservers.com/test/chann16/chunklist.m3u8
-#EXTINF: -1 tvg-logo="" group-title="SPORTS",
-https://1dn2.e26cc6e52169cb.cdn.fdcservers.com/test/chann17/chunklist.m3u8
-#EXTINF: -1 tvg-logo="" group-title="SPORTS",
-https://1dn2.e26cc6e52169cb.cdn.fdcservers.com/test/chann18/chunklist.m3u8
-#EXTINF: -1 tvg-logo="" group-title="SPORTS",
-https://1dn2.e26cc6e52169cb.cdn.fdcservers.com/test/chann19/chunklist.m3u8
-#EXTINF: -1 tvg-logo="" group-title="SPORTS",
-https://1dn2.e26cc6e52169cb.cdn.fdcservers.com/test/chann20/chunklist.m3u8
-#EXTINF: -1 tvg-logo="" group-title="SPORTS",
-https://1dn2.e26cc6e52169cb.cdn.fdcservers.com/test/chann21/chunklist.m3u8
-#EXTINF: -1 tvg-logo="" group-title="SPORTS",
-https://1dn2.e26cc6e52169cb.cdn.fdcservers.com/test/chann22/chunklist.m3u8
-#EXTINF: -1 tvg-logo="" group-title="SPORTS",
-https://1dn2.e26cc6e52169cb.cdn.fdcservers.com/test/chann23/chunklist.m3u8
-#EXTINF: -1 tvg-logo="" group-title="SPORTS",
-https://1dn2.e26cc6e52169cb.cdn.fdcservers.com/test/chann24/chunklist.m3u8
-#EXTINF: -1 tvg-logo="" group-title="SPORTS",
-https://1dn2.e26cc6e52169cb.cdn.fdcservers.com/test/chann25/chunklist.m3u8
-#EXTINF: -1 tvg-logo="" group-title="SPORTS",
-https://1dn2.e26cc6e52169cb.cdn.fdcservers.com/test/chann26/chunklist.m3u8
-#EXTINF: -1 tvg-logo="" group-title="SPORTS",
-https://1dn2.e26cc6e52169cb.cdn.fdcservers.com/test/chann27/chunklist.m3u8
-#EXTINF: -1 tvg-logo="" group-title="SPORTS",
-https://1dn2.e26cc6e52169cb.cdn.fdcservers.com/test/chann28/chunklist.m3u8
-#EXTINF: -1 tvg-logo="" group-title="SPORTS",
-https://1dn2.e26cc6e52169cb.cdn.fdcservers.com/test/chann29/chunklist.m3u8
-#EXTINF: -1 tvg-logo="" group-title="SPORTS",
-https://1dn2.e26cc6e52169cb.cdn.fdcservers.com/test/chann30/chunklist.m3u8
-#EXTINF: -1 tvg-logo="" group-title="SPORTS",
-https://1dn2.e26cc6e52169cb.cdn.fdcservers.com/test/chann31/chunklist.m3u8
-#EXTINF: -1 tvg-logo="" group-title="SPORTS",
-https://1dn2.e26cc6e52169cb.cdn.fdcservers.com/test/chann32/chunklist.m3u8
-#EXTINF: -1 tvg-logo="" group-title="SPORTS",
-https://1dn2.e26cc6e52169cb.cdn.fdcservers.com/test/chann33/chunklist.m3u8
-#EXTINF: -1 tvg-logo="" group-title="SPORTS",
-https://1dn2.e26cc6e52169cb.cdn.fdcservers.com/test/chann34/chunklist.m3u8
-#EXTINF: -1 tvg-logo="" group-title="SPORTS",
-https://1dn2.e26cc6e52169cb.cdn.fdcservers.com/test/chann35/chunklist.m3u8
-#EXTINF: -1 tvg-logo="" group-title="SPORTS",
-https://1dn2.e26cc6e52169cb.cdn.fdcservers.com/test/chann36/chunklist.m3u8
-#EXTINF: -1 tvg-logo="" group-title="SPORTS",
-https://1dn2.e26cc6e52169cb.cdn.fdcservers.com/test/chann37/chunklist.m3u8
-#EXTINF: -1 tvg-logo="" group-title="SPORTS",
-https://1dn2.e26cc6e52169cb.cdn.fdcservers.com/test/chann38/chunklist.m3u8
-#EXTINF: -1 tvg-logo="" group-title="SPORTS",
-https://1dn2.e26cc6e52169cb.cdn.fdcservers.com/test/chann39/chunklist.m3u8
-#EXTINF: -1 tvg-logo="" group-title="SPORTS",
-https://1dn2.e26cc6e52169cb.cdn.fdcservers.com/test/chann40/chunklist.m3u8
-#EXTINF: -1 tvg-logo="" group-title="SPORTS",
-https://1dn2.e26cc6e52169cb.cdn.fdcservers.com/test/chann41/chunklist.m3u8
-#EXTINF: -1 tvg-logo="" group-title="SPORTS",
-https://1dn2.e26cc6e52169cb.cdn.fdcservers.com/test/chann42/chunklist.m3u8
-#EXTINF: -1 tvg-logo="" group-title="SPORTS",
-https://1dn2.e26cc6e52169cb.cdn.fdcservers.com/test/chann43/chunklist.m3u8
-#EXTINF: -1 tvg-logo="" group-title="SPORTS",
-https://1dn2.e26cc6e52169cb.cdn.fdcservers.com/test/chann44/chunklist.m3u8
-#EXTINF: -1 tvg-logo="" group-title="SPORTS",
-https://1dn2.e26cc6e52169cb.cdn.fdcservers.com/test/chann45/chunklist.m3u8
-#EXTINF: -1 tvg-logo="" group-title="SPORTS",
-https://1dn2.e26cc6e52169cb.cdn.fdcservers.com/test/chann46/chunklist.m3u8
-#EXTINF: -1 tvg-logo="" group-title="SPORTS",
-https://1dn2.e26cc6e52169cb.cdn.fdcservers.com/test/chann47/chunklist.m3u8
-#EXTINF: -1 tvg-logo="" group-title="SPORTS",
-https://1dn2.e26cc6e52169cb.cdn.fdcservers.com/test/chann48/chunklist.m3u8
-#EXTINF: -1 tvg-logo="" group-title="SPORTS",
-https://1dn2.e26cc6e52169cb.cdn.fdcservers.com/test/chann49/chunklist.m3u8
-#EXTINF: -1 tvg-logo="" group-title="SPORTS",
-https://1dn2.e26cc6e52169cb.cdn.fdcservers.com/test/chann50/chunklist.m3u8
-#EXTINF: -1 tvg-logo="" group-title="SPORTS",
-https://1dn2.e26cc6e52169cb.cdn.fdcservers.com/test/chann51/chunklist.m3u8
-#EXTINF: -1 tvg-logo="" group-title="SPORTS",
-https://1dn2.e26cc6e52169cb.cdn.fdcservers.com/test/chann52/chunklist.m3u8
-#EXTINF: -1 tvg-logo="" group-title="SPORTS",
-https://1dn2.e26cc6e52169cb.cdn.fdcservers.com/test/chann53/chunklist.m3u8
-#EXTINF: -1 tvg-logo="" group-title="SPORTS",
-https://1dn2.e26cc6e52169cb.cdn.fdcservers.com/test/chann54/chunklist.m3u8
-#EXTINF: -1 tvg-logo="" group-title="SPORTS",
-https://1dn2.e26cc6e52169cb.cdn.fdcservers.com/test/chann55/chunklist.m3u8
-#EXTINF: -1 tvg-logo="" group-title="SPORTS",
-https://1dn2.e26cc6e52169cb.cdn.fdcservers.com/test/chann56/chunklist.m3u8
-#EXTINF: -1 tvg-logo="" group-title="SPORTS",SkySport F1
-https://1dn2.e26cc6e52169cb.cdn.fdcservers.com/test/chann57/chunklist.m3u8
-#EXTINF: -1 tvg-logo="" group-title="SPORTS",
-https://1dn2.e26cc6e52169cb.cdn.fdcservers.com/test/chann58/chunklist.m3u8
-#EXTINF: -1 tvg-logo="" group-title="SPORTS",
-https://1dn2.e26cc6e52169cb.cdn.fdcservers.com/test/chann59/chunklist.m3u8
-#EXTINF: -1 tvg-logo="" group-title="SPORTS",
-https://1dn2.e26cc6e52169cb.cdn.fdcservers.com/test/chann60/chunklist.m3u8
-#EXTINF: -1 tvg-logo="" group-title="SPORTS",
-https://1dn2.e26cc6e52169cb.cdn.fdcservers.com/test/chann61/chunklist.m3u8
-#EXTINF: -1 tvg-logo="" group-title="SPORTS",
-https://1dn2.e26cc6e52169cb.cdn.fdcservers.com/test/chann62/chunklist.m3u8
-#EXTINF: -1 tvg-logo="" group-title="SPORTS",
-https://1dn2.e26cc6e52169cb.cdn.fdcservers.com/test/chann63/chunklist.m3u8
-#EXTINF: -1 tvg-logo="" group-title="SPORTS",
-https://1dn2.e26cc6e52169cb.cdn.fdcservers.com/test/chann64/chunklist.m3u8
-#EXTINF: -1 tvg-logo="" group-title="SPORTS",
-https://1dn2.e26cc6e52169cb.cdn.fdcservers.com/test/chann65/chunklist.m3u8
-#EXTINF: -1 tvg-logo="" group-title="SPORTS",
-https://1dn2.e26cc6e52169cb.cdn.fdcservers.com/test/chann66/chunklist.m3u8
-#EXTINF: -1 tvg-logo="" group-title="SPORTS",
-https://1dn2.e26cc6e52169cb.cdn.fdcservers.com/test/chann67/chunklist.m3u8
-#EXTINF: -1 tvg-logo="" group-title="SPORTS",
-https://1dn2.e26cc6e52169cb.cdn.fdcservers.com/test/chann68/chunklist.m3u8
-#EXTINF: -1 tvg-logo="" group-title="SPORTS",
-https://1dn2.e26cc6e52169cb.cdn.fdcservers.com/test/chann69/chunklist.m3u8
-#EXTINF: -1 tvg-logo="" group-title="SPORTS",
-https://1dn2.e26cc6e52169cb.cdn.fdcservers.com/test/chann70/chunklist.m3u8
-#EXTINF: -1 tvg-logo="https://bit.ly/3uKA9Cp" group-title="SPORTS", SPOTV 1
+#EXTINF:-1 group-title="SKY SPORTS",Sky Sports f1
+http://93.152.174.144:4000/play/ssportsf1/index.m3u8
+#EXTINF:-1 group-title="SKY SPORTS",Sky SPORTS F1
+http://alv.encohd.co:39591/live/wdrety/cdew23/33.m3u8
+#EXTINF:-1 group-title="SKY SPORTS",Sky SPORTS MAIN EVENT
+http://alv.encohd.co:39591/live/wdrety/cdew23/34.m3u8
+#EXTINF:-1 group-title="SKY SPORTS",Sky Sports News
+http://93.152.174.144:4000/play/skysportsnews/index.m3u8
+#EXTINF:-1 group-title="SKY SPORTS",Sky SPORTS 24
+https://skyanywhere3-i.akamaihd.net/hls/live/510697/interactive/playlist.m3u8
+#EXTINF:-1 group-title="SKY SPORTS",Sky SPORTS PREMIERE LEAGUE
+http://alv.encohd.co:39591/live/wdrety/cdew23/32.m3u8
+#EXTINF:-1 group-title="SKY SPORTS",Sky Sports 1
+http://93.152.174.144:4000/play/ssports1/index.m3u8
+#EXTINF:-1 group-title="SKY SPORTS",Sky Sports 2
+http://93.152.174.144:4000/play/skysports2/index.m3u8
+#EXTINF:-1 group-title="SKY SPORTS",Sky Sports 3
+http://93.152.174.144:4000/play/skysports3/index.m3u8
+#EXTINF:-1 group-title="SKY SPORTS",SKY SPORTS MAIN EVENT
+http://alv.encohd.co:39591/live/wdrety/cdew23/34.m3u8
+#EXTINF:-1 group-title="SKY SPORTS",Sky Sports News
+http://93.152.174.144:4000/play/skysportsnews/index.m3u8
+#EXTINF:-1 group-title="SKY SPORTS",SKY SPORTS 24
+https://skyanywhere3-i.akamaihd.net/hls/live/510697/interactive/playlist.m3u8
+#EXTINF:-1 group-title="SKY SPORTS",SKY SPORTS PREMIERE LEAGUE
+http://alv.encohd.co:39591/live/wdrety/cdew23/32.m3u8
+#EXTINF:-1 group-title="SKY SPORTS",Sky Sports 1
+http://93.152.174.144:4000/play/ssports1/index.m3u8
+#EXTINF:-1 group-title="SKY SPORTS",Sky Sports 2
+http://93.152.174.144:4000/play/skysports2/index.m3u8
+#EXTINF:-1 group-title="SKY SPORTS",Sky Sports 3
+http://93.152.174.144:4000/play/skysports3/index.m3u8
+#EXTINF:-1 group-title="FOX SPORTS",Fox Sports Premium
+http://alv.encohd.co:39591/live/wdrety/cdew23/385.m3u8
+#EXTINF:-1 group-title="FOX SPORTS",Fox Sports Premium
+http://alv.encohd.co:39591/live/wdrety/cdew23/385.m3u8
+#EXTINF:-1 group-title="FOX SPORTS",Fox Soccer plus
+http://alv.encohd.co:39591/live/wdrety/cdew23/386.m3u8
+#EXTINF:-1 group-title="FOX SPORTS",FOX SPORTS DETROIT | HD
+http://alv.encohd.co:39591/live/wdrety/cdew23/79.m3u8
+#EXTINF:-1 group-title="FOX SPORTS",FOX SPORTS FLORIDA | HD
+http://alv.encohd.co:39591/live/wdrety/cdew23/80.m3u8
+#EXTINF:-1 group-title="FOX SPORTS",FOX SPORTS MIDWEST | HD
+http://alv.encohd.co:39591/live/wdrety/cdew23/85.m3u8
+#EXTINF:-1 group-title="FOX SPORTS",FOX SPORTS SAN DIEGO | HD
+http://alv.encohd.co:39591/live/wdrety/cdew23/81.m3u8
+#EXTINF:-1 group-title="FOX SPORTS",FOX SPORTS SPORTSTIME OHIO
+http://alv.encohd.co:39591/live/wdrety/cdew23/82.m3u8
+#EXTINF:-1 group-title="FOX SPORTS",Fox Sports (Arizona) HD
+http://alv.encohd.co:39591/live/wdrety/cdew23/78.m3u8
+#EXTINF:-1 group-title="FOX SPORTS",Fox Sports (South East) HD
+http://alv.encohd.co:39591/live/wdrety/cdew23/83.m3u8
+#EXTINF:-1 group-title="FOX SPORTS",Fox Sports (South West) HD
+http://alv.encohd.co:39591/live/wdrety/cdew23/84.m3u8
+#EXTINF:-1 group-title="FOX SPORTS",Fox Sports 1
+http://200.24.132.99:8000/play/a02f
+#EXTINF:-1 group-title="FOX SPORTS",Fox Sports 1
+http://45.71.185.142:8500/play/a021
+#EXTINF:-1 group-title="FOX SPORTS",Fox Sports 2
+http://190.187.200.69:8000/play/a01k
+#EXTINF:-1 group-title="FOX SPORTS",Fox Sports 2
+http://200.24.132.99:8000/play/a028
+#EXTINF:-1 group-title="FOX SPORTS",Fox Sports 2
+http://45.71.185.142:8500/play/a01n
+#EXTINF:-1 group-title="FOX SPORTS",Fox Sports 3
+http://190.187.200.69:8000/play/a01l
+#EXTINF:-1 group-title="FOX SPORTS",Fox Sports 3
+http://200.24.132.99:8000/play/a029
+#EXTINF:-1 group-title="FOX SPORTS",Fox Sports 3
+http://45.71.185.142:8500/play/a01o
+#EXTINF:-1 group-title="FOX SPORTS",Fox Sports (Arizona) HD
+http://alv.encohd.co:39591/live/wdrety/cdew23/78.m3u8
+#EXTINF:-1 group-title="FOX SPORTS",Fox Sports (South East) HD
+http://alv.encohd.co:39591/live/wdrety/cdew23/83.m3u8
+#EXTINF:-1 group-title="FOX SPORTS",Fox Sports (South West) HD
+http://alv.encohd.co:39591/live/wdrety/cdew23/84.m3u8
+#EXTINF:-1 group-title="FOX SPORTS",Fox Sports 1
+http://200.24.132.99:8000/play/a02f
+#EXTINF:-1 group-title="FOX SPORTS",Fox Sports 1
+http://45.71.185.142:8500/play/a021
+#EXTINF:-1 group-title="FOX SPORTS",Fox Sports 2
+http://190.187.200.69:8000/play/a01k
+#EXTINF:-1 group-title="FOX SPORTS",Fox Sports 2
+http://200.24.132.99:8000/play/a028
+#EXTINF:-1 group-title="FOX SPORTS",Fox Sports 2
+http://45.71.185.142:8500/play/a01n
+#EXTINF:-1 group-title="FOX SPORTS",Fox Sports 3
+http://190.187.200.69:8000/play/a01l
+#EXTINF:-1 group-title="FOX SPORTS",Fox Sports 3
+http://200.24.132.99:8000/play/a029
+#EXTINF:-1 group-title="FOX SPORTS",Fox Sports 3
+http://45.71.185.142:8500/play/a01o
+#EXTINF:-1 group-title="FOX SPORTS",FOX SPORTS DETROIT | HD
+http://alv.encohd.co:39591/live/wdrety/cdew23/79.m3u8
+#EXTINF:-1 group-title="FOX SPORTS",FOX SPORTS FLORIDA | HD
+http://alv.encohd.co:39591/live/wdrety/cdew23/80.m3u8
+#EXTINF:-1 group-title="FOX SPORTS",FOX SPORTS MIDWEST | HD
+http://alv.encohd.co:39591/live/wdrety/cdew23/85.m3u8
+#EXTINF:-1 group-title="FOX SPORTS",FOX SPORTS SAN DIEGO | HD
+http://alv.encohd.co:39591/live/wdrety/cdew23/81.m3u8
+#EXTINF:-1 group-title="FOX SPORTS",FOX SPORTS SPORTSTIME OHIO
+http://alv.encohd.co:39591/live/wdrety/cdew23/82.m3u8
+#EXTINF:-1 group-title="SPORTS",DUBAI SPORTS
+https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 group-title="SPORTS",DUBAI SPORTS 2
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 group-title="SPORTS",DUBAI SPORTS 3
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 group-title="SPORTS",ESPORTES CATALUÑA Futbol Sala
+https://directes-tv-cat.ccma.cat/cat/ngrp:es3_web/.m3u8
+#EXTINF:-1 group-title="SPORTS",ESPORTES CATALUÑA Futbol Sala
+https://directes-tv-es.ccma.cat/es/ngrp:es3_mobil/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS",EUROSPORT 1
+http://myott.top/stream/1VGPHYLZTH/192.m3u8
+#EXTINF:-1 group-title="SPORTS",XSPORT
+http://iptv.prosto.tv:7000/ch109/video.m3u8
+#EXTINF:-1 group-title="SPORTS",XSPORT
+http://iptv.prosto.tv:7000/ch110/video.m3u8
+#EXTINF:-1 group-title="SPORTS",XSPORT+
+http://iptv.prosto.tv:7000/ch117/video.m3u8
+#EXTINF:-1 group-title="SPORTS",Vivaro Sports 2
+http://135.181.178.91/vmedia_live/2/mono.m3u8
+#EXTINF:-1 group-title="SPORTS",Vivaro Sports 3
+http://135.181.178.91/vmedia_live/3/mono.m3u8
+#EXTINF:-1 group-title="SPORTS",A Sports HD
+http://221.120.204.4/LOCKLE-A-SPORTS/index.m3u8
+#EXTINF:-1 group-title="SPORTS",Live Sports (pk)
+http://221.120.204.4/LOCKLE-A-SPORTS/index.m3u8
+#EXTINF:-1 group-title="SPORTS",Local Now Sports (720p)
+https://d39jokgb64z0et.cloudfront.net/dist/localnow/86/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS",Star Sports 1
+http://103.55.144.46/hls/stersports1hd.m3u8
+#EXTINF:-1 group-title="SPORTS",Star Sports 1 HD
+http://flussonicusa.bdcabletv.com:80/PCPSCEDAQt/ou0mthW/868
+#EXTINF:-1 group-title="SPORTS",Star Sports 2 HD
+http://103.55.144.46/hls/starsports2.m3u8
+#EXTINF:-1 group-title="SPORTS",Star Sports Select 2
+http://103.55.144.46/hls/select2.m3u8
+#EXTINF:-1 group-title="SPORTS",SuperSport PSL
+http://178.218.196.218:8000/play/a009/index.m3u8?token=1234678887643fgjkfe23579ijbcdsw3457ide5788kbdsuioi754
+#EXTINF:-1 group-title="SPORTS",SuperSport PSL
+http://178.218.196.218:8000/play/a009/index.m3u8
+#EXTINF:-1 group-title="SPORTS",SuperSportGrand.action
+http://178.218.196.218:8000/play/a008/index.m3u8
+#EXTINF:-1 group-title="SPORTS",SuperSportGrand.action
+http://178.218.196.218:8000/play/a008/index.m3u8?token=1234678887643fgjkfe23579ijbcdsw3457ide5788kbdsuioi754
+#EXTINF:-1 group-title="SPORTS",Sport Channel
+http://210.210.155.35/qwr9ew/s/s41/01.m3u8
+#EXTINF:-1 group-title="SPORTS",Sport Channel
+http://210.210.155.35/qwr9ew/s/s41/02.m3u8
+#EXTINF:-1 group-title="SPORTS",Sports TV
+https://live.sportstv.com.tr/hls/low/sportstv.m3u8
+#EXTINF:-1 group-title="SPORTS",Sports Tonight (576p)
+http://sports.ashttp9.visionip.tv/live/visiontvuk-sports-sportstonightlive-hsslive-25f-4x3-SD/chunklist.m3u8
+#EXTINF:-1 group-title="SPORTS",Sporty Stuff TV (1080p)
+https://ayozat-live.secure2.footprint.net/egress/bhandler/ayozat/sportystufftv/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS",T sports HD
+http://103.70.140.27:8080/hls/tsports.m3u8
+#EXTINF:-1 group-title="SPORTS",BT SPORT 1
+http://93.152.174.144:4000/play/btsport1/index.m3u8
+#EXTINF:-1 group-title="SPORTS",BT SPORT 2
+http://93.152.174.144:4000/play/btsport2/index.m3u8
+#EXTINF:-1 group-title="SPORTS",BT SPORT 3
+http://93.152.174.144:4000/play/btsport3/index.m3u8
+#EXTINF:-1 group-title="SPORTS",TNT SPORTS
+https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
+#EXTINF:-1 group-title="SPORTS",TNT Sports
+http://alv.encohd.co:39591/live/wdrety/cdew23/99.m3u8
+#EXTINF:-1 group-title="SPORTS",TNT Sports
+https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
+#EXTINF:-1 group-title="SPORTS",TNT Sports 2
+http://alv.encohd.co:39591/live/wdrety/cdew23/94.m3u8
+#EXTINF:-1 group-title="SPORTS",TNT Sports 2
+http://190.210.221.119/Processor3_10_chunklist_b1300000.m3u8
+#EXTINF:-1 group-title="SPORTS",TNT Sports 3 Brasil
+https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
+#EXTINF:-1 group-title="SPORTS",TNT Sports 4 Brasil
+https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
+#EXTINF:-1 group-title="SPORTS",TNT Sports 5 Brasil
+https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
+#EXTINF:-1 group-title="SPORTS",TNT USA
+http://alv.encohd.co:39591/live/wdrety/cdew23/526.m3u8
+#EXTINF:-1 group-title="SPORTS",SPORT TV 1 PT
+http://93.152.174.144:4000/play/sporttv1/index.m3u8
+#EXTINF:-1 group-title="SPORTS",ALL SPORTS TV
+https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
+#EXTINF:-1 group-title="SPORTS",Tyc Sports
+http://alv.encohd.co:39591/live/wdrety/cdew23/389.m3u8
+#EXTINF:-1 group-title="SPORTS",XSPORT
+http://iptv.prosto.tv:7000/ch109/video.m3u8
+#EXTINF:-1 group-title="SPORTS",XSPORT
+http://iptv.prosto.tv:7000/ch110/video.m3u8
+#EXTINF:-1 group-title="SPORTS",XSPORT+
+http://iptv.prosto.tv:7000/ch117/video.m3u8
+#EXTINF:-1 group-title="SPORTS",Vivaro Sports 2
+http://135.181.178.91/vmedia_live/2/mono.m3u8
+#EXTINF:-1 group-title="SPORTS",Vivaro Sports 3
+http://135.181.178.91/vmedia_live/3/mono.m3u8
+#EXTINF:-1 group-title="SPORTS",A Sports HD
+http://221.120.204.4/LOCKLE-A-SPORTS/index.m3u8
+#EXTINF:-1 group-title="SPORTS",Claro Sports
+http://190.187.200.69:8000/play/a02a
+#EXTINF:-1 group-title="SPORTS",DD Sports
+http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
+#EXTINF:-1 group-title="SPORTS",DUBAI SPORTS
+https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 group-title="SPORTS",DUBAI SPORTS 2
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 group-title="SPORTS",DUBAI SPORTS 3
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 group-title="SPORTS",ESPORTES CATALUÑA Futbol Sala
+https://directes-tv-cat.ccma.cat/cat/ngrp:es3_web/.m3u8
+#EXTINF:-1 group-title="SPORTS",ESPORTES CATALUÑA Futbol Sala
+https://directes-tv-es.ccma.cat/es/ngrp:es3_mobil/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS",EUROSPORT 1
+http://myott.top/stream/1VGPHYLZTH/192.m3u8
+#EXTINF:-1 group-title="SPORTS",EXTREME TV
+http://myott.top/stream/1VGPHYLZTH/148.m3u8
+#EXTINF:-1 group-title="SPORTS",Edge Sport
+https://edgesport-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS",Viasat Sport
+http://iptv.prosto.tv:7000/ch282/video.m3u8
+#EXTINF:-1 group-title="SPORTS",Viasat Sport
+http://myott.top/stream/1VGPHYLZTH/102.m3u8
+#EXTINF:-1 group-title="SPORTS",Viasat Sport
+http://myott.top/stream/1VGPHYLZTH/333.m3u8
+#EXTINF:-1 group-title="SPORTS",Star Sports 1
+http://103.55.144.46/hls/stersports1hd.m3u8
+#EXTINF:-1 group-title="SPORTS",Star Sports 1 HD
+http://flussonicusa.bdcabletv.com:80/PCPSCEDAQt/ou0mthW/868
+#EXTINF:-1 group-title="SPORTS",Star Sports 2 HD
+http://103.55.144.46/hls/starsports2.m3u8
+#EXTINF:-1 group-title="SPORTS",Star Sports Select 2
+http://103.55.144.46/hls/select2.m3u8
+#EXTINF:-1 group-title="SPORTS",SuperSport PSL
+http://178.218.196.218:8000/play/a009/index.m3u8?token=1234678887643fgjkfe23579ijbcdsw3457ide5788kbdsuioi754
+#EXTINF:-1 group-title="SPORTS",SuperSport PSL
+http://178.218.196.218:8000/play/a009/index.m3u8
+#EXTINF:-1 group-title="SPORTS",SuperSportGrand.action
+http://178.218.196.218:8000/play/a008/index.m3u8
+#EXTINF:-1 group-title="SPORTS",SuperSportGrand.action
+http://178.218.196.218:8000/play/a008/index.m3u8?token=1234678887643fgjkfe23579ijbcdsw3457ide5788kbdsuioi754
+#EXTINF:-1 group-title="SPORTS",T sports HD
+http://103.70.140.27:8080/hls/tsports.m3u8
+#EXTINF:-1 group-title="SPORTS",TV 2 Sporten (720p)
+https://ws31-hls-live.akamaized.net/out/u/1416253.m3u8
+#EXTINF:-1 group-title="SPORTS",TVRI SPORT
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
+#EXTINF:-1 group-title="SPORTS",TVS Boxing (720p)
+https://rpn1.bozztv.com/36bay2/gusa-tvsboxing/index.m3u8
+#EXTINF:-1 group-title="SPORTS",TVS Sports (720p) [Not 24/7]
+https://rpn1.bozztv.com/36bay2/gusa-tvssports/index.m3u8
+#EXTINF:-1 group-title="SPORTS",TVS Sports Bureau (720p)
+https://rpn1.bozztv.com/36bay2/gusa-tvssportsbureau/index.m3u8
+#EXTINF:-1 group-title="SPORTS",TVS Turbo (360p)
+https://rpn1.bozztv.com/36bay2/gusa-tvsturbo/index.m3u8
+#EXTINF:-1 group-title="SPORTS",TVS Women Sports (480p)
+https://rpn1.bozztv.com/36bay2/gusa-tvswsn/index.m3u8
+#EXTINF:-1 group-title="SPORTS",Ten Sports
+http://103.55.144.46/hls/ten.m3u8
+#EXTINF:-1 group-title="SPORTS",Trace Sport Stars
+http://iptv.prosto.tv:7000/ch236/video.m3u8
+#EXTINF:-1 group-title="Qita tv",SPOTV 1
 https://m3u-editor.com/serve/11hkjpa3t5/508568942.m3u8
-#EXTINF: -1 tvg-logo="https://bit.ly/3uKA9Cp" group-title="SPORTS", SPOTV 1 line2
+#EXTINF:-1 group-title="Qita tv",SPOTV 1 line2
 https://m3u-editor.com/serve/11hkjpa3t5/508568943
-#EXTINF: -1 tvg-logo="https://bit.ly/365bsGr" group-title="SPORTS", SPOTV 2line2
+#EXTINF:-1 group-title="Qita tv",SPOTV 2line2
 https://m3u-editor.com/serve/11hkjpa3t5/508568946
-#EXTINF: -1 tvg-logo="https://bit.ly/365bsGr" group-title="SPORTS", SPOTV 2 Opt3
+#EXTINF:-1 group-title="Qita tv",SPOTV 2 Opt3
 https://m3u-editor.com/serve/11hkjpa3t5/508568947
-#EXTINF: -1 tvg-logo="https://bit.ly/3B6iJAr" group-title="SPORTS", Astro Arena
+#EXTINF:-1 group-title="Qita tv",Astro Arena
 https://m3u-editor.com/serve/11hkjpa3t5/508568948.m3u8
-#EXTINF: -1 tvg-logo="https://bit.ly/3B6iJAr" group-title="SPORTS", Astro Arena line2
+#EXTINF:-1 group-title="Qita tv",Astro Arena line2
 https://m3u-editor.com/serve/11hkjpa3t5/508568949
-#EXTINF: -1 tvg-logo="https://bit.ly/3B6iJAr" group-title="SPORTS", Astro Arena line 3
+#EXTINF:-1 group-title="Qita tv",Astro Arena line 3
 https://m3u-editor.com/serve/11hkjpa3t5/508568950
-#EXTINF: -1 tvg-logo="https://bit.ly/3CWA8vU" group-title="SPORTS", Astro Rugby
+#EXTINF:-1 group-title="Qita tv",Astro Rugby
 https://m3u-editor.com/serve/11hkjpa3t5/508568951
-#EXTINF: -1 tvg-logo="https://bit.ly/3CWA8vU" group-title="SPORTS", Astro Rugby Opt2
+#EXTINF:-1 group-title="Qita tv",Astro Rugby Opt2
 https://m3u-editor.com/serve/11hkjpa3t5/508568952
-#EXTINF: -1 tvg-logo="https://bit.ly/3CWA8vU" group-title="SPORTS", Astro Rugby Opt3
+#EXTINF:-1 group-title="Qita tv",Astro Rugby Opt3
 https://m3u-editor.com/serve/11hkjpa3t5/508568953
-#EXTINF: -1 tvg-logo="https://bit.ly/3l18gk4" group-title="SPORTS", Astro Cricket
+#EXTINF:-1 group-title="Qita tv",Astro Cricket
 https://m3u-editor.com/serve/11hkjpa3t5/508568954
-#EXTINF: -1 tvg-logo="https://bit.ly/3l18gk4" group-title="SPORTS", Astro Cricket Opt2
+#EXTINF:-1 group-title="Qita tv",Astro Cricket Opt2
 https://m3u-editor.com/serve/11hkjpa3t5/508568955
-#EXTINF: -1 tvg-logo="https://bit.ly/3l18gk4" group-title="SPORTS", Astro Cricket Opt3
+#EXTINF:-1 group-title="Qita tv",Astro Cricket Opt3
 https://m3u-editor.com/serve/11hkjpa3t5/508568956
-
-
-山药代码
-搜索
-Mình có mở dịch vụ YAM Slick (nhấp để xem chi tiết) - bán tài khoản Netflix Premium v​​ới giá xí muội。嗨 vọng ae ủng hộ！
-头像
- 无标题
- 客人 577 2022 年 4 月 7 日
-
-标记 40.93 KB复制 分享 生的 下载 克隆 嵌入 报告 打印
-#EXTM3U
-#EXTINF:-1,01.LIGA DE CAMPEONES
+#EXTINF:-1 group-title="Qita tv",01.LIGA DE CAMPEONES
 http://luces.ultratotal.ml/xls/campin/index.m3u8
-#EXTINF:-1,01.LIGA DE CAMPEONES
+#EXTINF:-1 group-title="Qita tv",01.LIGA DE CAMPEONES
 http://loga.ultratotal.ml/xls/campin/index.m3u8
-#EXTINF:-1,02.LIGA DE CAMPEONES
+#EXTINF:-1 group-title="Qita tv",02.LIGA DE CAMPEONES
 http://alv.encohd.co:39591/live/wdrety/cdew23/528.m3u8
-#EXTINF:-1,03.LaLiga
+#EXTINF:-1 group-title="Qita tv",03.LaLiga
 http://luces.ultratotal.ml/xls/ligota/index.m3u8
-#EXTINF:-1,03.LaLiga
+#EXTINF:-1 group-title="Qita tv",03.LaLiga
 http://loga.ultratotal.ml/xls/ligota/index.m3u8
-#EXTINF:-1,04.LaLiga
+#EXTINF:-1 group-title="Qita tv",04.LaLiga
 http://alv.encohd.co:39591/live/wdrety/cdew23/31.m3u8
-#EXTINF:-1,05.LaLiga
+#EXTINF:-1 group-title="Qita tv",05.LaLiga
 http://93.152.174.144:4000/play/beinlaliga/index.m3u8
-#EXTINF:-1,06.LaLiga
+#EXTINF:-1 group-title="Qita tv",06.LaLiga
 http://alv.encohd.co:39591/live/wdrety/cdew23/387.m3u8
-#EXTINF:-1,07.Directv (LaLiga)
+#EXTINF:-1 group-title="Qita tv",07.Directv (LaLiga)
 http://190.210.221.119/Processor3_9_chunklist_b1300000.m3u8
-#EXTINF:-1,07.ELEVEN 1
+#EXTINF:-1 group-title="Qita tv",07.ELEVEN 1
 http://213.13.23.132/shls/LIVE$Eleven_Sports_1_HD.CVL/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
-#EXTINF:-1,07.ELEVEN 2
+#EXTINF:-1 group-title="Qita tv",07.ELEVEN 2
 http://213.13.23.132/shls/LIVE$Eleven_Sports_2_HD.CVL/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
-#EXTINF:-1,07.ELEVEN 3
+#EXTINF:-1 group-title="Qita tv",07.ELEVEN 3
 http://213.13.23.132/shls/LIVE$Eleven_Sports_3_HD.CVL/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
-#EXTINF:-1,07.RMC 1
+#EXTINF:-1 group-title="Qita tv",07.RMC 1
 https://stream.mmsiptv.com/droid/rmc1/playlist.m3u8
-#EXTINF:-1,07.RMC 2
+#EXTINF:-1 group-title="Qita tv",07.RMC 2
 https://stream.mmsiptv.com/droid/rmc2/playlist.m3u8
-#EXTINF:-1,07.RMC 3
+#EXTINF:-1 group-title="Qita tv",07.RMC 3
 https://stream.mmsiptv.com/droid/rmc3/playlist.m3u8
-#EXTINF:-1,07.SETANTA SPORTS 1
+#EXTINF:-1 group-title="Qita tv",07.SETANTA SPORTS 1
 http://myott.top/stream/1VGPHYLZTH/234.m3u8
-#EXTINF:-1,07.SETANTA SPORTS 2
+#EXTINF:-1 group-title="Qita tv",07.SETANTA SPORTS 2
 http://myott.top/stream/1VGPHYLZTH/235.m3u8
-#EXTINF:-1,08.ESPN (LaLiga)
+#EXTINF:-1 group-title="Qita tv",08.ESPN (LaLiga)
 http://190.210.221.119/Processor3_8_chunklist_b1300000.m3u8
-#EXTINF:-1,09.ESPN
+#EXTINF:-1 group-title="Qita tv",09.ESPN
 http://190.187.200.69:8000/play/a01e
-#EXTINF:-1,09.ESPN
+#EXTINF:-1 group-title="Qita tv",09.ESPN
 http://200.24.132.99:8000/play/a022
-#EXTINF:-1,09.ESPN
+#EXTINF:-1 group-title="Qita tv",09.ESPN
 http://190.2.214.100:9000/play/a01l
-#EXTINF:-1,09.ESPN
+#EXTINF:-1 group-title="Qita tv",09.ESPN
 http://45.71.185.142:8500/play/a01e
-#EXTINF:-1,09.ESPN 2
+#EXTINF:-1 group-title="Qita tv",09.ESPN 2
 http://190.187.200.69:8000/play/a015
-#EXTINF:-1,09.ESPN 2
+#EXTINF:-1 group-title="Qita tv",09.ESPN 2
 http://200.24.132.99:8000/play/a01v
-#EXTINF:-1,09.ESPN 2
+#EXTINF:-1 group-title="Qita tv",09.ESPN 2
 http://190.2.214.100:9000/play/a018
-#EXTINF:-1,09.ESPN 2
+#EXTINF:-1 group-title="Qita tv",09.ESPN 2
 http://45.71.185.142:8500/play/a015
-#EXTINF:-1,09.ESPN 2 Latin
+#EXTINF:-1 group-title="Qita tv",09.ESPN 2 Latin
 http://190.187.200.69:8000/play/a01d
-#EXTINF:-1,09.ESPN 2 Latin
+#EXTINF:-1 group-title="Qita tv",09.ESPN 2 Latin
 http://200.24.132.99:8000/play/a021
-#EXTINF:-1,09.ESPN 2 Latin
+#EXTINF:-1 group-title="Qita tv",09.ESPN 2 Latin
 http://190.2.214.100:9000/play/a01k
-#EXTINF:-1,09.ESPN 3
+#EXTINF:-1 group-title="Qita tv",09.ESPN 3
 http://190.187.200.69:8000/play/a028
-#EXTINF:-1,09.ESPN 3
+#EXTINF:-1 group-title="Qita tv",09.ESPN 3
 http://200.24.132.99:8000/play/a02w
-#EXTINF:-1,09.ESPN 3
+#EXTINF:-1 group-title="Qita tv",09.ESPN 3
 http://190.2.214.100:9000/play/a02b
-#EXTINF:-1,09.ESPN 4
+#EXTINF:-1 group-title="Qita tv",09.ESPN 4
 http://190.187.200.69:8000/play/a01v
-#EXTINF:-1,09.ESPN 4
+#EXTINF:-1 group-title="Qita tv",09.ESPN 4
 http://190.2.214.100:9000/play/a01z
-#EXTINF:-1,09.ESPN 4 HD
+#EXTINF:-1 group-title="Qita tv",09.ESPN 4 HD
 http://190.2.214.100:9000/play/a03e
-#EXTINF:-1,09.ESPN ARG. (LaLiga)
+#EXTINF:-1 group-title="Qita tv",09.ESPN ARG. (LaLiga)
 http://alv.encohd.co:39591/live/wdrety/cdew23/534.m3u8
-#EXTINF:-1,09.ESPN CO
+#EXTINF:-1 group-title="Qita tv",09.ESPN CO
 http://200.24.132.99:8000/play/a02m
-#EXTINF:-1,09.ESPN EXTRA HD
+#EXTINF:-1 group-title="Qita tv",09.ESPN EXTRA HD
 http://190.2.214.100:9000/play/a02v
-#EXTINF:-1,09.ESPN HD
+#EXTINF:-1 group-title="Qita tv",09.ESPN HD
 http://190.2.214.100:9000/play/a03i
-#EXTINF:-1,10.VivaroSports (LaLiga)
+#EXTINF:-1 group-title="Qita tv",10.VivaroSports (LaLiga)
 http://135.181.178.91/vmedia_live/1/mono.m3u8
-#EXTINF:-1,11.SUPERSPORT LaLiga
+#EXTINF:-1 group-title="Qita tv",11.SUPERSPORT LaLiga
 http://178.218.196.218:8000/play/a00d/index.m3u8
-#EXTINF:-1,12.SUPERSPORTS LaLiga
+#EXTINF:-1 group-title="Qita tv",12.SUPERSPORTS LaLiga
 http://178.218.196.218:8000/play/a00d/index.m3u8?token=1234678887643fgjkfe23579ijbcdsw3457ide5788kbdsuioi754
-#EXTINF:-1,13.ARENA 1 PREMIUM (LaLiga)
+#EXTINF:-1 group-title="Qita tv",13.ARENA 1 PREMIUM (LaLiga)
 http://46.29.169.15:4001/play/a00g/index.m3u8
-#EXTINF:-1,14.ARENA 2 PREMIUM (LaLiga)
+#EXTINF:-1 group-title="Qita tv",14.ARENA 2 PREMIUM (LaLiga)
 http://46.29.169.15:4001/play/a00h/index.m3u8
-#EXTINF:-1,15.Directv Sports
+#EXTINF:-1 group-title="Qita tv",15.Directv Sports
 http://alv.encohd.co:39591/live/wdrety/cdew23/382.m3u8
-#EXTINF:-1,16.Directv Sports 2
+#EXTINF:-1 group-title="Qita tv",16.Directv Sports 2
 http://alv.encohd.co:39591/live/wdrety/cdew23/383.m3u8
-#EXTINF:-1,17.Bein Sport 1 AR (LaLiga)
+#EXTINF:-1 group-title="Qita tv",17.Bein Sport 1 AR (LaLiga)
 http://93.152.174.144:4000/play/bein1ar/index.m3u8
-#EXTINF:-1,18.TURKMENISTAN SPORTS (LaLiga)
+#EXTINF:-1 group-title="Qita tv",18.TURKMENISTAN SPORTS (LaLiga)
 http://217.174.225.146/hls/ch004_720/index.m3u8
-#EXTINF:-1,19.Bein Sports 2 FR (LaLiga)
+#EXTINF:-1 group-title="Qita tv",19.Bein Sports 2 FR (LaLiga)
 http://93.152.174.144:4000/play/bein2fr/index.m3u8
-#EXTINF:-1,20.DAZN F1
+#EXTINF:-1 group-title="Qita tv",20.DAZN F1
 http://luces.ultratotal.ml/xls/formulax/index.m3u8
-#EXTINF:-1,20.DAZN F1
+#EXTINF:-1 group-title="Qita tv",20.DAZN F1
 http://loga.ultratotal.ml/xls/formulax/index.m3u8
-#EXTINF:-1,21.DAZN F1
+#EXTINF:-1 group-title="Qita tv",21.DAZN F1
 http://alv.encohd.co:39591/live/wdrety/cdew23/72.m3u8
-#EXTINF:-1,22.DAZN MotoGP
+#EXTINF:-1 group-title="Qita tv",22.DAZN MotoGP
 http://luces.ultratotal.ml/xls/dazzzmoto/index.m3u8
-#EXTINF:-1,22.Moto Gp
+#EXTINF:-1 group-title="Qita tv",22.Moto Gp
 http://loga.ultratotal.ml/xls/dazzzmoto/index.m3u8
-#EXTINF:-1,23.Sky Sports f1
-http://93.152.174.144:4000/play/ssportsf1/index.m3u8
-#EXTINF:-1,24.SKY SPORTS F1
-http://alv.encohd.co:39591/live/wdrety/cdew23/33.m3u8
-#EXTINF:-1,25.BEIN SPORTS ing (LaLiga)
-http://178.218.196.218:8000/play/a00l/index.m3u8?token=1234678887643fgjkfe23579ijbcdsw3457ide5788kbdsuioi754
-#EXTINF:-1,26.BEIN SPORTS English 1
-http://178.218.196.218:8000/play/a00l/index.m3u8
-#EXTINF:-1,27.Bein Sport 1 FR (LaLiga)
-http://93.152.174.144:4000/play/bein1fr/index.m3u8
-#EXTINF:-1,28.Bein Sports 3 FR
-http://93.152.174.144:4000/play/bein3fr/index.m3u8
-#EXTINF:-1,29.Brasil 11
-https://d2ve4fchffi4n1.cloudfront.net/out/v1/df356edd16f3434ab417f2c48cb1d516/index_2.m3u8
-#EXTINF:-1,30.BEIN SPORTS Extra
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c82b290-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=672c13ed-c11c-4ba2-b749-117f2f0aab45&userId=&serverSideAds=true
-#EXTINF:-1,31.BEIN SPORTS Extra ñ
-https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8
-#EXTINF:-1,32.Astro SuperSport 3
-http://178.218.196.218:8000/play/a004/index.m3u8?token=1234678887643fgjkfe23579ijbcdsw3457ide5788kbdsuioi754
-#EXTINF:-1,33.Bein Sports 3 AR
-http://93.152.174.144:4000/play/bein3ar/index.m3u8
-#EXTINF:-1,34.Bein Sports 7 AR
-http://93.152.174.144:4000/play/bein7/index.m3u8
-#EXTINF:-1,35.Eurosport 1
-http://213.151.233.20:8000/dna-6069-tv-pc/hls/4001v105.m3u8
-#EXTINF:-1,36.EUROSPORT 1 HD
-http://alv.encohd.co:39591/live/wdrety/cdew23/95.m3u8
-#EXTINF:-1,37.EUROSPORT 2
-http://alv.encohd.co:39591/live/wdrety/cdew23/96.m3u8
-#EXTINF:-1,39.ESPN 2 ARGENTINA
-http://alv.encohd.co:39591/live/wdrety/cdew23/541.m3u8
-#EXTINF:-1,41.ESPN 3 ARGENTINA
-http://alv.encohd.co:39591/live/wdrety/cdew23/540.m3u8
-#EXTINF:-1,43.ESPN U
-http://alv.encohd.co:39591/live/wdrety/cdew23/361.m3u8
-#EXTINF:-1,46.Astro SuperSport 3
-http://178.218.196.218:8000/play/a004/index.m3u8
-#EXTINF:-1,47.BT SPORT ESPN
-http://93.152.174.144:4000/play/btsportespn/index.m3u8
-#EXTINF:-1,51.SS ESPN
-http://178.218.196.218:8000/play/a00k/index.m3u8?token=1234678887643fgjkfe23579ijbcdsw3457ide5788kbdsuioi754
-#EXTINF:-1,52.SS ESPN
-http://178.218.196.218:8000/play/a00k/index.m3u8
-#EXTINF:-1,54.Fox Sports Premium
-http://alv.encohd.co:39591/live/wdrety/cdew23/385.m3u8
-#EXTINF:-1,55.Fox Sports pluto (720p)
-https://stitcher.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=3fab7580-8b86-11e8-a44b-996a399dacd8&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=67.0.3396.99&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
-#EXTINF:-1,56.Fox Soccer plus
+#EXTINF:-1 group-title="Qita tv",56.Fox Soccer plus
 http://alv.encohd.co:39591/live/wdrety/cdew23/386.m3u8
-#EXTINF:-1,57.Claro Sports
+#EXTINF:-1 group-title="Qita tv",57.Claro Sports
 http://alv.encohd.co:39591/live/wdrety/cdew23/104.m3u8
-#EXTINF:-1,58.AD 1
+#EXTINF:-1 group-title="Qita tv",58.AD 1
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
-#EXTINF:-1,59.AD 2
+#EXTINF:-1 group-title="Qita tv",59.AD 2
 https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
-#EXTINF:-1,60.AD 3
+#EXTINF:-1 group-title="Qita tv",60.AD 3
 http://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
-#EXTINF:-1,61.AD 4
+#EXTINF:-1 group-title="Qita tv",61.AD 4
 http://admdn4.cdn.mangomolo.com/adsports4/smil:adsports4.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
-#EXTINF:-1,62.A SPOR FHD
+#EXTINF:-1 group-title="Qita tv",62.A SPOR FHD
 https://trkvz-live.daioncdn.net/aspor/aspor.m3u8
-#EXTINF:-1,63.Win Sports
+#EXTINF:-1 group-title="Qita tv",63.Win Sports
 http://alv.encohd.co:39591/live/wdrety/cdew23/384.m3u8
-#EXTINF:-1,64.Eleven
+#EXTINF:-1 group-title="Qita tv",64.Eleven
 https://europe-west-hls.mls.mycujoo.tv/esgp/cl00w43l43gje0116jt3vcfru/720p/playlist.m3u8
-#EXTINF:-1,65.Eleven Sports
+#EXTINF:-1 group-title="Qita tv",65.Eleven Sports
 http://alv.encohd.co:39591/live/wdrety/cdew23/365.m3u8
-#EXTINF:-1,66.Arryadia (360p)
+#EXTINF:-1 group-title="Qita tv",66.Arryadia (360p)
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/index.m3u8
-#EXTINF:-1,67.BAHRAIN SPORTS
-https://5c7b683162943.streamlock.net/live/ngrp:Bahrain Sports_all/playlist.m3u8
-#EXTINF:-1,68.Cable Onda Sports FHD
+#EXTINF:-1 group-title="Qita tv",67.BAHRAIN SPORTS
+https://5c7b683162943.streamlock.net/live/ngrp:Bahrain
+#EXTINF:-1 group-title="Qita tv",68.Cable Onda Sports FHD
 http://iptvmedia.live:8080/FM10008/ee54fb4b/148643
-#EXTINF:-1,69.Estadio Sports 2 Brasil
+#EXTINF:-1 group-title="Qita tv",69.Estadio Sports 2 Brasil
 https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
-#EXTINF:-1,70.SKY SPORTS MAIN EVENT
-http://alv.encohd.co:39591/live/wdrety/cdew23/34.m3u8
-#EXTINF:-1,71.Sky Sports News
-http://93.152.174.144:4000/play/skysportsnews/index.m3u8
-#EXTINF:-1,72.SKY SPORTS 24
-https://skyanywhere3-i.akamaihd.net/hls/live/510697/interactive/playlist.m3u8
-#EXTINF:-1,73.SKY SPORTS PREMIERE LEAGUE
-http://alv.encohd.co:39591/live/wdrety/cdew23/32.m3u8
-#EXTINF:-1,74.Sky Sports 1
-http://93.152.174.144:4000/play/ssports1/index.m3u8
-#EXTINF:-1,75.Sky Sports 2
-http://93.152.174.144:4000/play/skysports2/index.m3u8
-#EXTINF:-1,76.Sky Sports 3
-http://93.152.174.144:4000/play/skysports3/index.m3u8
-#EXTINF:-1,77.DEPORTV
+#EXTINF:-1 group-title="Qita tv",77.DEPORTV
 https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8
-#EXTINF:-1,78.EQUALIMPIC
+#EXTINF:-1 group-title="Qita tv",78.EQUALIMPIC
 http://iptv.prosto.tv:7000/ch378/video.m3u8
-#EXTINF:-1,79.BT SPORT 1
-http://93.152.174.144:4000/play/btsport1/index.m3u8
-#EXTINF:-1,80.BT SPORT 2
-http://93.152.174.144:4000/play/btsport2/index.m3u8
-#EXTINF:-1,81.BT SPORT 3
-http://93.152.174.144:4000/play/btsport3/index.m3u8
-#EXTINF:-1,82.TNT SPORTS
-https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
-#EXTINF:-1,83.TNT Sports
-http://alv.encohd.co:39591/live/wdrety/cdew23/99.m3u8
-#EXTINF:-1,84.TNT Sports
-https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
-#EXTINF:-1,85.TNT Sports 2
-http://alv.encohd.co:39591/live/wdrety/cdew23/94.m3u8
-#EXTINF:-1,86.TNT Sports 2
-http://190.210.221.119/Processor3_10_chunklist_b1300000.m3u8
-#EXTINF:-1,87.TNT Sports 3 Brasil
-https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
-#EXTINF:-1,88.TNT Sports 4 Brasil
-https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
-#EXTINF:-1,89.TNT Sports 5 Brasil
-https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
-#EXTINF:-1,90.TNT USA
+#EXTINF:-1 group-title="Qita tv",90.TNT USA
 http://alv.encohd.co:39591/live/wdrety/cdew23/526.m3u8
-#EXTINF:-1,91.SPORT TV 1 PT
+#EXTINF:-1 group-title="Qita tv",91.SPORT TV 1 PT
 http://93.152.174.144:4000/play/sporttv1/index.m3u8
-#EXTINF:-1,92.ALL SPORTS TV
+#EXTINF:-1 group-title="Qita tv",92.ALL SPORTS TV
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
-#EXTINF:-1,93.Tyc Sports
+#EXTINF:-1 group-title="Qita tv",93.Tyc Sports
 http://alv.encohd.co:39591/live/wdrety/cdew23/389.m3u8
-#EXTINF:-1,94.FS1 MLS
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb626cfcaf83414128f439c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c7d8272-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=83907acb-ee3c-4b1f-8026-c92526fccb6e&userId=&serverSideAds=true
-#EXTINF:-1,95.XSPORT
-http://iptv.prosto.tv:7000/ch109/video.m3u8
-#EXTINF:-1,96.XSPORT
-http://iptv.prosto.tv:7000/ch110/video.m3u8
-#EXTINF:-1,97.XSPORT+
-http://iptv.prosto.tv:7000/ch117/video.m3u8
-#EXTINF:-1,98.Vivaro Sports 2
-http://135.181.178.91/vmedia_live/2/mono.m3u8
-#EXTINF:-1,99.Vivaro Sports 3
-http://135.181.178.91/vmedia_live/3/mono.m3u8
-#EXTINF:-1,A Sports HD
-http://221.120.204.4/LOCKLE-A-SPORTS/index.m3u8
-#EXTINF:-1,ACC Network (720p)
+#EXTINF:-1 group-title="Qita tv",ACC Network (720p)
 https://a.jsrdn.com/broadcast/542cb2ce3c/+0000/c.m3u8
-#EXTINF:-1,ASXTV FIGHTS
+#EXTINF:-1 group-title="Qita tv",ASXTV FIGHTS
 https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
-#EXTINF:-1,AXS Fight
+#EXTINF:-1 group-title="Qita tv",AXS Fight
 https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
-#EXTINF:-1,AutoMoto (Bumblebee) (720p)
+#EXTINF:-1 group-title="Qita tv",AutoMoto (Bumblebee) (720p)
 https://stitcheraws.unreel.me/wse-node01.powr.com/live/5bf220fad5eeee0f5a40941a/playlist.m3u8
-#EXTINF:-1,Boxeo Ruso
+#EXTINF:-1 group-title="Qita tv",Boxeo Ruso
 http://myott.top/stream/1VGPHYLZTH/112.m3u8
-#EXTINF:-1,Boxeo Ruso 2
+#EXTINF:-1 group-title="Qita tv",Boxeo Ruso 2
 http://myott.top/stream/1VGPHYLZTH/154.m3u8
-#EXTINF:-1,CANAL MOTOR
+#EXTINF:-1 group-title="Qita tv",CANAL MOTOR
 http://digicom.hls.iptvdc.com/canalmotor/tracks-v1a1/mono.m3u8
-#EXTINF:-1,CAZA Y PESCA RUSA
+#EXTINF:-1 group-title="Qita tv",CAZA Y PESCA RUSA
 http://myott.top/stream/1VGPHYLZTH/155.m3u8
-#EXTINF:-1,COMBATE AMÉRICAS
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5bb1ac3e268cae539bcedb07/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=970&deviceId=5bb1ac3e268cae539bcedb07&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1,Caza y pesca rusa
+#EXTINF:-1 group-title="Qita tv",Caza y pesca rusa
 http://myott.top/stream/1VGPHYLZTH/194.m3u8
-#EXTINF:-1,Channel Fight (720p)
+#EXTINF:-1 group-title="Qita tv",Channel Fight (720p)
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=68
-#EXTINF:-1,Claro Sports
+#EXTINF:-1 group-title="Qita tv",Claro Sports
 http://190.187.200.69:8000/play/a02a
-#EXTINF:-1,DD Sports
+#EXTINF:-1 group-title="Qita tv",DD Sports
 http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
-#EXTINF:-1,DUBAI SPORTS
-https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
-#EXTINF:-1,DUBAI SPORTS 2
-https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
-#EXTINF:-1,DUBAI SPORTS 3
-https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
-#EXTINF:-1,ESPORTES CATALUÑA Futbol Sala
-https://directes-tv-cat.ccma.cat/cat/ngrp:es3_web/.m3u8
-#EXTINF:-1,ESPORTES CATALUÑA Futbol Sala
-https://directes-tv-es.ccma.cat/es/ngrp:es3_mobil/playlist.m3u8
-#EXTINF:-1,EUROSPORT 1
-http://myott.top/stream/1VGPHYLZTH/192.m3u8
-#EXTINF:-1,EXTREME TV
+#EXTINF:-1 group-title="Qita tv",EXTREME TV
 http://myott.top/stream/1VGPHYLZTH/148.m3u8
-#EXTINF:-1,Edge Sport
+#EXTINF:-1 group-title="Qita tv",Edge Sport
 https://edgesport-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1,El Garage TV (480p)
+#EXTINF:-1 group-title="Qita tv",El Garage TV (480p)
 http://186.0.233.76:1935/Garage/smil:garage.smil/master.m3u8
-#EXTINF:-1,Eurosport 1
+#EXTINF:-1 group-title="Qita tv",Eurosport 1
 http://myott.top/stream/1VGPHYLZTH/176.m3u8
-#EXTINF:-1,FIGHT PLUS
+#EXTINF:-1 group-title="Qita tv",FIGHT PLUS
 https://a.jsrdn.com/broadcast/47cff5378f/+0000/high/c.m3u8
-#EXTINF:-1,FIGHT SPORTS (1080p)
+#EXTINF:-1 group-title="Qita tv",FIGHT SPORTS (1080p)
 https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index.m3u8
-#EXTINF:-1,FIGHTBOX
+#EXTINF:-1 group-title="Qita tv",FIGHTBOX
 http://92.43.140.249/s86/04.m3u8
-#EXTINF:-1,FIGHTBOX
+#EXTINF:-1 group-title="Qita tv",FIGHTBOX
 http://iptv.prosto.tv:7000/ch118/video.m3u8
-#EXTINF:-1,FISHING NETWORK
+#EXTINF:-1 group-title="Qita tv",FISHING NETWORK
 http://alv.encohd.co:39591/live/wdrety/cdew23/30.m3u8
-#EXTINF:-1,FITE
+#EXTINF:-1 group-title="Qita tv",FITE
 https://cdn-cf.fite.tv/linear/fite247/4038629_fite-247/live_722/chunks.m3u8
-#EXTINF:-1,FOX SPORTS DETROIT | HD
-http://alv.encohd.co:39591/live/wdrety/cdew23/79.m3u8
-#EXTINF:-1,FOX SPORTS FLORIDA | HD
-http://alv.encohd.co:39591/live/wdrety/cdew23/80.m3u8
-#EXTINF:-1,FOX SPORTS MIDWEST | HD
-http://alv.encohd.co:39591/live/wdrety/cdew23/85.m3u8
-#EXTINF:-1,FOX SPORTS SAN DIEGO | HD
-http://alv.encohd.co:39591/live/wdrety/cdew23/81.m3u8
-#EXTINF:-1,FOX SPORTS SPORTSTIME OHIO
-http://alv.encohd.co:39591/live/wdrety/cdew23/82.m3u8
-#EXTINF:-1,FS2
+#EXTINF:-1 group-title="Qita tv",FS2
 http://alv.encohd.co:39591/live/wdrety/cdew23/362.m3u8
-#EXTINF:-1,Fight Network (1080p)
+#EXTINF:-1 group-title="Qita tv",Fight Network (1080p)
 https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
-#EXTINF:-1,Fights TV
+#EXTINF:-1 group-title="Qita tv",Fights TV
 http://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
-#EXTINF:-1,Fox Sports (Arizona) HD
-http://alv.encohd.co:39591/live/wdrety/cdew23/78.m3u8
-#EXTINF:-1,Fox Sports (South East) HD
-http://alv.encohd.co:39591/live/wdrety/cdew23/83.m3u8
-#EXTINF:-1,Fox Sports (South West) HD
-http://alv.encohd.co:39591/live/wdrety/cdew23/84.m3u8
-#EXTINF:-1,Fox Sports 1
-http://200.24.132.99:8000/play/a02f
-#EXTINF:-1,Fox Sports 1
-http://45.71.185.142:8500/play/a021
-#EXTINF:-1,Fox Sports 2
-http://190.187.200.69:8000/play/a01k
-#EXTINF:-1,Fox Sports 2
-http://200.24.132.99:8000/play/a028
-#EXTINF:-1,Fox Sports 2
-http://45.71.185.142:8500/play/a01n
-#EXTINF:-1,Fox Sports 3
-http://190.187.200.69:8000/play/a01l
-#EXTINF:-1,Fox Sports 3
-http://200.24.132.99:8000/play/a029
-#EXTINF:-1,Fox Sports 3
-http://45.71.185.142:8500/play/a01o
-#EXTINF:-1,GOL TV
+#EXTINF:-1 group-title="Qita tv",GOL TV
 http://200.24.132.99:8000/play/a023
-#EXTINF:-1,GOL TV
+#EXTINF:-1 group-title="Qita tv",GOL TV
 http://45.71.185.142:8500/play/a03b
-#EXTINF:-1,Geo Super
+#EXTINF:-1 group-title="Qita tv",Geo Super
 http://221.120.204.4/geo-super-LOCKLE/index.m3u8
-#EXTINF:-1,Glory Kickboxing (720p)
+#EXTINF:-1 group-title="Qita tv",Glory Kickboxing (720p)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxglorykickboxing/CDN/playlist.m3u8
-#EXTINF:-1,Gol
-https://vsd113.mycdn.me/hls/1112805149299.m3u8/sig/ZuNO2y-SgqY/expires/1649019495053/srcIp/213.177.208.134/clientType/0/srcAg/CHROME_ANDROID/mid/2342360456819/video.m3u8
-#EXTINF:-1,Golf Channel HD
-http://168.232.168.242:8000/play/a05x/index.m3u8
-#EXTINF:-1,HARD KNOCKS
-https://d397e8970cd346fdac04c0af81290c3a.mediatailor.us-west-2.amazonaws.com/v1/manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Hard-Knocks-DistroTV/b1feac42-e3af-4c3b-82fd-0537aa66ffb2/1.m3u8
-#EXTINF:-1,Hard Knocks (720p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxhardknocksfightingchampionship/CDN/playlist.m3u8
-#EXTINF:-1,Harley Davidson Racing TV EN (1080p)
-https://hdtv.prod2.ioio.tv/broker/play/de245a96-516c-413d-81e9-419c05bbc6a7.m3u8
-#EXTINF:-1,IMPACT WRESTLING
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/59b722526996084038c01e1b/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=734&deviceId=59b722526996084038c01e1b&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1,IMPACT! Wrestling
-https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
-#EXTINF:-1,KHL
+#EXTINF:-1 group-title="Qita tv",KHL
 http://myott.top/stream/1VGPHYLZTH/166.m3u8
-#EXTINF:-1,KHL PRIME
+#EXTINF:-1 group-title="Qita tv",KHL PRIME
 http://myott.top/stream/1VGPHYLZTH/178.m3u8
-#EXTINF:-1,KOK
+#EXTINF:-1 group-title="Qita tv",KOK
 https://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
-#EXTINF:-1,LAX SPORTS
+#EXTINF:-1 group-title="Qita tv",LAX SPORTS
 https://1840769862.rsc.cdn77.org/FTF/LSN_SCTE.m3u8
-#EXTINF:-1,LFC
+#EXTINF:-1 group-title="Qita tv",LFC
 http://178.218.196.218:8000/play/a00b/index.m3u8
-#EXTINF:-1,LFC
-http://178.218.196.218:8000/play/a00b/index.m3u8?token=1234678887643fgjkfe23579ijbcdsw3457ide5788kbdsuioi754
-#EXTINF:-1,LUCHA LIBRE AAA
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f99a772c54853000797bf18/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff49451-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=9aaa87da-0575-49b4-b5a5-36b710bfce58&userId=&serverSideAds=true
-#EXTINF:-1,LUCHA LIBRE AAA 2
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c01df1759ee03633e7b272c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c7aea60-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=9e96a0f6-ac42-4164-a333-6f430bfee437&userId=&serverSideAds=true
-#EXTINF:-1,Live Sports (pk)
-http://221.120.204.4/LOCKLE-A-SPORTS/index.m3u8
-#EXTINF:-1,Local Now Sports (720p)
-https://d39jokgb64z0et.cloudfront.net/dist/localnow/86/hls/master/playlist.m3u8
-#EXTINF:-1,MMA Junkie (720p)
+#EXTINF:-1 group-title="Qita tv",MMA Junkie (720p)
 https://a.jsrdn.com/broadcast/80f6ba72c8/+0000/c.m3u8
-#EXTINF:-1,MMA TV (720p)
-https://mmatv-live.localnowlive.com/v1/manifest/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_61327d317542b31350435482_mmatv-live/a504c826-6950-4b5b-a518-171d9aef07ee/4.m3u8
-#EXTINF:-1,MOSTVIDEO
+#EXTINF:-1 group-title="Qita tv",MOSTVIDEO
 http://iptv.prosto.tv:7000/ch119/video.m3u8
-#EXTINF:-1,MUTV
+#EXTINF:-1 group-title="Qita tv",MUTV
 http://178.218.196.218:8000/play/a00i/index.m3u8
-#EXTINF:-1,MUTV
+#EXTINF:-1 group-title="Qita tv",MUTV
 http://178.218.196.218:8000/play/a00i/index.m3u8?token=1234678887643fgjkfe23579ijbcdsw3457ide5788kbdsuioi754
-#EXTINF:-1,Maroc SPORT
+#EXTINF:-1 group-title="Qita tv",Maroc SPORT
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia-avc1_1500000=4-mp4a_130400_qad=1.m3u8
-#EXTINF:-1,MavTV
+#EXTINF:-1 group-title="Qita tv",MavTV
 https://mavtv-1.sinclair.wurl.com/manifest/2000.m3u8
-#EXTINF:-1,MavTV Europe (720p)
+#EXTINF:-1 group-title="Qita tv",MavTV Europe (720p)
 https://mavtv-mavtvglobal-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,MotorCyclist (Bumblebee) (1080p)
+#EXTINF:-1 group-title="Qita tv",MotorCyclist (Bumblebee) (1080p)
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf2218bd5eeee0f5a40941b/playlist.m3u8
-#EXTINF:-1,Motors Tv (720p)
+#EXTINF:-1 group-title="Qita tv",Motors Tv (720p)
 http://digicom.hls.iptvdc.com/canalmotor/index.m3u8
-#EXTINF:-1,Motorsport Tv
+#EXTINF:-1 group-title="Qita tv",Motorsport Tv
 http://myott.top/stream/1VGPHYLZTH/300.m3u8
-#EXTINF:-1,Motorvision (XUMO)
+#EXTINF:-1 group-title="Qita tv",Motorvision (XUMO)
 https://dai2-xumo.fubo.tv/amagi_hls_data_xumo1212A-motorvisiontv/CDN/master.m3u8
-#EXTINF:-1,NBA
+#EXTINF:-1 group-title="Qita tv",NBA
 https://d17f1mg1q6g54e.cloudfront.net/hls/nbatv/playlist.m3u8
-#EXTINF:-1,New Japan Pro Wrestling World
+#EXTINF:-1 group-title="Qita tv",New Japan Pro Wrestling World
 https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_channel01_3/chunklist_DVR.m3u8
-#EXTINF:-1,Oman Sports TV (1080p)
+#EXTINF:-1 group-title="Qita tv",Oman Sports TV (1080p)
 https://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/playlist.m3u8
-#EXTINF:-1,One Golf
+#EXTINF:-1 group-title="Qita tv",One Golf
 http://162.250.201.58:6211/pk/ONEGOLF/playlist.m3u8
-#EXTINF:-1,Ovacion TV (720p) [Not 24/7]
+#EXTINF:-1 group-title="Qita tv",Ovacion TV (720p) [Not 24/7]
 http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
-#EXTINF:-1,PLUTO TV DEPORTES
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde07af1c85b0009b18651/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff02781-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6c194052-40df-42cc-9f20-2b709fc61bb8&userId=&serverSideAds=true
-#EXTINF:-1,PLUTO TV FIGHT
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812b0f2237a6ff45d16c3f9/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c751e00-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ea3d6036-364f-4958-aca9-ec488a93eafb&userId=&serverSideAds=true
-#EXTINF:-1,PLUTO TV PELEAS
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e98b0447665f200078caded/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff22353-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b0686c66-1d05-479c-a6d5-c3f2eb338b63&userId=&serverSideAds=true
-#EXTINF:-1,PRO WRESTLING
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fac431fc1ffbc0007e6b6a7/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=732&deviceId=5fac431fc1ffbc0007e6b6a7&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1,PROSTO DRIVE
+#EXTINF:-1 group-title="Qita tv",PROSTO DRIVE
 http://iptv.prosto.tv:7000/ch326/video.m3u8
-#EXTINF:-1,PTV Sports
+#EXTINF:-1 group-title="Qita tv",PTV Sports
 http://103.55.144.46/hls/ptv.m3u8
-#EXTINF:-1,PXTV
+#EXTINF:-1 group-title="Qita tv",PXTV
 http://168.232.168.242:8000/play/a00h/index.m3u8
-#EXTINF:-1,Partidos
+#EXTINF:-1 group-title="Qita tv",Partidos
 http://init.cheches.info/hls/103.m3u8
-#EXTINF:-1,Pluto ALL ELITE WRESTLING
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d1697f10a0e000798ed8d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff30db0-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=99bea8e3-f5b3-42e7-a4e7-081bf207b1bc&userId=&serverSideAds=true
-#EXTINF:-1,Pluto TV Action Sports (720p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5db867744f229f0009266784/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5db867744f229f0009266784&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=759&terminate=false&userId=
-#EXTINF:-1,Pluto TV Boxing (720p)
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fac425f949b4600079938f3/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1,Pluto TV Glory Kickboxing (720p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ad9be1be738977e2c312134/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5ad9be1be738977e2c312134&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=f6e88030-d7c8-47c8-8fed-7e24dd0a038a&terminate=false&userId=
-#EXTINF:-1,Pluto TV IMPACT Wrestling (720p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/59b722526996084038c01e1b/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=59b722526996084038c01e1b&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=734&terminate=false&userId=
-#EXTINF:-1,Pluto TV MLB (720p)
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e66968a70f34c0007d050be/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1,Pluto TV MLS (720p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb626cfcaf83414128f439c/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=2.7.4-9a7fc53e0c1da468e3c566c3f53e98a36ca1f97b&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=9f228953-21cb-4b82-a393-dd32d047379f&deviceLat=45.4994&deviceLon=-73.5703&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=76.0.3809.132&serverSideAds=true&sid=d1634607-2892-447a-b316-17a106f905fb&userId=
-#EXTINF:-1,Pluto TV Motor
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0510962948d000961d3c6/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1,Pluto TV NFL Channel (720p)
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ced7d5df64be98e07ed47b6/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ced7d5df64be98e07ed47b6&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=708&terminate=false&userId=
-#EXTINF:-1,Pluto TV Pluto Action Sports (720p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5be1be871843b56328bc3ef1/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5be1be871843b56328bc3ef1&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=8a1b4593-8596-4ff8-8720-2c3271ea36ca&terminate=false&userId=
-#EXTINF:-1,Pluto TV Pro Wrestling (720p)
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fac431fc1ffbc0007e6b6a7/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1,Pluto TV Sports (720p)
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6081310e48d3200007afaf3b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c8bf322-e98a-11eb-a932-2f3c780ff9ff&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0727f4fb-ea0b-4814-bb58-fdf3c4534220
-#EXTINF:-1,Pluto TV Sports (England) (720p)
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d7677fa2ec536ce1d587eeb/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d7677fa2ec536ce1d587eeb&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=607&terminate=false&userId=
-#EXTINF:-1,Red Bull TV (1080p)
-https://dms.redbull.tv/v3/linear-borb/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYXRlZ29yeSI6InBlcnNvbmFsX2NvbXB1dGVyIiwiY291bnRyeV9jb2RlIjoidXMiLCJleHBpcmVzIjoiMjAxNy0wOS0xNlQxNzo0NjowMy45NjM0NjI4NDJaIiwib3NfZmFtaWx5IjoiaHR0cCIsInJlbW90ZV9pcCI6IjEwLjE1Ny4xMTIuMTQ4IiwidWEiOiJNb3ppbGxhLzUuMCAoTWFjaW50b3NoOyBJbnRlbCBNYWMgT1MgWCAxMF8xMl81KSBBcHBsZVdlYktpdC82MDMuMi40IChLSFRNTCwgbGlrZSBHZWNrbykgVmVyc2lvbi8xMC4xLjEgU2FmYXJpLzYwMy4yLjQiLCJ1aWQiOiJkOGZiZWYzMC0yZDhhLTQwYTUtOGNjNy0wNzgxNGJhMTliNzMifQ.Q_38FNpW3so5yrA5FQt9qBuix3dTulKpb6uQ0dRjrtY/playlist.m3u8
-#EXTINF:-1,Red Bull TV (1080p)
+#EXTINF:-1 group-title="Qita tv",Red Bull TV (1080p)
 https://i.mjh.nz/nz/tv.redbull.tv.m3u8
-#EXTINF:-1,Red Bull TV (1080p)
+#EXTINF:-1 group-title="Qita tv",Red Bull TV (1080p)
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-#EXTINF:-1,RedBull Batalla de Gallos (720p)
+#EXTINF:-1 group-title="Qita tv",RedBull Batalla de Gallos (720p)
 https://videostreaming.cloudserverlatam.com/Batalladegallos/Batalladegallos/playlist.m3u8
-#EXTINF:-1,RikSports HD
+#EXTINF:-1 group-title="Qita tv",RikSports HD
 https://nn.geo.joj.sk/live/hls/rik-540.m3u8
-#EXTINF:-1,Ring of Honor Wrestling (720p)
+#EXTINF:-1 group-title="Qita tv",Ring of Honor Wrestling (720p)
 https://stadium-ringofhonor-1.sinclair.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,SPORTV TUR
+#EXTINF:-1 group-title="Qita tv",SPORTV TUR
 https://mn-nl.mncdn.com/blutv_sportstv2/live.m3u8
-#EXTINF:-1,SPOTV
-https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/profile_0/chunklist.m3u8?hdnea=st=1647742017~exp=9007200902483008~acl=/99545824f51f4c1592b35314c6ece3b0/*/profile_0/chunklist.m3u8*~hmac=ba49523d8cd91a52cd1139a9ddd9e39ec9ad17948e861abcc99fe6196e4a3dc2"
-#EXTINF:-1,SSV1
+#EXTINF:-1 group-title="Qita tv",SSV1
 http://178.218.196.218:8000/play/a00c/index.m3u8
-#EXTINF:-1,SSV1
+#EXTINF:-1 group-title="Qita tv",SSV1
 http://178.218.196.218:8000/play/a00c/index.m3u8?token=1234678887643fgjkfe23579ijbcdsw3457ide5788kbdsuioi754
-#EXTINF:-1,SSV2
+#EXTINF:-1 group-title="Qita tv",SSV2
 http://178.218.196.218:8000/play/a00e/index.m3u8
-#EXTINF:-1,SSV2
+#EXTINF:-1 group-title="Qita tv",SSV2
 http://178.218.196.218:8000/play/a00e/index.m3u8?token=1234678887643fgjkfe23579ijbcdsw3457ide5788kbdsuioi754
-#EXTINF:-1,SSV3
+#EXTINF:-1 group-title="Qita tv",SSV3
 http://178.218.196.218:8000/play/a00f/index.m3u8
-#EXTINF:-1,SSV3
+#EXTINF:-1 group-title="Qita tv",SSV3
 http://178.218.196.218:8000/play/a00f/index.m3u8?token=1234678887643fgjkfe23579ijbcdsw3457ide5788kbdsuioi754
-#EXTINF:-1,SSV4
+#EXTINF:-1 group-title="Qita tv",SSV4
 http://178.218.196.218:8000/play/a00g/index.m3u8
-#EXTINF:-1,SSV4
+#EXTINF:-1 group-title="Qita tv",SSV4
 http://178.218.196.218:8000/play/a00g/index.m3u8?token=1234678887643fgjkfe23579ijbcdsw3457ide5788kbdsuioi754
-#EXTINF:-1,STAR SPORTS 1 HD
+#EXTINF:-1 group-title="Qita tv",STAR SPORTS 1 HD
 http://103.135.133.21/hls/stream3.m3u8
-#EXTINF:-1,STIRR MavTV (720p)
+#EXTINF:-1 group-title="Qita tv",STIRR MavTV (720p)
 https://dai.google.com/linear/hls/event/YoBM0ae5Q62TPdrfFHS4RQ/master.m3u8
-#EXTINF:-1,STIRR Stadium (720p)
+#EXTINF:-1 group-title="Qita tv",STIRR Stadium (720p)
 http://stadium.sinclair.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,STIRR Whistle Sports (720p)
+#EXTINF:-1 group-title="Qita tv",STIRR Whistle Sports (720p)
 https://dai.google.com/linear/hls/event/Wu11mwhnTKGNhwZimEK6Jg/master.m3u8
-#EXTINF:-1,SWISS SPORT TV
+#EXTINF:-1 group-title="Qita tv",SWISS SPORT TV
 https://cdn02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/chunklist_w1922077967_b2628000.m3u8
-#EXTINF:-1,San Marino RTV Sport (720p)
+#EXTINF:-1 group-title="Qita tv",San Marino RTV Sport (720p)
 https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/smil:ch-02.smil/master.m3u8
-#EXTINF:-1,Sony Six HD
+#EXTINF:-1 group-title="Qita tv",Sony Six HD
 http://103.55.144.46/hls/sonysix.m3u8
-#EXTINF:-1,Sony Ten 1 HD
+#EXTINF:-1 group-title="Qita tv",Sony Ten 1 HD
 http://103.55.144.46/hls/sonyten1.m3u8
-#EXTINF:-1,Sony Ten 2
+#EXTINF:-1 group-title="Qita tv",Sony Ten 2
 http://103.55.144.46/hls/sonyten2.m3u8
-#EXTINF:-1,Sony Ten 3 HD
+#EXTINF:-1 group-title="Qita tv",Sony Ten 3 HD
 http://103.55.144.46/hls/sonyten3.m3u8
-#EXTINF:-1,Sport Channel
-http://210.210.155.35/qwr9ew/s/s41/01.m3u8
-#EXTINF:-1,Sport Channel
-http://210.210.155.35/qwr9ew/s/s41/02.m3u8
-#EXTINF:-1,Sports TV
-https://live.sportstv.com.tr/hls/low/sportstv.m3u8
-#EXTINF:-1,Sports Tonight (576p)
-http://sports.ashttp9.visionip.tv/live/visiontvuk-sports-sportstonightlive-hsslive-25f-4x3-SD/chunklist.m3u8
-#EXTINF:-1,Sporty Stuff TV (1080p)
-https://ayozat-live.secure2.footprint.net/egress/bhandler/ayozat/sportystufftv/playlist.m3u8
-#EXTINF:-1,Stadium
+#EXTINF:-1 group-title="Qita tv",Stadium
 http://alv.encohd.co:39591/live/wdrety/cdew23/358.m3u8
-#EXTINF:-1,Stadium (720p)
+#EXTINF:-1 group-title="Qita tv",Stadium (720p)
 https://dai2.xumo.com/amagi_hls_data_xumo1234A-stadiumsports/CDN/master.m3u8
-#EXTINF:-1,Star Sports 1
-http://103.55.144.46/hls/stersports1hd.m3u8
-#EXTINF:-1,Star Sports 1 HD
-http://flussonicusa.bdcabletv.com:80/PCPSCEDAQt/ou0mthW/868
-#EXTINF:-1,Star Sports 2 HD
-http://103.55.144.46/hls/starsports2.m3u8
-#EXTINF:-1,Star Sports Select 2
-http://103.55.144.46/hls/select2.m3u8
-#EXTINF:-1,SuperSport PSL
-http://178.218.196.218:8000/play/a009/index.m3u8?token=1234678887643fgjkfe23579ijbcdsw3457ide5788kbdsuioi754
-#EXTINF:-1,SuperSport PSL
-http://178.218.196.218:8000/play/a009/index.m3u8
-#EXTINF:-1,SuperSportGrand.action
-http://178.218.196.218:8000/play/a008/index.m3u8
-#EXTINF:-1,SuperSportGrand.action
-http://178.218.196.218:8000/play/a008/index.m3u8?token=1234678887643fgjkfe23579ijbcdsw3457ide5788kbdsuioi754
-#EXTINF:-1,T sports HD
-http://103.70.140.27:8080/hls/tsports.m3u8
-#EXTINF:-1,TDP
+#EXTINF:-1 group-title="Qita tv",TDP
 https://rtvelivestreamv3.akamaized.net/tdp/tdp_main_dvr.m3u8
-#EXTINF:-1,TDP
+#EXTINF:-1 group-title="Qita tv",TDP
 https://rtvelivestreamv3.akamaized.net/rtvesec/tdp_bkp_dvr.m3u8
-#EXTINF:-1,TDP
+#EXTINF:-1 group-title="Qita tv",TDP
 https://ztnr.rtve.es/ztnr/1712295.m3u8
-#EXTINF:-1,TENNIS
+#EXTINF:-1 group-title="Qita tv",TENNIS
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
-#EXTINF:-1,TENNIS Channel
+#EXTINF:-1 group-title="Qita tv",TENNIS Channel
 https://dai.google.com/linear/hls/event/Dlqr46ybTSGWGTfRWcxS0g/master.m3u8
-#EXTINF:-1,TENNIS Channel +
+#EXTINF:-1 group-title="Qita tv",TENNIS Channel +
 https://70.32.30.155:443/proxy.php/https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8
-#EXTINF:-1,TENNIS USA
+#EXTINF:-1 group-title="Qita tv",TENNIS USA
 http://alv.encohd.co:39591/live/wdrety/cdew23/529.m3u8
-#EXTINF:-1,TV 2 Sporten (720p)
+#EXTINF:-1 group-title="Qita tv",TV 2 Sporten (720p)
 https://ws31-hls-live.akamaized.net/out/u/1416253.m3u8
-#EXTINF:-1,TV GAMER @PlutoTV
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca7f16c37b88b2694731c79/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c7d5b62-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=a8311f10-8c2e-45bb-a408-7e2c579d7adb&userId=&serverSideAds=true
-#EXTINF:-1,TV SPORTS @PlutoTV
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/56340779a738201b4ccfeac9/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff334c2-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=dffc36b9-57c6-4973-9903-2f83d465ac40&userId=&serverSideAds=true
-#EXTINF:-1,TVG 2 Celta B
-https://events1-crtvg.flumotion.com/playlist.m3u8
-#EXTINF:-1,TVRI SPORT
+#EXTINF:-1 group-title="Qita tv",TVRI SPORT
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
-#EXTINF:-1,TVS Boxing (720p)
+#EXTINF:-1 group-title="Qita tv",TVS Boxing (720p)
 https://rpn1.bozztv.com/36bay2/gusa-tvsboxing/index.m3u8
-#EXTINF:-1,TVS Sports (720p) [Not 24/7]
+#EXTINF:-1 group-title="Qita tv",TVS Sports (720p) [Not 24/7]
 https://rpn1.bozztv.com/36bay2/gusa-tvssports/index.m3u8
-#EXTINF:-1,TVS Sports Bureau (720p)
+#EXTINF:-1 group-title="Qita tv",TVS Sports Bureau (720p)
 https://rpn1.bozztv.com/36bay2/gusa-tvssportsbureau/index.m3u8
-#EXTINF:-1,TVS Turbo (360p)
+#EXTINF:-1 group-title="Qita tv",TVS Turbo (360p)
 https://rpn1.bozztv.com/36bay2/gusa-tvsturbo/index.m3u8
-#EXTINF:-1,TVS Women Sports (480p)
+#EXTINF:-1 group-title="Qita tv",TVS Women Sports (480p)
 https://rpn1.bozztv.com/36bay2/gusa-tvswsn/index.m3u8
-#EXTINF:-1,Ten Sports
+#EXTINF:-1 group-title="Qita tv",Ten Sports
 http://103.55.144.46/hls/ten.m3u8
-#EXTINF:-1,Trace Sport Stars
+#EXTINF:-1 group-title="Qita tv",Trace Sport Stars
 http://iptv.prosto.tv:7000/ch236/video.m3u8
-#EXTINF:-1,Trace Sportstars
-http://tracesportstars-samsunges.amagi.tv/hls/amagi_hls_data_samsunguk-tracesport-samsungspain/CDN/playlist.m3u8?device[did]={PSID}&device[dnt]={TARGETOPT}&tc_string={TC_STRING}&app_name={APP_NAME}&coppa=0
-#EXTINF:-1,TritonFight [HD]
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812b0f2237a6ff45d16c3f9/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=726&deviceId=5812b0f2237a6ff45d16c3f9&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1,TyC
+#EXTINF:-1 group-title="Qita tv",TyC
 http://190.187.200.69:8000/play/a01g
-#EXTINF:-1,TyC
+#EXTINF:-1 group-title="Qita tv",TyC
 http://200.24.132.99:8000/play/a024
-#EXTINF:-1,TyC
+#EXTINF:-1 group-title="Qita tv",TyC
 http://190.2.214.100:9000/play/a01n
-#EXTINF:-1,UDAR
+#EXTINF:-1 group-title="Qita tv",UDAR
 http://myott.top/stream/1VGPHYLZTH/279.m3u8
-#EXTINF:-1,UFC 1 Fight Pass
+#EXTINF:-1 group-title="Qita tv",UFC 1 Fight Pass
 http://alv.encohd.co:39591/live/wdrety/cdew23/378.m3u8
-#EXTINF:-1,UFC 2
+#EXTINF:-1 group-title="Qita tv",UFC 2
 https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
-#EXTINF:-1,Viasat Sport
+#EXTINF:-1 group-title="Qita tv",Viasat Sport
 http://iptv.prosto.tv:7000/ch282/video.m3u8
-#EXTINF:-1,Viasat Sport
+#EXTINF:-1 group-title="Qita tv",Viasat Sport
 http://myott.top/stream/1VGPHYLZTH/102.m3u8
-#EXTINF:-1,Viasat Sport
+#EXTINF:-1 group-title="Qita tv",Viasat Sport
 http://myott.top/stream/1VGPHYLZTH/333.m3u8
-#EXTINF:-1,WWE NETWORK
+#EXTINF:-1 group-title="Qita tv",WWE NETWORK
 http://93.152.174.144:4000/play/WWE/index.m3u8
-#EXTINF:-1,WWE US
+#EXTINF:-1 group-title="Qita tv",WWE US
 http://alv.encohd.co:39591/live/wdrety/cdew23/86.m3u8
-#EXTINF:-1,Win
+#EXTINF:-1 group-title="Qita tv",Win
 http://190.2.214.100:9000/play/a027
-#EXTINF:-1,Win Sports+ HD
+#EXTINF:-1 group-title="Qita tv",Win Sports+ HD
 http://190.2.214.100:9000/play/a032
-#EXTINF:-1,Wired2Fish (720p)
+#EXTINF:-1 group-title="Qita tv",Wired2Fish (720p)
 https://linear-80.frequency.stream/dist/localnow/80/hls/master/playlist.m3u8
-#EXTINF:-1,Wired2Fish (720p)
+#EXTINF:-1 group-title="Qita tv",Wired2Fish (720p)
 https://linear-80.frequency.stream/dist/localnow/80/hls/master/playlist.m3u8
-#EXTINF:-1,XSPORT+
+#EXTINF:-1 group-title="Qita tv",XSPORT+
 http://myott.top/stream/1VGPHYLZTH/332.m3u8
-#EXTINF:-1,XStream
+#EXTINF:-1 group-title="Qita tv",XStream
 http://iptv.prosto.tv:7000/ch313/video.m3u8
-#EXTINF:-1,Астрахань.Ru Sport
+#EXTINF:-1 group-title="Qita tv",Астрахань.Ru Sport
 https://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v1a1/index.m3u8
-#EXTINF:-1,Астрахань.Ru Sport
+#EXTINF:-1 group-title="Qita tv",Астрахань.Ru Sport
 https://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v2a1/index.m3u8
-#EXTINF:-1,Астрахань.Ru Sport
+#EXTINF:-1 group-title="Qita tv",Астрахань.Ru Sport
 https://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v3a1/index.m3u8
-
-#EXTINF:-1,01.LIGA DE CAMPEONES
+#EXTINF:-1 group-title="Qita tv",01.LIGA DE CAMPEONES
 http://luces.ultratotal.ml/xls/campin/index.m3u8
-#EXTINF:-1,01.LIGA DE CAMPEONES
+#EXTINF:-1 group-title="Qita tv",01.LIGA DE CAMPEONES
 http://loga.ultratotal.ml/xls/campin/index.m3u8
-#EXTINF:-1,02.LIGA DE CAMPEONES
+#EXTINF:-1 group-title="Qita tv",02.LIGA DE CAMPEONES
 http://alv.encohd.co:39591/live/wdrety/cdew23/528.m3u8
-#EXTINF:-1,03.LaLiga
+#EXTINF:-1 group-title="Qita tv",03.LaLiga
 http://luces.ultratotal.ml/xls/ligota/index.m3u8
-#EXTINF:-1,03.LaLiga
+#EXTINF:-1 group-title="Qita tv",03.LaLiga
 http://loga.ultratotal.ml/xls/ligota/index.m3u8
-#EXTINF:-1,04.LaLiga
+#EXTINF:-1 group-title="Qita tv",04.LaLiga
 http://alv.encohd.co:39591/live/wdrety/cdew23/31.m3u8
-#EXTINF:-1,05.LaLiga
+#EXTINF:-1 group-title="Qita tv",05.LaLiga
 http://93.152.174.144:4000/play/beinlaliga/index.m3u8
-#EXTINF:-1,06.LaLiga
+#EXTINF:-1 group-title="Qita tv",06.LaLiga
 http://alv.encohd.co:39591/live/wdrety/cdew23/387.m3u8
-#EXTINF:-1,07.Directv (LaLiga)
+#EXTINF:-1 group-title="Qita tv",07.Directv (LaLiga)
 http://190.210.221.119/Processor3_9_chunklist_b1300000.m3u8
-#EXTINF:-1,07.ELEVEN 1
+#EXTINF:-1 group-title="Qita tv",07.ELEVEN 1
 http://213.13.23.132/shls/LIVE%24Eleven_Sports_1_HD.CVL/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
-#EXTINF:-1,07.ELEVEN 2
+#EXTINF:-1 group-title="Qita tv",07.ELEVEN 2
 http://213.13.23.132/shls/LIVE%24Eleven_Sports_2_HD.CVL/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
-#EXTINF:-1,07.ELEVEN 3
+#EXTINF:-1 group-title="Qita tv",07.ELEVEN 3
 http://213.13.23.132/shls/LIVE%24Eleven_Sports_3_HD.CVL/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
-#EXTINF:-1,07.RMC 1
+#EXTINF:-1 group-title="Qita tv",07.RMC 1
 https://stream.mmsiptv.com/droid/rmc1/playlist.m3u8
-#EXTINF:-1,07.RMC 2
+#EXTINF:-1 group-title="Qita tv",07.RMC 2
 https://stream.mmsiptv.com/droid/rmc2/playlist.m3u8
-#EXTINF:-1,07.RMC 3
+#EXTINF:-1 group-title="Qita tv",07.RMC 3
 https://stream.mmsiptv.com/droid/rmc3/playlist.m3u8
-#EXTINF:-1,07.SETANTA SPORTS 1
+#EXTINF:-1 group-title="Qita tv",07.SETANTA SPORTS 1
 http://myott.top/stream/1VGPHYLZTH/234.m3u8
-#EXTINF:-1,07.SETANTA SPORTS 2
+#EXTINF:-1 group-title="Qita tv",07.SETANTA SPORTS 2
 http://myott.top/stream/1VGPHYLZTH/235.m3u8
-#EXTINF:-1,08.ESPN (LaLiga)
+#EXTINF:-1 group-title="Qita tv",08.ESPN (LaLiga)
 http://190.210.221.119/Processor3_8_chunklist_b1300000.m3u8
-#EXTINF:-1,09.ESPN
+#EXTINF:-1 group-title="Qita tv",09.ESPN
 http://190.187.200.69:8000/play/a01e
-#EXTINF:-1,09.ESPN
+#EXTINF:-1 group-title="Qita tv",09.ESPN
 http://200.24.132.99:8000/play/a022
-#EXTINF:-1,09.ESPN
+#EXTINF:-1 group-title="Qita tv",09.ESPN
 http://190.2.214.100:9000/play/a01l
-#EXTINF:-1,09.ESPN
+#EXTINF:-1 group-title="Qita tv",09.ESPN
 http://45.71.185.142:8500/play/a01e
-#EXTINF:-1,09.ESPN 2
+#EXTINF:-1 group-title="Qita tv",09.ESPN 2
 http://190.187.200.69:8000/play/a015
-#EXTINF:-1,09.ESPN 2
+#EXTINF:-1 group-title="Qita tv",09.ESPN 2
 http://200.24.132.99:8000/play/a01v
-#EXTINF:-1,09.ESPN 2
+#EXTINF:-1 group-title="Qita tv",09.ESPN 2
 http://190.2.214.100:9000/play/a018
-#EXTINF:-1,09.ESPN 2
+#EXTINF:-1 group-title="Qita tv",09.ESPN 2
 http://45.71.185.142:8500/play/a015
-#EXTINF:-1,09.ESPN 2 Latin
+#EXTINF:-1 group-title="Qita tv",09.ESPN 2 Latin
 http://190.187.200.69:8000/play/a01d
-#EXTINF:-1,09.ESPN 2 Latin
+#EXTINF:-1 group-title="Qita tv",09.ESPN 2 Latin
 http://200.24.132.99:8000/play/a021
-#EXTINF:-1,09.ESPN 2 Latin
+#EXTINF:-1 group-title="Qita tv",09.ESPN 2 Latin
 http://190.2.214.100:9000/play/a01k
-#EXTINF:-1,09.ESPN 3
+#EXTINF:-1 group-title="Qita tv",09.ESPN 3
 http://190.187.200.69:8000/play/a028
-#EXTINF:-1,09.ESPN 3
+#EXTINF:-1 group-title="Qita tv",09.ESPN 3
 http://200.24.132.99:8000/play/a02w
-#EXTINF:-1,09.ESPN 3
+#EXTINF:-1 group-title="Qita tv",09.ESPN 3
 http://190.2.214.100:9000/play/a02b
-#EXTINF:-1,09.ESPN 4
+#EXTINF:-1 group-title="Qita tv",09.ESPN 4
 http://190.187.200.69:8000/play/a01v
-#EXTINF:-1,09.ESPN 4
+#EXTINF:-1 group-title="Qita tv",09.ESPN 4
 http://190.2.214.100:9000/play/a01z
-#EXTINF:-1,09.ESPN 4 HD
+#EXTINF:-1 group-title="Qita tv",09.ESPN 4 HD
 http://190.2.214.100:9000/play/a03e
-#EXTINF:-1,09.ESPN ARG. (LaLiga)
+#EXTINF:-1 group-title="Qita tv",09.ESPN ARG. (LaLiga)
 http://alv.encohd.co:39591/live/wdrety/cdew23/534.m3u8
-#EXTINF:-1,09.ESPN CO
+#EXTINF:-1 group-title="Qita tv",09.ESPN CO
 http://200.24.132.99:8000/play/a02m
-#EXTINF:-1,09.ESPN EXTRA HD
+#EXTINF:-1 group-title="Qita tv",09.ESPN EXTRA HD
 http://190.2.214.100:9000/play/a02v
-#EXTINF:-1,09.ESPN HD
+#EXTINF:-1 group-title="Qita tv",09.ESPN HD
 http://190.2.214.100:9000/play/a03i
-#EXTINF:-1,10.VivaroSports (LaLiga)
+#EXTINF:-1 group-title="Qita tv",10.VivaroSports (LaLiga)
 http://135.181.178.91/vmedia_live/1/mono.m3u8
-#EXTINF:-1,11.SUPERSPORT LaLiga
+#EXTINF:-1 group-title="Qita tv",11.SUPERSPORT LaLiga
 http://178.218.196.218:8000/play/a00d/index.m3u8
-#EXTINF:-1,12.SUPERSPORTS LaLiga
+#EXTINF:-1 group-title="Qita tv",12.SUPERSPORTS LaLiga
 http://178.218.196.218:8000/play/a00d/index.m3u8?token=1234678887643fgjkfe23579ijbcdsw3457ide5788kbdsuioi754
-#EXTINF:-1,13.ARENA 1 PREMIUM (LaLiga)
+#EXTINF:-1 group-title="Qita tv",13.ARENA 1 PREMIUM (LaLiga)
 http://46.29.169.15:4001/play/a00g/index.m3u8
-#EXTINF:-1,14.ARENA 2 PREMIUM (LaLiga)
+#EXTINF:-1 group-title="Qita tv",14.ARENA 2 PREMIUM (LaLiga)
 http://46.29.169.15:4001/play/a00h/index.m3u8
-#EXTINF:-1,15.Directv Sports
+#EXTINF:-1 group-title="Qita tv",15.Directv Sports
 http://alv.encohd.co:39591/live/wdrety/cdew23/382.m3u8
-#EXTINF:-1,16.Directv Sports 2
+#EXTINF:-1 group-title="Qita tv",16.Directv Sports 2
 http://alv.encohd.co:39591/live/wdrety/cdew23/383.m3u8
-#EXTINF:-1,17.Bein Sport 1 AR (LaLiga)
+#EXTINF:-1 group-title="Qita tv",17.Bein Sport 1 AR (LaLiga)
 http://93.152.174.144:4000/play/bein1ar/index.m3u8
-#EXTINF:-1,18.TURKMENISTAN SPORTS (LaLiga)
+#EXTINF:-1 group-title="Qita tv",18.TURKMENISTAN SPORTS (LaLiga)
 http://217.174.225.146/hls/ch004_720/index.m3u8
-#EXTINF:-1,19.Bein Sports 2 FR (LaLiga)
+#EXTINF:-1 group-title="Qita tv",19.Bein Sports 2 FR (LaLiga)
 http://93.152.174.144:4000/play/bein2fr/index.m3u8
-#EXTINF:-1,20.DAZN F1
+#EXTINF:-1 group-title="Qita tv",20.DAZN F1
 http://luces.ultratotal.ml/xls/formulax/index.m3u8
-#EXTINF:-1,20.DAZN F1
+#EXTINF:-1 group-title="Qita tv",20.DAZN F1
 http://loga.ultratotal.ml/xls/formulax/index.m3u8
-#EXTINF:-1,21.DAZN F1
+#EXTINF:-1 group-title="Qita tv",21.DAZN F1
 http://alv.encohd.co:39591/live/wdrety/cdew23/72.m3u8
-#EXTINF:-1,22.DAZN MotoGP
+#EXTINF:-1 group-title="Qita tv",22.DAZN MotoGP
 http://luces.ultratotal.ml/xls/dazzzmoto/index.m3u8
-#EXTINF:-1,22.Moto Gp
+#EXTINF:-1 group-title="Qita tv",22.Moto Gp
 http://loga.ultratotal.ml/xls/dazzzmoto/index.m3u8
-#EXTINF:-1,23.Sky Sports f1
+#EXTINF:-1 group-title="Qita tv",23.Sky Sports f1
 http://93.152.174.144:4000/play/ssportsf1/index.m3u8
-#EXTINF:-1,24.SKY SPORTS F1
+#EXTINF:-1 group-title="Qita tv",24.SKY SPORTS F1
 http://alv.encohd.co:39591/live/wdrety/cdew23/33.m3u8
-#EXTINF:-1,25.BEIN SPORTS ing (LaLiga)
+#EXTINF:-1 group-title="Qita tv",25.BEIN SPORTS ing (LaLiga)
 http://178.218.196.218:8000/play/a00l/index.m3u8?token=1234678887643fgjkfe23579ijbcdsw3457ide5788kbdsuioi754
-#EXTINF:-1,26.BEIN SPORTS English 1
+#EXTINF:-1 group-title="Qita tv",26.BEIN SPORTS English 1
 http://178.218.196.218:8000/play/a00l/index.m3u8
-#EXTINF:-1,27.Bein Sport 1 FR (LaLiga)
+#EXTINF:-1 group-title="Qita tv",27.Bein Sport 1 FR (LaLiga)
 http://93.152.174.144:4000/play/bein1fr/index.m3u8
-#EXTINF:-1,28.Bein Sports 3 FR
+#EXTINF:-1 group-title="Qita tv",28.Bein Sports 3 FR
 http://93.152.174.144:4000/play/bein3fr/index.m3u8
-#EXTINF:-1,29.Brasil 11
+#EXTINF:-1 group-title="Qita tv",29.Brasil 11
 https://d2ve4fchffi4n1.cloudfront.net/out/v1/df356edd16f3434ab417f2c48cb1d516/index_2.m3u8
-#EXTINF:-1,30.BEIN SPORTS Extra
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c82b290-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=672c13ed-c11c-4ba2-b749-117f2f0aab45&userId=&serverSideAds=true
-#EXTINF:-1,31.BEIN SPORTS Extra ñ
+#EXTINF:-1 group-title="Qita tv",31.BEIN SPORTS Extra ñ
 https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8
-#EXTINF:-1,32.Astro SuperSport 3
+#EXTINF:-1 group-title="Qita tv",32.Astro SuperSport 3
 http://178.218.196.218:8000/play/a004/index.m3u8?token=1234678887643fgjkfe23579ijbcdsw3457ide5788kbdsuioi754
-#EXTINF:-1,33.Bein Sports 3 AR
+#EXTINF:-1 group-title="Qita tv",33.Bein Sports 3 AR
 http://93.152.174.144:4000/play/bein3ar/index.m3u8
-#EXTINF:-1,34.Bein Sports 7 AR
+#EXTINF:-1 group-title="Qita tv",34.Bein Sports 7 AR
 http://93.152.174.144:4000/play/bein7/index.m3u8
-#EXTINF:-1,35.Eurosport 1
+#EXTINF:-1 group-title="Qita tv",35.Eurosport 1
 http://213.151.233.20:8000/dna-6069-tv-pc/hls/4001v105.m3u8
-#EXTINF:-1,36.EUROSPORT 1 HD
+#EXTINF:-1 group-title="Qita tv",36.EUROSPORT 1 HD
 http://alv.encohd.co:39591/live/wdrety/cdew23/95.m3u8
-#EXTINF:-1,37.EUROSPORT 2
+#EXTINF:-1 group-title="Qita tv",37.EUROSPORT 2
 http://alv.encohd.co:39591/live/wdrety/cdew23/96.m3u8
-#EXTINF:-1,39.ESPN 2 ARGENTINA
+#EXTINF:-1 group-title="Qita tv",39.ESPN 2 ARGENTINA
 http://alv.encohd.co:39591/live/wdrety/cdew23/541.m3u8
-#EXTINF:-1,41.ESPN 3 ARGENTINA
+#EXTINF:-1 group-title="Qita tv",41.ESPN 3 ARGENTINA
 http://alv.encohd.co:39591/live/wdrety/cdew23/540.m3u8
-#EXTINF:-1,43.ESPN U
+#EXTINF:-1 group-title="Qita tv",43.ESPN U
 http://alv.encohd.co:39591/live/wdrety/cdew23/361.m3u8
-#EXTINF:-1,46.Astro SuperSport 3
+#EXTINF:-1 group-title="Qita tv",46.Astro SuperSport 3
 http://178.218.196.218:8000/play/a004/index.m3u8
-#EXTINF:-1,47.BT SPORT ESPN
+#EXTINF:-1 group-title="Qita tv",47.BT SPORT ESPN
 http://93.152.174.144:4000/play/btsportespn/index.m3u8
-#EXTINF:-1,51.SS ESPN
+#EXTINF:-1 group-title="Qita tv",51.SS ESPN
 http://178.218.196.218:8000/play/a00k/index.m3u8?token=1234678887643fgjkfe23579ijbcdsw3457ide5788kbdsuioi754
-#EXTINF:-1,52.SS ESPN
+#EXTINF:-1 group-title="Qita tv",52.SS ESPN
 http://178.218.196.218:8000/play/a00k/index.m3u8
-#EXTINF:-1,54.Fox Sports Premium
-http://alv.encohd.co:39591/live/wdrety/cdew23/385.m3u8
-#EXTINF:-1,55.Fox Sports pluto (720p)
-https://stitcher.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=3fab7580-8b86-11e8-a44b-996a399dacd8&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=67.0.3396.99&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
-#EXTINF:-1,56.Fox Soccer plus
-http://alv.encohd.co:39591/live/wdrety/cdew23/386.m3u8
-#EXTINF:-1,57.Claro Sports
+#EXTINF:-1 group-title="Qita tv",57.Claro Sports
 http://alv.encohd.co:39591/live/wdrety/cdew23/104.m3u8
-#EXTINF:-1,58.AD 1
+#EXTINF:-1 group-title="Qita tv",58.AD 1
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
-#EXTINF:-1,59.AD 2
+#EXTINF:-1 group-title="Qita tv",59.AD 2
 https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
-#EXTINF:-1,60.AD 3
+#EXTINF:-1 group-title="Qita tv",60.AD 3
 http://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
-#EXTINF:-1,61.AD 4
+#EXTINF:-1 group-title="Qita tv",61.AD 4
 http://admdn4.cdn.mangomolo.com/adsports4/smil:adsports4.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
-#EXTINF:-1,62.A SPOR FHD
+#EXTINF:-1 group-title="Qita tv",62.A SPOR FHD
 https://trkvz-live.daioncdn.net/aspor/aspor.m3u8
-#EXTINF:-1,63.Win Sports
+#EXTINF:-1 group-title="Qita tv",63.Win Sports
 http://alv.encohd.co:39591/live/wdrety/cdew23/384.m3u8
-#EXTINF:-1,64.Eleven
+#EXTINF:-1 group-title="Qita tv",64.Eleven
 https://europe-west-hls.mls.mycujoo.tv/esgp/cl00w43l43gje0116jt3vcfru/720p/playlist.m3u8
-#EXTINF:-1,65.Eleven Sports
+#EXTINF:-1 group-title="Qita tv",65.Eleven Sports
 http://alv.encohd.co:39591/live/wdrety/cdew23/365.m3u8
-#EXTINF:-1,66.Arryadia (360p)
+#EXTINF:-1 group-title="Qita tv",66.Arryadia (360p)
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/index.m3u8
-#EXTINF:-1,67.BAHRAIN SPORTS
+#EXTINF:-1 group-title="Qita tv",67.BAHRAIN SPORTS
 https://5c7b683162943.streamlock.net/live/ngrp:Bahrain%20Sports_all/playlist.m3u8
-#EXTINF:-1,68.Cable Onda Sports FHD
+#EXTINF:-1 group-title="Qita tv",68.Cable Onda Sports FHD
 http://iptvmedia.live:8080/FM10008/ee54fb4b/148643
-#EXTINF:-1,69.Estadio Sports 2 Brasil
+#EXTINF:-1 group-title="Qita tv",69.Estadio Sports 2 Brasil
 https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
-#EXTINF:-1,70.SKY SPORTS MAIN EVENT
-http://alv.encohd.co:39591/live/wdrety/cdew23/34.m3u8
-#EXTINF:-1,71.Sky Sports News
-http://93.152.174.144:4000/play/skysportsnews/index.m3u8
-#EXTINF:-1,72.SKY SPORTS 24
-https://skyanywhere3-i.akamaihd.net/hls/live/510697/interactive/playlist.m3u8
-#EXTINF:-1,73.SKY SPORTS PREMIERE LEAGUE
-http://alv.encohd.co:39591/live/wdrety/cdew23/32.m3u8
-#EXTINF:-1,74.Sky Sports 1
-http://93.152.174.144:4000/play/ssports1/index.m3u8
-#EXTINF:-1,75.Sky Sports 2
-http://93.152.174.144:4000/play/skysports2/index.m3u8
-#EXTINF:-1,76.Sky Sports 3
-http://93.152.174.144:4000/play/skysports3/index.m3u8
-#EXTINF:-1,77.DEPORTV
+#EXTINF:-1 group-title="Qita tv",77.DEPORTV
 https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8
-#EXTINF:-1,78.EQUALIMPIC
+#EXTINF:-1 group-title="Qita tv",78.EQUALIMPIC
 http://iptv.prosto.tv:7000/ch378/video.m3u8
-#EXTINF:-1,79.BT SPORT 1
-http://93.152.174.144:4000/play/btsport1/index.m3u8
-#EXTINF:-1,80.BT SPORT 2
-http://93.152.174.144:4000/play/btsport2/index.m3u8
-#EXTINF:-1,81.BT SPORT 3
-http://93.152.174.144:4000/play/btsport3/index.m3u8
-#EXTINF:-1,82.TNT SPORTS
-https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
-#EXTINF:-1,83.TNT Sports
-http://alv.encohd.co:39591/live/wdrety/cdew23/99.m3u8
-#EXTINF:-1,84.TNT Sports
-https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
-#EXTINF:-1,85.TNT Sports 2
-http://alv.encohd.co:39591/live/wdrety/cdew23/94.m3u8
-#EXTINF:-1,86.TNT Sports 2
-http://190.210.221.119/Processor3_10_chunklist_b1300000.m3u8
-#EXTINF:-1,87.TNT Sports 3 Brasil
-https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
-#EXTINF:-1,88.TNT Sports 4 Brasil
-https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
-#EXTINF:-1,89.TNT Sports 5 Brasil
-https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
-#EXTINF:-1,90.TNT USA
-http://alv.encohd.co:39591/live/wdrety/cdew23/526.m3u8
-#EXTINF:-1,91.SPORT TV 1 PT
-http://93.152.174.144:4000/play/sporttv1/index.m3u8
-#EXTINF:-1,92.ALL SPORTS TV
-https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
-#EXTINF:-1,93.Tyc Sports
-http://alv.encohd.co:39591/live/wdrety/cdew23/389.m3u8
-#EXTINF:-1,94.FS1 MLS
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb626cfcaf83414128f439c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c7d8272-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=83907acb-ee3c-4b1f-8026-c92526fccb6e&userId=&serverSideAds=true
-#EXTINF:-1,95.XSPORT
-http://iptv.prosto.tv:7000/ch109/video.m3u8
-#EXTINF:-1,96.XSPORT
-http://iptv.prosto.tv:7000/ch110/video.m3u8
-#EXTINF:-1,97.XSPORT+
-http://iptv.prosto.tv:7000/ch117/video.m3u8
-#EXTINF:-1,98.Vivaro Sports 2
-http://135.181.178.91/vmedia_live/2/mono.m3u8
-#EXTINF:-1,99.Vivaro Sports 3
-http://135.181.178.91/vmedia_live/3/mono.m3u8
-#EXTINF:-1,A Sports HD
-http://221.120.204.4/LOCKLE-A-SPORTS/index.m3u8
-#EXTINF:-1,ACC Network (720p)
+#EXTINF:-1 group-title="Qita tv",ACC Network (720p)
 https://a.jsrdn.com/broadcast/542cb2ce3c/+0000/c.m3u8
-#EXTINF:-1,ASXTV FIGHTS
+#EXTINF:-1 group-title="Qita tv",ASXTV FIGHTS
 https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
-#EXTINF:-1,AXS Fight
+#EXTINF:-1 group-title="Qita tv",AXS Fight
 https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
-#EXTINF:-1,AutoMoto (Bumblebee) (720p)
+#EXTINF:-1 group-title="Qita tv",AutoMoto (Bumblebee) (720p)
 https://stitcheraws.unreel.me/wse-node01.powr.com/live/5bf220fad5eeee0f5a40941a/playlist.m3u8
-#EXTINF:-1,Boxeo Ruso
+#EXTINF:-1 group-title="Qita tv",Boxeo Ruso
 http://myott.top/stream/1VGPHYLZTH/112.m3u8
-#EXTINF:-1,Boxeo Ruso 2
+#EXTINF:-1 group-title="Qita tv",Boxeo Ruso 2
 http://myott.top/stream/1VGPHYLZTH/154.m3u8
-#EXTINF:-1,CANAL MOTOR
+#EXTINF:-1 group-title="Qita tv",CANAL MOTOR
 http://digicom.hls.iptvdc.com/canalmotor/tracks-v1a1/mono.m3u8
-#EXTINF:-1,CAZA Y PESCA RUSA
+#EXTINF:-1 group-title="Qita tv",CAZA Y PESCA RUSA
 http://myott.top/stream/1VGPHYLZTH/155.m3u8
-#EXTINF:-1,COMBATE AMÉRICAS
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5bb1ac3e268cae539bcedb07/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=970&deviceId=5bb1ac3e268cae539bcedb07&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1,Caza y pesca rusa
+#EXTINF:-1 group-title="Qita tv",Caza y pesca rusa
 http://myott.top/stream/1VGPHYLZTH/194.m3u8
-#EXTINF:-1,Channel Fight (720p)
+#EXTINF:-1 group-title="Qita tv",Channel Fight (720p)
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=68
-#EXTINF:-1,Claro Sports
-http://190.187.200.69:8000/play/a02a
-#EXTINF:-1,DD Sports
-http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
-#EXTINF:-1,DUBAI SPORTS
-https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
-#EXTINF:-1,DUBAI SPORTS 2
-https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
-#EXTINF:-1,DUBAI SPORTS 3
-https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
-#EXTINF:-1,ESPORTES CATALUÑA Futbol Sala
-https://directes-tv-cat.ccma.cat/cat/ngrp:es3_web/.m3u8
-#EXTINF:-1,ESPORTES CATALUÑA Futbol Sala
-https://directes-tv-es.ccma.cat/es/ngrp:es3_mobil/playlist.m3u8
-#EXTINF:-1,EUROSPORT 1
-http://myott.top/stream/1VGPHYLZTH/192.m3u8
-#EXTINF:-1,EXTREME TV
-http://myott.top/stream/1VGPHYLZTH/148.m3u8
-#EXTINF:-1,Edge Sport
-https://edgesport-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1,El Garage TV (480p)
+#EXTINF:-1 group-title="Qita tv",El Garage TV (480p)
 http://186.0.233.76:1935/Garage/smil:garage.smil/master.m3u8
-#EXTINF:-1,Eurosport 1
+#EXTINF:-1 group-title="Qita tv",Eurosport 1
 http://myott.top/stream/1VGPHYLZTH/176.m3u8
-#EXTINF:-1,FIGHT PLUS
+#EXTINF:-1 group-title="Qita tv",FIGHT PLUS
 https://a.jsrdn.com/broadcast/47cff5378f/+0000/high/c.m3u8
-#EXTINF:-1,FIGHT SPORTS (1080p)
+#EXTINF:-1 group-title="Qita tv",FIGHT SPORTS (1080p)
 https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index.m3u8
-#EXTINF:-1,FIGHTBOX
+#EXTINF:-1 group-title="Qita tv",FIGHTBOX
 http://92.43.140.249/s86/04.m3u8
-#EXTINF:-1,FIGHTBOX 
+#EXTINF:-1 group-title="Qita tv",FIGHTBOX
 http://iptv.prosto.tv:7000/ch118/video.m3u8
-#EXTINF:-1,FISHING NETWORK
+#EXTINF:-1 group-title="Qita tv",FISHING NETWORK
 http://alv.encohd.co:39591/live/wdrety/cdew23/30.m3u8
-#EXTINF:-1,FITE
+#EXTINF:-1 group-title="Qita tv",FITE
 https://cdn-cf.fite.tv/linear/fite247/4038629_fite-247/live_722/chunks.m3u8
-#EXTINF:-1,FOX SPORTS DETROIT | HD
-http://alv.encohd.co:39591/live/wdrety/cdew23/79.m3u8
-#EXTINF:-1,FOX SPORTS FLORIDA | HD
-http://alv.encohd.co:39591/live/wdrety/cdew23/80.m3u8
-#EXTINF:-1,FOX SPORTS MIDWEST | HD
-http://alv.encohd.co:39591/live/wdrety/cdew23/85.m3u8
-#EXTINF:-1,FOX SPORTS SAN DIEGO | HD
-http://alv.encohd.co:39591/live/wdrety/cdew23/81.m3u8
-#EXTINF:-1,FOX SPORTS SPORTSTIME OHIO
-http://alv.encohd.co:39591/live/wdrety/cdew23/82.m3u8
-#EXTINF:-1,FS2
+#EXTINF:-1 group-title="Qita tv",FS2
 http://alv.encohd.co:39591/live/wdrety/cdew23/362.m3u8
-#EXTINF:-1,Fight Network (1080p)
+#EXTINF:-1 group-title="Qita tv",Fight Network (1080p)
 https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
-#EXTINF:-1,Fights TV
+#EXTINF:-1 group-title="Qita tv",Fights TV
 http://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
-#EXTINF:-1,Fox Sports (Arizona) HD
-http://alv.encohd.co:39591/live/wdrety/cdew23/78.m3u8
-#EXTINF:-1,Fox Sports (South East) HD
-http://alv.encohd.co:39591/live/wdrety/cdew23/83.m3u8
-#EXTINF:-1,Fox Sports (South West) HD
-http://alv.encohd.co:39591/live/wdrety/cdew23/84.m3u8
-#EXTINF:-1,Fox Sports 1
-http://200.24.132.99:8000/play/a02f
-#EXTINF:-1,Fox Sports 1
-http://45.71.185.142:8500/play/a021
-#EXTINF:-1,Fox Sports 2
-http://190.187.200.69:8000/play/a01k
-#EXTINF:-1,Fox Sports 2
-http://200.24.132.99:8000/play/a028
-#EXTINF:-1,Fox Sports 2
-http://45.71.185.142:8500/play/a01n
-#EXTINF:-1,Fox Sports 3
-http://190.187.200.69:8000/play/a01l
-#EXTINF:-1,Fox Sports 3
-http://200.24.132.99:8000/play/a029
-#EXTINF:-1,Fox Sports 3
-http://45.71.185.142:8500/play/a01o
-#EXTINF:-1,GOL TV
+#EXTINF:-1 group-title="Qita tv",GOL TV
 http://200.24.132.99:8000/play/a023
-#EXTINF:-1,GOL TV
+#EXTINF:-1 group-title="Qita tv",GOL TV
 http://45.71.185.142:8500/play/a03b
-#EXTINF:-1,Geo Super
+#EXTINF:-1 group-title="Qita tv",Geo Super
 http://221.120.204.4/geo-super-LOCKLE/index.m3u8
-#EXTINF:-1,Glory Kickboxing (720p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxglorykickboxing/CDN/playlist.m3u8
-#EXTINF:-1,Gol
-https://vsd113.mycdn.me/hls/1112805149299.m3u8/sig/ZuNO2y-SgqY/expires/1649019495053/srcIp/213.177.208.134/clientType/0/srcAg/CHROME_ANDROID/mid/2342360456819/video.m3u8
-#EXTINF:-1,Golf Channel HD
-http://168.232.168.242:8000/play/a05x/index.m3u8
-#EXTINF:-1,HARD KNOCKS
-https://d397e8970cd346fdac04c0af81290c3a.mediatailor.us-west-2.amazonaws.com/v1/manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Hard-Knocks-DistroTV/b1feac42-e3af-4c3b-82fd-0537aa66ffb2/1.m3u8
-#EXTINF:-1,Hard Knocks (720p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxhardknocksfightingchampionship/CDN/playlist.m3u8
-#EXTINF:-1,Harley Davidson Racing TV EN (1080p)
-https://hdtv.prod2.ioio.tv/broker/play/de245a96-516c-413d-81e9-419c05bbc6a7.m3u8
-#EXTINF:-1,IMPACT WRESTLING
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/59b722526996084038c01e1b/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=734&deviceId=59b722526996084038c01e1b&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1,IMPACT! Wrestling
-https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
-#EXTINF:-1,KHL
+#EXTINF:-1 group-title="Qita tv",KHL
 http://myott.top/stream/1VGPHYLZTH/166.m3u8
-#EXTINF:-1,KHL PRIME
+#EXTINF:-1 group-title="Qita tv",KHL PRIME
 http://myott.top/stream/1VGPHYLZTH/178.m3u8
-#EXTINF:-1,KOK
+#EXTINF:-1 group-title="Qita tv",KOK
 https://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
-#EXTINF:-1,LAX SPORTS
+#EXTINF:-1 group-title="Qita tv",LAX SPORTS
 https://1840769862.rsc.cdn77.org/FTF/LSN_SCTE.m3u8
-#EXTINF:-1,LFC
+#EXTINF:-1 group-title="Qita tv",LFC
 http://178.218.196.218:8000/play/a00b/index.m3u8
-#EXTINF:-1,LFC
-http://178.218.196.218:8000/play/a00b/index.m3u8?token=1234678887643fgjkfe23579ijbcdsw3457ide5788kbdsuioi754
-#EXTINF:-1,LUCHA LIBRE AAA
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f99a772c54853000797bf18/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff49451-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=9aaa87da-0575-49b4-b5a5-36b710bfce58&userId=&serverSideAds=true
-#EXTINF:-1,LUCHA LIBRE AAA 2
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c01df1759ee03633e7b272c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c7aea60-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=9e96a0f6-ac42-4164-a333-6f430bfee437&userId=&serverSideAds=true
-#EXTINF:-1,Live Sports (pk)
+#EXTINF:-1 group-title="Qita tv",Live Sports (pk)
 http://221.120.204.4/LOCKLE-A-SPORTS/index.m3u8
-#EXTINF:-1,Local Now Sports (720p)
+#EXTINF:-1 group-title="Qita tv",Local Now Sports (720p)
 https://d39jokgb64z0et.cloudfront.net/dist/localnow/86/hls/master/playlist.m3u8
-#EXTINF:-1,MMA Junkie (720p)
+#EXTINF:-1 group-title="Qita tv",MMA Junkie (720p)
 https://a.jsrdn.com/broadcast/80f6ba72c8/+0000/c.m3u8
-#EXTINF:-1,MMA TV (720p)
-https://mmatv-live.localnowlive.com/v1/manifest/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_61327d317542b31350435482_mmatv-live/a504c826-6950-4b5b-a518-171d9aef07ee/4.m3u8
-#EXTINF:-1,MOSTVIDEO
+#EXTINF:-1 group-title="Qita tv",MOSTVIDEO
 http://iptv.prosto.tv:7000/ch119/video.m3u8
-#EXTINF:-1,MUTV
+#EXTINF:-1 group-title="Qita tv",MUTV
 http://178.218.196.218:8000/play/a00i/index.m3u8
-#EXTINF:-1,MUTV
+#EXTINF:-1 group-title="Qita tv",MUTV
 http://178.218.196.218:8000/play/a00i/index.m3u8?token=1234678887643fgjkfe23579ijbcdsw3457ide5788kbdsuioi754
-#EXTINF:-1,Maroc SPORT
+#EXTINF:-1 group-title="Qita tv",Maroc SPORT
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia-avc1_1500000=4-mp4a_130400_qad=1.m3u8
-#EXTINF:-1,MavTV
+#EXTINF:-1 group-title="Qita tv",MavTV
 https://mavtv-1.sinclair.wurl.com/manifest/2000.m3u8
-#EXTINF:-1,MavTV Europe (720p)
+#EXTINF:-1 group-title="Qita tv",MavTV Europe (720p)
 https://mavtv-mavtvglobal-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,MotorCyclist (Bumblebee) (1080p)
+#EXTINF:-1 group-title="Qita tv",MotorCyclist (Bumblebee) (1080p)
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf2218bd5eeee0f5a40941b/playlist.m3u8
-#EXTINF:-1,Motors Tv (720p)
+#EXTINF:-1 group-title="Qita tv",Motors Tv (720p)
 http://digicom.hls.iptvdc.com/canalmotor/index.m3u8
-#EXTINF:-1,Motorsport Tv
+#EXTINF:-1 group-title="Qita tv",Motorsport Tv
 http://myott.top/stream/1VGPHYLZTH/300.m3u8
-#EXTINF:-1,Motorvision (XUMO)
+#EXTINF:-1 group-title="Qita tv",Motorvision (XUMO)
 https://dai2-xumo.fubo.tv/amagi_hls_data_xumo1212A-motorvisiontv/CDN/master.m3u8
-#EXTINF:-1,NBA
+#EXTINF:-1 group-title="Qita tv",NBA
 https://d17f1mg1q6g54e.cloudfront.net/hls/nbatv/playlist.m3u8
-#EXTINF:-1,New Japan Pro Wrestling World
+#EXTINF:-1 group-title="Qita tv",New Japan Pro Wrestling World
 https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_channel01_3/chunklist_DVR.m3u8
-#EXTINF:-1,Oman Sports TV (1080p)
+#EXTINF:-1 group-title="Qita tv",Oman Sports TV (1080p)
 https://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/playlist.m3u8
-#EXTINF:-1,One Golf
+#EXTINF:-1 group-title="Qita tv",One Golf
 http://162.250.201.58:6211/pk/ONEGOLF/playlist.m3u8
-#EXTINF:-1,Ovacion TV (720p) [Not 24/7]
-http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
-#EXTINF:-1,PLUTO TV DEPORTES
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde07af1c85b0009b18651/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff02781-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6c194052-40df-42cc-9f20-2b709fc61bb8&userId=&serverSideAds=true
-#EXTINF:-1,PLUTO TV FIGHT
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812b0f2237a6ff45d16c3f9/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c751e00-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ea3d6036-364f-4958-aca9-ec488a93eafb&userId=&serverSideAds=true
-#EXTINF:-1,PLUTO TV PELEAS
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e98b0447665f200078caded/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff22353-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b0686c66-1d05-479c-a6d5-c3f2eb338b63&userId=&serverSideAds=true
-#EXTINF:-1,PRO WRESTLING
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fac431fc1ffbc0007e6b6a7/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=732&deviceId=5fac431fc1ffbc0007e6b6a7&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1,PROSTO DRIVE
+#EXTINF:-1 group-title="Qita tv",PROSTO DRIVE
 http://iptv.prosto.tv:7000/ch326/video.m3u8
-#EXTINF:-1,PTV Sports
+#EXTINF:-1 group-title="Qita tv",PTV Sports
 http://103.55.144.46/hls/ptv.m3u8
-#EXTINF:-1,PXTV
+#EXTINF:-1 group-title="Qita tv",PXTV
 http://168.232.168.242:8000/play/a00h/index.m3u8
-#EXTINF:-1,Partidos
+#EXTINF:-1 group-title="Qita tv",Partidos
 http://init.cheches.info/hls/103.m3u8
-#EXTINF:-1,Pluto ALL ELITE WRESTLING
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d1697f10a0e000798ed8d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff30db0-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=99bea8e3-f5b3-42e7-a4e7-081bf207b1bc&userId=&serverSideAds=true
-#EXTINF:-1,Pluto TV Action Sports (720p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5db867744f229f0009266784/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5db867744f229f0009266784&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=759&terminate=false&userId=
-#EXTINF:-1,Pluto TV Boxing (720p)
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fac425f949b4600079938f3/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1,Pluto TV Glory Kickboxing (720p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ad9be1be738977e2c312134/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5ad9be1be738977e2c312134&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=f6e88030-d7c8-47c8-8fed-7e24dd0a038a&terminate=false&userId=
-#EXTINF:-1,Pluto TV IMPACT Wrestling (720p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/59b722526996084038c01e1b/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=59b722526996084038c01e1b&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=734&terminate=false&userId=
-#EXTINF:-1,Pluto TV MLB (720p)
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e66968a70f34c0007d050be/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1,Pluto TV MLS (720p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb626cfcaf83414128f439c/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=2.7.4-9a7fc53e0c1da468e3c566c3f53e98a36ca1f97b&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=9f228953-21cb-4b82-a393-dd32d047379f&deviceLat=45.4994&deviceLon=-73.5703&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=76.0.3809.132&serverSideAds=true&sid=d1634607-2892-447a-b316-17a106f905fb&userId=
-#EXTINF:-1,Pluto TV Motor
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0510962948d000961d3c6/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1,Pluto TV NFL Channel (720p)
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ced7d5df64be98e07ed47b6/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ced7d5df64be98e07ed47b6&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=708&terminate=false&userId=
-#EXTINF:-1,Pluto TV Pluto Action Sports (720p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5be1be871843b56328bc3ef1/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5be1be871843b56328bc3ef1&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=8a1b4593-8596-4ff8-8720-2c3271ea36ca&terminate=false&userId=
-#EXTINF:-1,Pluto TV Pro Wrestling (720p)
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fac431fc1ffbc0007e6b6a7/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1,Pluto TV Sports (720p)
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6081310e48d3200007afaf3b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c8bf322-e98a-11eb-a932-2f3c780ff9ff&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0727f4fb-ea0b-4814-bb58-fdf3c4534220
-#EXTINF:-1,Pluto TV Sports (England) (720p)
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d7677fa2ec536ce1d587eeb/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d7677fa2ec536ce1d587eeb&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=607&terminate=false&userId=
-#EXTINF:-1,Red Bull TV (1080p)
-https://dms.redbull.tv/v3/linear-borb/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYXRlZ29yeSI6InBlcnNvbmFsX2NvbXB1dGVyIiwiY291bnRyeV9jb2RlIjoidXMiLCJleHBpcmVzIjoiMjAxNy0wOS0xNlQxNzo0NjowMy45NjM0NjI4NDJaIiwib3NfZmFtaWx5IjoiaHR0cCIsInJlbW90ZV9pcCI6IjEwLjE1Ny4xMTIuMTQ4IiwidWEiOiJNb3ppbGxhLzUuMCAoTWFjaW50b3NoOyBJbnRlbCBNYWMgT1MgWCAxMF8xMl81KSBBcHBsZVdlYktpdC82MDMuMi40IChLSFRNTCwgbGlrZSBHZWNrbykgVmVyc2lvbi8xMC4xLjEgU2FmYXJpLzYwMy4yLjQiLCJ1aWQiOiJkOGZiZWYzMC0yZDhhLTQwYTUtOGNjNy0wNzgxNGJhMTliNzMifQ.Q_38FNpW3so5yrA5FQt9qBuix3dTulKpb6uQ0dRjrtY/playlist.m3u8
-#EXTINF:-1,Red Bull TV (1080p)
+#EXTINF:-1 group-title="Qita tv",Red Bull TV (1080p)
 https://i.mjh.nz/nz/tv.redbull.tv.m3u8
-#EXTINF:-1,Red Bull TV (1080p)
+#EXTINF:-1 group-title="Qita tv",Red Bull TV (1080p)
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-#EXTINF:-1,RedBull Batalla de Gallos (720p)
+#EXTINF:-1 group-title="Qita tv",RedBull Batalla de Gallos (720p)
 https://videostreaming.cloudserverlatam.com/Batalladegallos/Batalladegallos/playlist.m3u8
-#EXTINF:-1,RikSports HD
+#EXTINF:-1 group-title="Qita tv",RikSports HD
 https://nn.geo.joj.sk/live/hls/rik-540.m3u8
-#EXTINF:-1,Ring of Honor Wrestling (720p)
+#EXTINF:-1 group-title="Qita tv",Ring of Honor Wrestling (720p)
 https://stadium-ringofhonor-1.sinclair.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,SPORTV TUR
+#EXTINF:-1 group-title="Qita tv",SPORTV TUR
 https://mn-nl.mncdn.com/blutv_sportstv2/live.m3u8
-#EXTINF:-1,SPOTV
-https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/profile_0/chunklist.m3u8?hdnea=st=1647742017~exp=9007200902483008~acl=/99545824f51f4c1592b35314c6ece3b0/*/profile_0/chunklist.m3u8*~hmac=ba49523d8cd91a52cd1139a9ddd9e39ec9ad17948e861abcc99fe6196e4a3dc2%22
-#EXTINF:-1,SSV1
+#EXTINF:-1 group-title="Qita tv",SSV1
 http://178.218.196.218:8000/play/a00c/index.m3u8
-#EXTINF:-1,SSV1
+#EXTINF:-1 group-title="Qita tv",SSV1
 http://178.218.196.218:8000/play/a00c/index.m3u8?token=1234678887643fgjkfe23579ijbcdsw3457ide5788kbdsuioi754
-#EXTINF:-1,SSV2
+#EXTINF:-1 group-title="Qita tv",SSV2
 http://178.218.196.218:8000/play/a00e/index.m3u8
-#EXTINF:-1,SSV2
+#EXTINF:-1 group-title="Qita tv",SSV2
 http://178.218.196.218:8000/play/a00e/index.m3u8?token=1234678887643fgjkfe23579ijbcdsw3457ide5788kbdsuioi754
-#EXTINF:-1,SSV3
+#EXTINF:-1 group-title="Qita tv",SSV3
 http://178.218.196.218:8000/play/a00f/index.m3u8
-#EXTINF:-1,SSV3
+#EXTINF:-1 group-title="Qita tv",SSV3
 http://178.218.196.218:8000/play/a00f/index.m3u8?token=1234678887643fgjkfe23579ijbcdsw3457ide5788kbdsuioi754
-#EXTINF:-1,SSV4
+#EXTINF:-1 group-title="Qita tv",SSV4
 http://178.218.196.218:8000/play/a00g/index.m3u8
-#EXTINF:-1,SSV4
+#EXTINF:-1 group-title="Qita tv",SSV4
 http://178.218.196.218:8000/play/a00g/index.m3u8?token=1234678887643fgjkfe23579ijbcdsw3457ide5788kbdsuioi754
-#EXTINF:-1,STAR SPORTS 1 HD
+#EXTINF:-1 group-title="Qita tv",STAR SPORTS 1 HD
 http://103.135.133.21/hls/stream3.m3u8
-#EXTINF:-1,STIRR MavTV (720p)
+#EXTINF:-1 group-title="Qita tv",STIRR MavTV (720p)
 https://dai.google.com/linear/hls/event/YoBM0ae5Q62TPdrfFHS4RQ/master.m3u8
-#EXTINF:-1,STIRR Stadium (720p)
+#EXTINF:-1 group-title="Qita tv",STIRR Stadium (720p)
 http://stadium.sinclair.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,STIRR Whistle Sports (720p)
+#EXTINF:-1 group-title="Qita tv",STIRR Whistle Sports (720p)
 https://dai.google.com/linear/hls/event/Wu11mwhnTKGNhwZimEK6Jg/master.m3u8
-#EXTINF:-1,SWISS SPORT TV
+#EXTINF:-1 group-title="Qita tv",SWISS SPORT TV
 https://cdn02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/chunklist_w1922077967_b2628000.m3u8
-#EXTINF:-1,San Marino RTV Sport (720p)
+#EXTINF:-1 group-title="Qita tv",San Marino RTV Sport (720p)
 https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/smil:ch-02.smil/master.m3u8
-#EXTINF:-1,Sony Six HD
+#EXTINF:-1 group-title="Qita tv",Sony Six HD
 http://103.55.144.46/hls/sonysix.m3u8
-#EXTINF:-1,Sony Ten 1 HD
+#EXTINF:-1 group-title="Qita tv",Sony Ten 1 HD
 http://103.55.144.46/hls/sonyten1.m3u8
-#EXTINF:-1,Sony Ten 2
+#EXTINF:-1 group-title="Qita tv",Sony Ten 2
 http://103.55.144.46/hls/sonyten2.m3u8
-#EXTINF:-1,Sony Ten 3 HD
+#EXTINF:-1 group-title="Qita tv",Sony Ten 3 HD
 http://103.55.144.46/hls/sonyten3.m3u8
-#EXTINF:-1,Sport Channel
+#EXTINF:-1 group-title="Qita tv",Sport Channel
 http://210.210.155.35/qwr9ew/s/s41/01.m3u8
-#EXTINF:-1,Sport Channel
+#EXTINF:-1 group-title="Qita tv",Sport Channel
 http://210.210.155.35/qwr9ew/s/s41/02.m3u8
-#EXTINF:-1,Sports TV
+#EXTINF:-1 group-title="Qita tv",Sports TV
 https://live.sportstv.com.tr/hls/low/sportstv.m3u8
-#EXTINF:-1,Sports Tonight (576p)
+#EXTINF:-1 group-title="Qita tv",Sports Tonight (576p)
 http://sports.ashttp9.visionip.tv/live/visiontvuk-sports-sportstonightlive-hsslive-25f-4x3-SD/chunklist.m3u8
-#EXTINF:-1,Sporty Stuff TV (1080p)
+#EXTINF:-1 group-title="Qita tv",Sporty Stuff TV (1080p)
 https://ayozat-live.secure2.footprint.net/egress/bhandler/ayozat/sportystufftv/playlist.m3u8
-#EXTINF:-1,Stadium
+#EXTINF:-1 group-title="Qita tv",Stadium
 http://alv.encohd.co:39591/live/wdrety/cdew23/358.m3u8
-#EXTINF:-1,Stadium (720p)
+#EXTINF:-1 group-title="Qita tv",Stadium (720p)
 https://dai2.xumo.com/amagi_hls_data_xumo1234A-stadiumsports/CDN/master.m3u8
-#EXTINF:-1,Star Sports 1
-http://103.55.144.46/hls/stersports1hd.m3u8
-#EXTINF:-1,Star Sports 1 HD
-http://flussonicusa.bdcabletv.com:80/PCPSCEDAQt/ou0mthW/868
-#EXTINF:-1,Star Sports 2 HD
-http://103.55.144.46/hls/starsports2.m3u8
-#EXTINF:-1,Star Sports Select 2
-http://103.55.144.46/hls/select2.m3u8
-#EXTINF:-1,SuperSport PSL
-http://178.218.196.218:8000/play/a009/index.m3u8?token=1234678887643fgjkfe23579ijbcdsw3457ide5788kbdsuioi754
-#EXTINF:-1,SuperSport PSL
-http://178.218.196.218:8000/play/a009/index.m3u8
-#EXTINF:-1,SuperSportGrand.action
-http://178.218.196.218:8000/play/a008/index.m3u8
-#EXTINF:-1,SuperSportGrand.action
-http://178.218.196.218:8000/play/a008/index.m3u8?token=1234678887643fgjkfe23579ijbcdsw3457ide5788kbdsuioi754
-#EXTINF:-1,T sports HD
-http://103.70.140.27:8080/hls/tsports.m3u8
-#EXTINF:-1,TDP
+#EXTINF:-1 group-title="Qita tv",TDP
 https://rtvelivestreamv3.akamaized.net/tdp/tdp_main_dvr.m3u8
-#EXTINF:-1,TDP
+#EXTINF:-1 group-title="Qita tv",TDP
 https://rtvelivestreamv3.akamaized.net/rtvesec/tdp_bkp_dvr.m3u8
-#EXTINF:-1,TDP
+#EXTINF:-1 group-title="Qita tv",TDP
 https://ztnr.rtve.es/ztnr/1712295.m3u8
-#EXTINF:-1,TENNIS
+#EXTINF:-1 group-title="Qita tv",TENNIS
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
-#EXTINF:-1,TENNIS Channel
+#EXTINF:-1 group-title="Qita tv",TENNIS Channel
 https://dai.google.com/linear/hls/event/Dlqr46ybTSGWGTfRWcxS0g/master.m3u8
-#EXTINF:-1,TENNIS Channel +
+#EXTINF:-1 group-title="Qita tv",TENNIS Channel +
 https://70.32.30.155:443/proxy.php/https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8
-#EXTINF:-1,TENNIS USA
+#EXTINF:-1 group-title="Qita tv",TENNIS USA
 http://alv.encohd.co:39591/live/wdrety/cdew23/529.m3u8
-#EXTINF:-1,TV 2 Sporten (720p)
-https://ws31-hls-live.akamaized.net/out/u/1416253.m3u8
-#EXTINF:-1,TV GAMER @PlutoTV
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca7f16c37b88b2694731c79/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c7d5b62-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=a8311f10-8c2e-45bb-a408-7e2c579d7adb&userId=&serverSideAds=true
-#EXTINF:-1,TV SPORTS @PlutoTV
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/56340779a738201b4ccfeac9/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff334c2-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=dffc36b9-57c6-4973-9903-2f83d465ac40&userId=&serverSideAds=true
-#EXTINF:-1,TVG 2 Celta B
-https://events1-crtvg.flumotion.com/playlist.m3u8
-#EXTINF:-1,TVRI SPORT
-http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
-#EXTINF:-1,TVS Boxing (720p)
-https://rpn1.bozztv.com/36bay2/gusa-tvsboxing/index.m3u8
-#EXTINF:-1,TVS Sports (720p) [Not 24/7]
-https://rpn1.bozztv.com/36bay2/gusa-tvssports/index.m3u8
-#EXTINF:-1,TVS Sports Bureau (720p)
-https://rpn1.bozztv.com/36bay2/gusa-tvssportsbureau/index.m3u8
-#EXTINF:-1,TVS Turbo (360p)
-https://rpn1.bozztv.com/36bay2/gusa-tvsturbo/index.m3u8
-#EXTINF:-1,TVS Women Sports (480p)
-https://rpn1.bozztv.com/36bay2/gusa-tvswsn/index.m3u8
-#EXTINF:-1,Ten Sports
-http://103.55.144.46/hls/ten.m3u8
-#EXTINF:-1,Trace Sport Stars
-http://iptv.prosto.tv:7000/ch236/video.m3u8
-#EXTINF:-1,Trace Sportstars
-http://tracesportstars-samsunges.amagi.tv/hls/amagi_hls_data_samsunguk-tracesport-samsungspain/CDN/playlist.m3u8?device%5Bdid%5D=%7BPSID%7D&device%5Bdnt%5D=%7BTARGETOPT%7D&tc_string=%7BTC_STRING%7D&app_name=%7BAPP_NAME%7D&coppa=0
-#EXTINF:-1,TritonFight [HD]
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812b0f2237a6ff45d16c3f9/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=726&deviceId=5812b0f2237a6ff45d16c3f9&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1,TyC
+#EXTINF:-1 group-title="Qita tv",TyC
 http://190.187.200.69:8000/play/a01g
-#EXTINF:-1,TyC
+#EXTINF:-1 group-title="Qita tv",TyC
 http://200.24.132.99:8000/play/a024
-#EXTINF:-1,TyC
+#EXTINF:-1 group-title="Qita tv",TyC
 http://190.2.214.100:9000/play/a01n
-#EXTINF:-1,UDAR
+#EXTINF:-1 group-title="Qita tv",UDAR
 http://myott.top/stream/1VGPHYLZTH/279.m3u8
-#EXTINF:-1,UFC 1 Fight Pass
+#EXTINF:-1 group-title="Qita tv",UFC 1 Fight Pass
 http://alv.encohd.co:39591/live/wdrety/cdew23/378.m3u8
-#EXTINF:-1,UFC 2
+#EXTINF:-1 group-title="Qita tv",UFC 2
 https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
-#EXTINF:-1,Viasat Sport
-http://iptv.prosto.tv:7000/ch282/video.m3u8
-#EXTINF:-1,Viasat Sport
-http://myott.top/stream/1VGPHYLZTH/102.m3u8
-#EXTINF:-1,Viasat Sport
-http://myott.top/stream/1VGPHYLZTH/333.m3u8
-#EXTINF:-1,WWE NETWORK
+#EXTINF:-1 group-title="Qita tv",WWE NETWORK
 http://93.152.174.144:4000/play/WWE/index.m3u8
-#EXTINF:-1,WWE US
+#EXTINF:-1 group-title="Qita tv",WWE US
 http://alv.encohd.co:39591/live/wdrety/cdew23/86.m3u8
-#EXTINF:-1,Win
+#EXTINF:-1 group-title="Qita tv",Win
 http://190.2.214.100:9000/play/a027
-#EXTINF:-1,Win Sports+ HD
+#EXTINF:-1 group-title="Qita tv",Win Sports+ HD
 http://190.2.214.100:9000/play/a032
-#EXTINF:-1,Wired2Fish (720p)
+#EXTINF:-1 group-title="Qita tv",Wired2Fish (720p)
 https://linear-80.frequency.stream/dist/localnow/80/hls/master/playlist.m3u8
-#EXTINF:-1,Wired2Fish (720p)
+#EXTINF:-1 group-title="Qita tv",Wired2Fish (720p)
 https://linear-80.frequency.stream/dist/localnow/80/hls/master/playlist.m3u8
-#EXTINF:-1,XSPORT+
+#EXTINF:-1 group-title="Qita tv",XSPORT+
 http://myott.top/stream/1VGPHYLZTH/332.m3u8
-#EXTINF:-1,XStream
+#EXTINF:-1 group-title="Qita tv",XStream
 http://iptv.prosto.tv:7000/ch313/video.m3u8
-#EXTINF:-1,Астрахань.Ru Sport
+#EXTINF:-1 group-title="Qita tv",Астрахань.Ru Sport
 https://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v1a1/index.m3u8
-#EXTINF:-1,Астрахань.Ru Sport
+#EXTINF:-1 group-title="Qita tv",Астрахань.Ru Sport
 https://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v2a1/index.m3u8
-#EXTINF:-1,Астрахань.Ru Sport
+#EXTINF:-1 group-title="Qita tv",Астрахань.Ru Sport
 https://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v3a1/index.m3u8
