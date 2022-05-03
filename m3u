@@ -1,4 +1,672 @@
 #EXTM3U
+#EXTINF:-1,ANIMOTION
+http://51.222.241.122:8000/play/a00j
+#EXTINF:-1,CANAL INFANTIL HD
+http://51.222.241.122:8000/play/a006
+#EXTINF:-1,CINE FAMILIAR HD
+http://51.222.241.122:8000/play/a004
+#EXTINF:-1,CINE HISPANO HD
+http://51.222.241.122:8000/play/a005
+#EXTINF:-1,CINE PREMIUN HD
+http://51.222.241.122:8000/play/a003
+#EXTINF:-1,CINE | Cine Latino HD
+http://51.222.241.122:8000/play/a02e
+#EXTINF:-1 tvg-id="amchd.mx",Cine HD | AMC UHD
+http://51.222.241.122:8000/play/a02f
+#EXTINF:-1 tvg-id="azcinema.mx",Cine HD | AZ Cinema HD
+http://51.222.241.122:8000/play/a037
+#EXTINF:-1 tvg-id="cinecanal.mx",Cine HD | Cinecanal HD
+http://51.222.241.122:8000/play/a02v
+#EXTINF:-1 tvg-id="Cinemax.mx",Cine HD | Cinemax HD (Lat)
+http://51.222.241.122:8000/play/a02w
+#EXTINF:-1 tvg-id="cinemax.mx",Cine HD | Cinemax HD (MX)
+http://51.222.241.122:8000/play/a02x
+#EXTINF:-1 tvg-id="~ De Pelicula",Cine HD | De Pelicula UHD
+http://51.222.241.122:8000/play/a038
+#EXTINF:-1 tvg-id="depeliculahd.mx",Cine HD | De Peliculas Plus HD
+http://51.222.241.122:8000/play/a039
+#EXTINF:-1 tvg-id="fx.mx",Cine HD | FX HD
+http://51.222.241.122:8000/play/a02g
+#EXTINF:-1 tvg-id="fxmovies.mx",Cine HD | FXM HD
+http://51.222.241.122:8000/play/a02h
+#EXTINF:-1 tvg-id="goldenpremier.mx",Cine HD | Golden Premier HD
+http://51.222.241.122:8000/play/a03b
+#EXTINF:-1 tvg-id="HBO.mx",Cine HD | HBO (Lat) HD
+http://51.222.241.122:8000/play/a02o
+#EXTINF:-1 tvg-id="hbo.mx",Cine HD | HBO (MX) HD
+http://51.222.241.122:8000/play/a02n
+#EXTINF:-1 tvg-id="hbo2.mx",Cine HD | HBO 2 HD
+http://51.222.241.122:8000/play/a02p
+#EXTINF:-1 tvg-id="hbofamily.mx",Cine HD | HBO Family HD
+http://51.222.241.122:8000/play/a02s
+#EXTINF:-1 tvg-id="hboplus.mx",Cine HD | HBO Plus HD
+http://51.222.241.122:8000/play/a02r
+#EXTINF:-1 tvg-id="hbopo.mx",Cine HD | HBO Pop HD
+http://51.222.241.122:8000/play/a02t
+#EXTINF:-1 tvg-id="hbosignaturehd.co",Cine HD | HBO Signature HD
+http://51.222.241.122:8000/play/a02q
+#EXTINF:-1 tvg-id="hboxtreme.mx",Cine HD | HBO Xtreme HD
+http://51.222.241.122:8000/play/a02u
+#EXTINF:-1 tvg-id="● Latino | MoreMax HD 1080P-",Cine HD | Moremax HD
+http://51.222.241.122:8000/play/a02z
+#EXTINF:-1 tvg-id="● Latino | OuterMax HD 1080P-",Cine HD | Outermax HD
+http://51.222.241.122:8000/play/a02y
+#EXTINF:-1 tvg-id="paramountchannel.mx",Cine HD | Paramount Channel HD
+http://51.222.241.122:8000/play/a03l
+#EXTINF:-1 tvg-id="sony.co",Cine HD | SONY HD
+http://51.222.241.122:8000/play/a035
+#EXTINF:-1 tvg-id="space.mx",Cine HD | Space HD
+http://51.222.241.122:8000/play/a030
+#EXTINF:-1 tvg-id="star.action.uy",Cine HD | Star Action HD
+http://51.222.241.122:8000/play/a02k
+#EXTINF:-1 tvg-id="fox.ar",Cine HD | Star Channel HD (Lat)
+http://51.222.241.122:8000/play/a02i
+#EXTINF:-1 tvg-id="Fox.mx",Cine HD | Star Channel HD (MX)
+http://51.222.241.122:8000/play/a02j
+#EXTINF:-1 tvg-id="FoxClassics.mx",Cine HD | Star Classics HD
+http://51.222.241.122:8000/play/a02m
+#EXTINF:-1 tvg-id="FoxComedy.mx",Cine HD | Star Comedy HD Dual Audio
+http://51.222.241.122:8000/play/a02l
+#EXTINF:-1 tvg-id="la.Starz Edge",Cine HD | Starz Edge HD
+http://51.222.241.122:8000/play/a03d
+#EXTINF:-1 tvg-id="StarzKidsFamily.us",Cine HD | Starz Encore Family HD
+http://51.222.241.122:8000/play/a03h
+#EXTINF:-1 tvg-id="la.Starz Encore Suspense",Cine HD | Starz Encore Suspense HD
+http://51.222.241.122:8000/play/a03g
+#EXTINF:-1 tvg-id="la.Starz Encore Westerns",Cine HD | Starz Encore Western HD
+http://51.222.241.122:8000/play/a03f
+#EXTINF:-1 tvg-id="StudioUniversalLatinAmerica.pa",Cine HD | Studio Universal HD
+http://51.222.241.122:8000/play/a03k
+#EXTINF:-1 tvg-id="syfy.mx",Cine HD | SyFy FHD
+http://51.222.241.122:8000/play/a02c
+#EXTINF:-1 tvg-id="TBS.mx",Cine HD | TBS HD
+http://51.222.241.122:8000/play/a02d
+#EXTINF:-1 tvg-id="TNT.ar",Cine HD | TNT HD (Lat)
+http://51.222.241.122:8000/play/a031
+#EXTINF:-1 tvg-id="tnt.mx",Cine HD | TNT HD (MX)
+http://51.222.241.122:8000/play/a032
+#EXTINF:-1 tvg-id="TNTSeries.mx",Cine HD | TNT Series HD (Lat)
+http://51.222.241.122:8000/play/a033
+#EXTINF:-1 tvg-id="tntseries.mx",Cine HD | TNT Series HD (MX)
+http://51.222.241.122:8000/play/a034
+#EXTINF:-1 tvg-id="universalchannel.mx",Cine HD | Universal Channel HD
+http://51.222.241.122:8000/play/a03j
+#EXTINF:-1 tvg-id="WarnerChannel.mx",Cine HD | Warner Channel HD
+http://51.222.241.122:8000/play/a036
+#EXTINF:-1 tvg-id="aandemundo.mx",Cine SD | A&E
+http://51.222.241.122:8000/play/a01c
+#EXTINF:-1 tvg-id="amc.mx",Cine SD | AMC
+http://51.222.241.122:8000/play/a01e
+#EXTINF:-1 tvg-id="axn.mx",Cine SD | AXN
+http://51.222.241.122:8000/play/a01d
+#EXTINF:-1 tvg-id="cinecanal.mx",Cine SD | Cinecanal
+!51!
+#EXTINF:-1 tvg-id="cinemax.mx",Cine SD | Cinemax
+http://51.222.241.122:8000/play/a01g
+#EXTINF:-1 tvg-id="eurochannel.mx",Cine SD | Eurochannel
+http://51.222.241.122:8000/play/a01h
+#EXTINF:-1 tvg-id="europaeuropa.mx",Cine SD | Europa Europa
+http://51.222.241.122:8000/play/a01i
+#EXTINF:-1 tvg-id="fx.mx",Cine SD | FX
+http://51.222.241.122:8000/play/a01j
+#EXTINF:-1 tvg-id="fxmovies.mx",Cine SD | FXM
+http://51.222.241.122:8000/play/a01k
+#EXTINF:-1 tvg-id="hbo.mx",Cine SD | HBO
+http://51.222.241.122:8000/play/a01s
+#EXTINF:-1 tvg-id="hbo2.mx",Cine SD | HBO 2
+http://51.222.241.122:8000/play/a01t
+#EXTINF:-1 tvg-id="hbofamily.mx",Cine SD | HBO Family
+http://51.222.241.122:8000/play/a01u
+#EXTINF:-1 tvg-id="hbomundi.mx",Cine SD | HBO Mundi
+http://51.222.241.122:8000/play/a01v
+#EXTINF:-1 tvg-id="hboplus.mx",Cine SD | HBO Plus
+http://51.222.241.122:8000/play/a01w
+#EXTINF:-1 tvg-id="hbopo.mx",Cine SD | HBO Pop
+http://51.222.241.122:8000/play/a01x
+#EXTINF:-1 tvg-id="hbosignature.mx",Cine SD | HBO Signature
+http://51.222.241.122:8000/play/a01y
+#EXTINF:-1 tvg-id="hboxtreme.mx",Cine SD | HBO Xtreme
+http://51.222.241.122:8000/play/a01z
+#EXTINF:-1 tvg-id="isat.mx",Cine SD | I.Sat
+http://51.222.241.122:8000/play/a020
+#EXTINF:-1 tvg-id="paramountchannel.mx",Cine SD | Paramount Channel
+http://51.222.241.122:8000/play/a021
+#EXTINF:-1 tvg-id="cinesony.mx",Cine SD | Sony
+http://51.222.241.122:8000/play/a022
+#EXTINF:-1 tvg-id="space.mx",Cine SD | Space
+http://51.222.241.122:8000/play/a023
+#EXTINF:-1 tvg-id="Fox.mx",Cine SD | Star Channel
+http://51.222.241.122:8000/play/a01l
+#EXTINF:-1 tvg-id="FoxAction.mx",Cine SD | Star Channel Action
+http://51.222.241.122:8000/play/a01m
+#EXTINF:-1 tvg-id="FoxClassics.mx",Cine SD | Star Channel Classics
+http://51.222.241.122:8000/play/a01o
+#EXTINF:-1 tvg-id="FoxPremiumFamily.pa",Cine SD | Star Channel Family
+http://51.222.241.122:8000/play/a01p
+#EXTINF:-1,Cine SD | Star Channel Movies
+http://51.222.241.122:8000/play/a01q
+#EXTINF:-1 tvg-id="FoxSeries.mx",Cine SD | Star Series
+http://51.222.241.122:8000/play/a01r
+#EXTINF:-1 tvg-id="studiouniversal.mx",Cine SD | Studio Universal
+http://51.222.241.122:8000/play/a024
+#EXTINF:-1 tvg-id="syfy.mx",Cine SD | Syfy
+http://51.222.241.122:8000/play/a025
+#EXTINF:-1 tvg-id="tbs.mx",Cine SD | TBS (MX)
+http://51.222.241.122:8000/play/a02b
+#EXTINF:-1 tvg-id="tcm.mx",Cine SD | TCM
+http://51.222.241.122:8000/play/a026
+#EXTINF:-1 tvg-id="tnt.mx",Cine SD | TNT
+http://51.222.241.122:8000/play/a027
+#EXTINF:-1 tvg-id="tntseries.mx",Cine SD | TNT Series
+http://51.222.241.122:8000/play/a028
+#EXTINF:-1 tvg-id="universalchannel.mx",Cine SD | Universal
+http://51.222.241.122:8000/play/a029
+#EXTINF:-1 tvg-id="warnerchannel.mx",Cine SD | Warner Channel
+http://51.222.241.122:8000/play/a02a
+#EXTINF:-1,Comedy Central
+http://51.222.241.122:8000/play/a00n
+#EXTINF:-1 tvg-id="beinsportespanol.us",DEPORTES | Bein Sports Ñ
+http://51.222.241.122:8000/play/a03o
+#EXTINF:-1,DEPORTES | CDO Premium
+http://51.222.241.122:8000/play/a03p
+#EXTINF:-1,DEPORTES | Claro Sports
+http://51.222.241.122:8000/play/a03q
+#EXTINF:-1 tvg-id="directvsports2.ec",DEPORTES | DIRECTV Sports 2
+http://51.222.241.122:8000/play/a03s
+#EXTINF:-1,DEPORTES | DirecTV Sports
+http://51.222.241.122:8000/play/a03r
+#EXTINF:-1 tvg-id="espn2.mx",DEPORTES | ESPN 2 Mexico
+http://51.222.241.122:8000/play/a03v
+#EXTINF:-1,DEPORTES | ESPN 2 Sur (Col)
+http://51.222.241.122:8000/play/a03w
+#EXTINF:-1 tvg-id="espn3.mx",DEPORTES | ESPN 3 Mexico
+http://51.222.241.122:8000/play/a03x
+#EXTINF:-1,DEPORTES | ESPN 3 Sur
+http://51.222.241.122:8000/play/a03y
+#EXTINF:-1 tvg-id="espn.mx",DEPORTES | ESPN Mexico
+http://51.222.241.122:8000/play/a03t
+#EXTINF:-1,DEPORTES | ESPN Network Mexico
+http://51.222.241.122:8000/play/a03z
+#EXTINF:-1,DEPORTES | ESPN PLUS Mexico
+http://51.222.241.122:8000/play/a040
+#EXTINF:-1,DEPORTES | ESPN Sur
+http://51.222.241.122:8000/play/a03u
+#EXTINF:-1,DEPORTES | ESPN U Mexico
+http://51.222.241.122:8000/play/a041
+#EXTINF:-1,DEPORTES | FOX SPORTS 2 Sur
+http://51.222.241.122:8000/play/a045
+#EXTINF:-1,DEPORTES | FOX SPORTS 3 Sur
+http://51.222.241.122:8000/play/a047
+#EXTINF:-1 tvg-id="foxsports2.mx",DEPORTES | Fox Sports 2 Mexico
+http://51.222.241.122:8000/play/a044
+#EXTINF:-1 tvg-id="foxsports.mx",DEPORTES | Fox Sports Mexico
+http://51.222.241.122:8000/play/a042
+#EXTINF:-1,DEPORTES | Fox Sports Sur
+http://51.222.241.122:8000/play/a043
+#EXTINF:-1 tvg-id="espn3.mx",DEPORTES | Fox sports 3 Mexico
+http://51.222.241.122:8000/play/a046
+#EXTINF:-1,DEPORTES | GOLTV
+http://51.222.241.122:8000/play/a048
+#EXTINF:-1 tvg-id="golfchannel.mx",DEPORTES | Golf Channel
+http://51.222.241.122:8000/play/a04b
+#EXTINF:-1 tvg-id="golfchannel.mx",DEPORTES | Golf Channel Mexico
+http://51.222.241.122:8000/play/a04a
+#EXTINF:-1,DEPORTES | VTV
+http://51.222.241.122:8000/play/a049
+#EXTINF:-1,De Pelicula
+http://51.222.241.122:8000/play/a00m
+#EXTINF:-1 tvg-id="aymsports.mx",Deportes HD | AYM Sports HD
+http://51.222.241.122:8000/play/a05c
+#EXTINF:-1 tvg-id="afizzionados.mx",Deportes HD | Afizzionados HD
+http://51.222.241.122:8000/play/a05q
+#EXTINF:-1 tvg-id="afizzionados.mx",Deportes HD | Afizzionados HD OPC 2
+http://51.222.241.122:8000/play/a05i
+#EXTINF:-1 tvg-id="Dep|| beIN LA Liga FHD ES",Deportes HD | Bein Sports La Liga HD
+http://51.222.241.122:8000/play/a05p
+#EXTINF:-1 tvg-id="beinsports.my",Deportes HD | Bein Sports Ñ OPC 1 HD
+http://51.222.241.122:8000/play/a04e
+#EXTINF:-1 tvg-id="beinsportespanol.us",Deportes HD | Bein Sports Ñ OPC 2 HD
+http://51.222.241.122:8000/play/a04f
+#EXTINF:-1 tvg-id="claro.sports.cl",Deportes HD | Claro Sports HD
+http://51.222.241.122:8000/play/a05o
+#EXTINF:-1 tvg-id="directtvsportplus.ar",Deportes HD | DirecTV Sports + HD
+http://51.222.241.122:8000/play/a050
+#EXTINF:-1 tvg-id="directvsports1.ec",Deportes HD | DirecTV Sports 1 HD
+http://51.222.241.122:8000/play/a04y
+#EXTINF:-1 tvg-id="directvsports2.ec",Deportes HD | DirecTV Sports 2 HD
+http://51.222.241.122:8000/play/a04z
+#EXTINF:-1 tvg-id="espn.ar",Deportes HD | ESPN 1 (Arg) HD
+http://51.222.241.122:8000/play/a04g
+#EXTINF:-1 tvg-id="espn.mx",Deportes HD | ESPN 1 (Mx) HD
+http://51.222.241.122:8000/play/a04j
+#EXTINF:-1 tvg-id="espn2.ar",Deportes HD | ESPN 2 (Arg) HD
+!122!
+#EXTINF:-1 tvg-id="espn2.mx",Deportes HD | ESPN 2 (Mx) HD
+http://51.222.241.122:8000/play/a04k
+#EXTINF:-1 tvg-id="espn3.ar",Deportes HD | ESPN 3 (Arg) HD
+http://51.222.241.122:8000/play/a04i
+#EXTINF:-1 tvg-id="espn3.mx",Deportes HD | ESPN 3 (Mx) HD
+http://51.222.241.122:8000/play/a04l
+#EXTINF:-1 tvg-id="la.Canal 5 Galavision",USA Latino | Galavision Philadelphia HD
+http://51.222.241.122:8000/play/a092
+#EXTINF:-1 tvg-id="UNIMHD",USA Latino | UNIMAS Atlanta HD
+http://51.222.241.122:8000/play/a08t
+#EXTINF:-1 tvg-id="unimas31ktfo.us",USA Latino | UNIMAS Austin HD
+http://51.222.241.122:8000/play/a08u
+#EXTINF:-1 tvg-id="unimas60wxft.us",USA Latino | UNIMAS Chicago HD
+http://51.222.241.122:8000/play/a08r
+#EXTINF:-1 tvg-id="unimas69wami.us",USA Latino | UNIMAS East HD
+http://51.222.241.122:8000/play/a08v
+#EXTINF:-1 tvg-id="UNIMHD",USA Latino | UNIMAS Las Vegas HD
+http://51.222.241.122:8000/play/a08y
+#EXTINF:-1 tvg-id="unimas46kftr.us",USA Latino | UNIMAS Los Angeles HD
+http://51.222.241.122:8000/play/a08q
+#EXTINF:-1 tvg-id="unimas69wami.us",USA Latino | UNIMAS Miami HD (E)
+http://51.222.241.122:8000/play/a08p
+#EXTINF:-1 tvg-id="unimas68wfut.us",USA Latino | UNIMAS New York HD
+http://51.222.241.122:8000/play/a08o
+#EXTINF:-1 tvg-id="unimas28wfpa.us",USA Latino | UNIMAS Philadelphia HD
+http://51.222.241.122:8000/play/a08s
+#EXTINF:-1 tvg-id="unimas17knic.us",USA Latino | UNIMAS San Antonio HD
+http://51.222.241.122:8000/play/a08w
+#EXTINF:-1 tvg-id="KFTR",USA Latino | Unimas West HD
+http://51.222.241.122:8000/play/a08x
+#EXTINF:-1 tvg-id="KLUZ",USA Latino | Univision Albuquerque HD
+http://51.222.241.122:8000/play/a08h
+#EXTINF:-1 tvg-id="univision34wuvg.us",USA Latino | Univision Atlanta HD
+http://51.222.241.122:8000/play/a08g
+#EXTINF:-1 tvg-id="univision62kakw.us",USA Latino | Univision Austin HD
+http://51.222.241.122:8000/play/a08j
+#EXTINF:-1 tvg-id="univision66wgbo.us",USA Latino | Univision Chicago HD
+http://51.222.241.122:8000/play/a08c
+#EXTINF:-1 tvg-id="univision23kuvn.us",USA Latino | Univision Dallas HD
+http://51.222.241.122:8000/play/a08k
+#EXTINF:-1 tvg-id="WLTV",USA Latino | Univision East HD
+http://51.222.241.122:8000/play/a08l
+#EXTINF:-1 tvg-id="univision45kxln.us",USA Latino | Univision Houston HD
+http://51.222.241.122:8000/play/a08f
+#EXTINF:-1 tvg-id="WVEN",USA Latino | Univision Orlando HD
+http://51.222.241.122:8000/play/a08e
+#EXTINF:-1 tvg-id="WUVP",USA Latino | Univision Philadelphia HD
+http://51.222.241.122:8000/play/a08d
+#EXTINF:-1 tvg-id="univision41kwex.us",USA Latino | Univision San Antonio HD
+http://51.222.241.122:8000/play/a08m
+#EXTINF:-1 tvg-id="univision14kdtv.us",USA Latino | Univision San Francisco HD
+http://51.222.241.122:8000/play/a08i
+#EXTINF:-1 tvg-id="univision.us",USA Latino | Univision West HD
+http://51.222.241.122:8000/play/a08n
+#EXTINF:-1 tvg-id="espndeportes.us",Deportes HD | ESPN Deportes HD
+http://51.222.241.122:8000/play/a04m
+#EXTINF:-1 tvg-id="espnplushd.mx",Deportes HD | ESPN Plus HD
+http://51.222.241.122:8000/play/a04n
+#EXTINF:-1 tvg-id="espnu.us",Deportes HD | ESPN U HD
+http://51.222.241.122:8000/play/a04o
+#EXTINF:-1 tvg-id="foxsports.ar",Deportes HD | Fox Sports (Chile) HD
+http://51.222.241.122:8000/play/a04w
+#EXTINF:-1 tvg-id="foxsportsconosur.co",Deportes HD | Fox Sports (Col) HD
+http://51.222.241.122:8000/play/a04v
+#EXTINF:-1 tvg-id="FoxSports.ar",Deportes HD | Fox Sports 1 (Arg) HD
+http://51.222.241.122:8000/play/a04p
+#EXTINF:-1 tvg-id="fox1hd.mx",Deportes HD | Fox Sports 1 (Mx) HD
+http://51.222.241.122:8000/play/a04s
+#EXTINF:-1 tvg-id="FoxSports2.ar",Deportes HD | Fox Sports 2 (Arg) HD
+http://51.222.241.122:8000/play/a04q
+#EXTINF:-1 tvg-id="foxsports2.mx",Deportes HD | Fox Sports 2 (Mx) HD
+http://51.222.241.122:8000/play/a04t
+#EXTINF:-1 tvg-id="FoxSports3.ar",Deportes HD | Fox Sports 3 (Arg) HD
+http://51.222.241.122:8000/play/a04r
+#EXTINF:-1 tvg-id="foxsports3.mx",Deportes HD | Fox Sports 3 (Mx) HD
+http://51.222.241.122:8000/play/a04u
+#EXTINF:-1 tvg-id="FoxSportsPremium.ar",Deportes HD | Fox Sports Premium HD
+http://51.222.241.122:8000/play/a04x
+#EXTINF:-1 tvg-id="goltvlatinamerica.pa",Deportes HD | GOL TV HD
+http://51.222.241.122:8000/play/a05m
+#EXTINF:-1 tvg-id="golfchannel.mx",Deportes HD | Golf Channel Latino HD
+http://51.222.241.122:8000/play/a05k
+#EXTINF:-1,Deportes HD | Meridiano TV SD
+http://51.222.241.122:8000/play/a03m
+#EXTINF:-1 tvg-id="MovistarDeportes.es",Deportes HD | Movistar Deportes HD
+http://51.222.241.122:8000/play/a05n
+#EXTINF:-1 tvg-id="golfchannel.mx",Deportes HD | NBC Golf (Mx) HD
+http://51.222.241.122:8000/play/a05j
+#EXTINF:-1 tvg-id="realmadridtv.es",Deportes HD | Real Madrid TV HD (B)
+http://51.222.241.122:8000/play/a05h
+#EXTINF:-1 tvg-id="redbulltv.us",Deportes HD | Red Bull TV HD
+http://51.222.241.122:8000/play/a05g
+#EXTINF:-1 tvg-id="SkySports16.mx",Deportes HD | Sky Sports 16 HD
+http://51.222.241.122:8000/play/a05f
+#EXTINF:-1 tvg-id="SkySports24.mx",Deportes HD | Sky Sports 21 HD
+http://51.222.241.122:8000/play/a05e
+#EXTINF:-1 tvg-id="tudn.mx",Deportes HD | TUDN (Mx) HD
+http://51.222.241.122:8000/play/a051
+#EXTINF:-1 tvg-id="TUDNX1",Deportes HD | TUDN Xtra 1 HD
+http://51.222.241.122:8000/play/a052
+#EXTINF:-1 tvg-id="TUDNX10",Deportes HD | TUDN Xtra 10 HD
+http://51.222.241.122:8000/play/a05b
+#EXTINF:-1 tvg-id="TUDNX2",Deportes HD | TUDN Xtra 2 HD
+http://51.222.241.122:8000/play/a053
+#EXTINF:-1 tvg-id="tudn.us",Deportes HD | TUDN Xtra 3 HD
+http://51.222.241.122:8000/play/a054
+#EXTINF:-1 tvg-id="TUDNX4",Deportes HD | TUDN Xtra 4 HD
+http://51.222.241.122:8000/play/a055
+#EXTINF:-1 tvg-id="TUDNX5",Deportes HD | TUDN Xtra 5 HD
+http://51.222.241.122:8000/play/a056
+#EXTINF:-1 tvg-id="TUDNX6",Deportes HD | TUDN Xtra 6 HD
+http://51.222.241.122:8000/play/a057
+#EXTINF:-1 tvg-id="cbc.news.network.ca",Deportes HD | TUDN Xtra 7 HD
+http://51.222.241.122:8000/play/a058
+#EXTINF:-1 tvg-id="TUDNX8",Deportes HD | TUDN Xtra 8 HD
+http://51.222.241.122:8000/play/a059
+#EXTINF:-1 tvg-id="TUDNX9",Deportes HD | TUDN Xtra 9 HD
+http://51.222.241.122:8000/play/a05a
+#EXTINF:-1 tvg-id="TVCDeportes.mx",Deportes HD | TVC Deportes HD
+http://51.222.241.122:8000/play/a05l
+#EXTINF:-1,Deportes HD | Tigo Sports Guatemala HD
+http://51.222.241.122:8000/play/a05r
+#EXTINF:-1 tvg-id="FightNetwork.ca",Deportes HD | UFC TV HD
+http://51.222.241.122:8000/play/a05d
+#EXTINF:-1,Deportes HD | Zona Futbol HD
+http://51.222.241.122:8000/play/a03n
+#EXTINF:-1,Deportes SD | Tigo Sports Guatemala SD
+http://51.222.241.122:8000/play/a04d
+#EXTINF:-1,Deportes | Gol TV España
+http://51.222.241.122:8000/play/a04c
+#EXTINF:-1,ECUAVISA
+http://51.222.241.122:8000/play/a00c
+#EXTINF:-1,FMH ACTION
+http://51.222.241.122:8000/play/a00k
+#EXTINF:-1,FMH FAMILY
+http://51.222.241.122:8000/play/a00f
+#EXTINF:-1,FMH KIDS
+http://51.222.241.122:8000/play/a00g
+#EXTINF:-1,FMH MOVIES
+http://51.222.241.122:8000/play/a00e
+#EXTINF:-1,HONDURAS | Azteca Honduras
+http://51.222.241.122:8000/play/a00o
+#EXTINF:-1,HONDURAS | Campus TV
+http://51.222.241.122:8000/play/a01a
+#EXTINF:-1,HONDURAS | Canal 10 HD
+http://51.222.241.122:8000/play/a00p
+#EXTINF:-1,HONDURAS | Canal 11 HD
+http://51.222.241.122:8000/play/a00q
+#EXTINF:-1,HONDURAS | Canal 24 HD
+http://51.222.241.122:8000/play/a016
+#EXTINF:-1 tvg-id="canal5ellíder.hn",HONDURAS | Canal 5 HD
+http://51.222.241.122:8000/play/a00r
+#EXTINF:-1 tvg-id="canal6.hn",HONDURAS | Canal 6 HD
+http://51.222.241.122:8000/play/a00s
+#EXTINF:-1,HONDURAS | Cholusat SD
+http://51.222.241.122:8000/play/a01b
+#EXTINF:-1,HONDURAS | Globo TV HD
+http://51.222.241.122:8000/play/a017
+#EXTINF:-1,HONDURAS | HCH
+http://51.222.241.122:8000/play/a00t
+#EXTINF:-1,HONDURAS | HCH OPC 2
+http://51.222.241.122:8000/play/a00u
+#EXTINF:-1,HONDURAS | Lenca TV
+http://51.222.241.122:8000/play/a014
+#EXTINF:-1,HONDURAS | Mega TV HD
+http://51.222.241.122:8000/play/a00v
+#EXTINF:-1,HONDURAS | SI-TV
+http://51.222.241.122:8000/play/a00w
+#EXTINF:-1,HONDURAS | Suyapa TV
+http://51.222.241.122:8000/play/a018
+#EXTINF:-1,HONDURAS | TSI HD
+http://51.222.241.122:8000/play/a012
+#EXTINF:-1,HONDURAS | TeleCadena SD
+http://51.222.241.122:8000/play/a00y
+#EXTINF:-1 tvg-id="telecadena.hn",HONDURAS | Telecadena HD
+http://51.222.241.122:8000/play/a00x
+#EXTINF:-1,HONDURAS | Teleceiba
+http://51.222.241.122:8000/play/a010
+#EXTINF:-1,HONDURAS | Teleceiba SD
+http://51.222.241.122:8000/play/a00z
+#EXTINF:-1,HONDURAS | Teleprogreso
+http://51.222.241.122:8000/play/a011
+#EXTINF:-1,HONDURAS | UNE TV
+http://51.222.241.122:8000/play/a013
+#EXTINF:-1,HONDURAS | VTV
+http://51.222.241.122:8000/play/a019
+#EXTINF:-1,HTV
+http://51.222.241.122:8000/play/a00b
+#EXTINF:-1,Honduras | Tigo Sports (Solo Eventos)
+http://51.222.241.122:8000/play/a015
+#EXTINF:-1,KIZZY
+http://51.222.241.122:8000/play/a00i
+#EXTINF:-1,MEXICO / LAS ESTRELLAS
+http://51.222.241.122:8000/play/a09e
+#EXTINF:-1 tvg-id="aztecauno.mx",MEXICO | Azteca Uno SD
+http://51.222.241.122:8000/play/a097
+#EXTINF:-1 tvg-id="aztecamundo.mx",Mexico | AZ Mundo HD
+http://51.222.241.122:8000/play/a098
+#EXTINF:-1 tvg-id="azteca7.mx",Mexico | Azteca 7 FHD
+http://51.222.241.122:8000/play/a099
+#EXTINF:-1 tvg-id="azteca7.mx",Mexico | Azteca 7 HD
+http://51.222.241.122:8000/play/a09a
+#EXTINF:-1 tvg-id="azteca7.mx",Mexico | Azteca 7 SD
+http://51.222.241.122:8000/play/a09b
+#EXTINF:-1 tvg-id="aztecauno.mx",Mexico | Azteca Uno FHD
+http://51.222.241.122:8000/play/a09c
+#EXTINF:-1 tvg-id="aztecauno.mx",Mexico | Azteca Uno HD
+http://51.222.241.122:8000/play/a09d
+#EXTINF:-1 tvg-id="telenovelas.mx",Mexico | Telenovelas SD
+http://51.222.241.122:8000/play/a08b
+#EXTINF:-1,MiMusica HD Hits
+http://51.222.241.122:8000/play/a007
+#EXTINF:-1,MiMusica HD K-POP
+http://51.222.241.122:8000/play/a008
+#EXTINF:-1,MiMusica HD Popular
+http://51.222.241.122:8000/play/a009
+#EXTINF:-1,MiMusica HD Reggaeton
+http://51.222.241.122:8000/play/a00a
+#EXTINF:-1,Paramount
+http://51.222.241.122:8000/play/a00l
+#EXTINF:-1,Premium SD | América Sports
+http://51.222.241.122:8000/play/a085
+#EXTINF:-1,Premium SD | Animal Planet
+http://51.222.241.122:8000/play/a07d
+#EXTINF:-1,Premium SD | BBC World News
+http://51.222.241.122:8000/play/a084
+#EXTINF:-1,Premium SD | CNN Internacional
+http://51.222.241.122:8000/play/a082
+#EXTINF:-1,Premium SD | CNN en Español
+http://51.222.241.122:8000/play/a081
+#EXTINF:-1,Premium SD | Comedy Central
+http://51.222.241.122:8000/play/a07o
+#EXTINF:-1,Premium SD | DeporTV
+http://51.222.241.122:8000/play/a086
+#EXTINF:-1,Premium SD | Discovery Civilization
+http://51.222.241.122:8000/play/a07e
+#EXTINF:-1,Premium SD | Discovery Science
+http://51.222.241.122:8000/play/a07f
+#EXTINF:-1,Premium SD | Discovery TLC
+http://51.222.241.122:8000/play/a07m
+#EXTINF:-1,Premium SD | Discovery Theater
+http://51.222.241.122:8000/play/a07g
+#EXTINF:-1,Premium SD | Discovery Turbo
+http://51.222.241.122:8000/play/a07h
+#EXTINF:-1,Premium SD | El Garage TV
+http://51.222.241.122:8000/play/a07n
+#EXTINF:-1,Premium SD | El Gourmet
+http://51.222.241.122:8000/play/a07p
+#EXTINF:-1,Premium SD | Film & Arts
+http://51.222.241.122:8000/play/a07q
+#EXTINF:-1,Premium SD | Food Network
+http://51.222.241.122:8000/play/a07r
+#EXTINF:-1,Premium SD | Fox News
+http://51.222.241.122:8000/play/a083
+#EXTINF:-1,Premium SD | GLITZ
+http://51.222.241.122:8000/play/a07s
+#EXTINF:-1,Premium SD | H2
+http://51.222.241.122:8000/play/a07i
+#EXTINF:-1,Premium SD | HTV
+http://51.222.241.122:8000/play/a07w
+#EXTINF:-1,Premium SD | History Channel
+http://51.222.241.122:8000/play/a07j
+#EXTINF:-1,Premium SD | Lifetime
+http://51.222.241.122:8000/play/a07t
+#EXTINF:-1,Premium SD | MTV
+http://51.222.241.122:8000/play/a07x
+#EXTINF:-1,Premium SD | MTV Hits
+http://51.222.241.122:8000/play/a07y
+#EXTINF:-1,Premium SD | Much Music
+http://51.222.241.122:8000/play/a087
+#EXTINF:-1,Premium SD | Nat Geo Wild
+http://51.222.241.122:8000/play/a07l
+#EXTINF:-1,Premium SD | Natgeo
+http://51.222.241.122:8000/play/a07k
+#EXTINF:-1,Premium SD | Pasiones
+http://51.222.241.122:8000/play/a07u
+#EXTINF:-1,Premium SD | Rai Italia
+http://51.222.241.122:8000/play/a08a
+#EXTINF:-1,Premium SD | TBS
+http://51.222.241.122:8000/play/a07v
+#EXTINF:-1,Premium SD | TVE
+http://51.222.241.122:8000/play/a089
+#EXTINF:-1,Premium SD | Telemundo Internacional
+http://51.222.241.122:8000/play/a088
+#EXTINF:-1,Premium SD | VH1
+http://51.222.241.122:8000/play/a07z
+#EXTINF:-1,Premium SD | VH1 MegaHits
+http://51.222.241.122:8000/play/a080
+#EXTINF:-1 tvg-id="AandE.ar",Premium | A&E (Lat) HD
+http://51.222.241.122:8000/play/a06p
+#EXTINF:-1 tvg-id="aandemundo.mx",Premium | A&E (MX) HD
+http://51.222.241.122:8000/play/a06o
+#EXTINF:-1 tvg-id="axn.mx",Premium | AXN (Lat) HD
+http://51.222.241.122:8000/play/a06r
+#EXTINF:-1 tvg-id="axn.mx",Premium | AXN (MX) HD
+http://51.222.241.122:8000/play/a06q
+#EXTINF:-1 tvg-id="animalplanet.mx",Premium | Animal Planet (Lat) HD
+http://51.222.241.122:8000/play/a05s
+#EXTINF:-1 tvg-id="animalplanet.mx",Premium | Animal Planet (MX) HD
+http://51.222.241.122:8000/play/a05t
+#EXTINF:-1 tvg-id="antena3.es",Premium | Antena 3 Internacional HD
+http://51.222.241.122:8000/play/a07c
+#EXTINF:-1 tvg-id="comedycentral.mx",Premium | Comedy Central (Lat) HD
+http://51.222.241.122:8000/play/a06w
+#EXTINF:-1 tvg-id="comedycentral.mx",Premium | Comedy Central (MX) HD (A)
+http://51.222.241.122:8000/play/a06v
+#EXTINF:-1 tvg-id="discoverychannel.mx",Premium | Discovery Channel (Lat) HD
+http://51.222.241.122:8000/play/a05v
+#EXTINF:-1 tvg-id="DiscoveryChannelLatinAmerica.pa",Premium | Discovery Channel (MX) HD
+http://51.222.241.122:8000/play/a05w
+#EXTINF:-1 tvg-id="Mexico - Discovery Channel",Premium | Discovery Channel SD
+http://51.222.241.122:8000/play/a05u
+#EXTINF:-1 tvg-id="DiscoveryCivilizationLatinAmerica.pa",Premium | Discovery Civilization (Lat) HD
+http://51.222.241.122:8000/play/a05y
+#EXTINF:-1 tvg-id="DiscoveryCivilizationLatinAmerica.pa",Premium | Discovery Civilization (MX) HD
+http://51.222.241.122:8000/play/a05x
+#EXTINF:-1 tvg-id="DiscoveryFamilia.us",Premium | Discovery Familia
+http://51.222.241.122:8000/play/a07a
+#EXTINF:-1 tvg-id="discoveryhomeandhealth.mx",Premium | Discovery H&H (Lat) HD
+http://51.222.241.122:8000/play/a061
+#EXTINF:-1 tvg-id="discoveryhomeandhealth.mx",Premium | Discovery H&H (MX) HD
+http://51.222.241.122:8000/play/a060
+#EXTINF:-1 tvg-id="DiscoveryHomeHealth.ar",Premium | Discovery H&H SD
+http://51.222.241.122:8000/play/a05z
+#EXTINF:-1 tvg-id="investigationdiscovery.ar",Premium | Discovery ID (Lat) HD
+http://51.222.241.122:8000/play/a064
+#EXTINF:-1 tvg-id="InvestigationDiscovery.co",Premium | Discovery ID (MX) HD
+http://51.222.241.122:8000/play/a063
+#EXTINF:-1 tvg-id="~ HD Investigation Discovery",Premium | Discovery ID SD
+http://51.222.241.122:8000/play/a062
+#EXTINF:-1 tvg-id="~ Discovery Science",Premium | Discovery Science (Lat) HD
+http://51.222.241.122:8000/play/a066
+#EXTINF:-1 tvg-id="DiscoveryScienceLatinAmerica.pa",Premium | Discovery Science (MX) HD
+http://51.222.241.122:8000/play/a065
+#EXTINF:-1 tvg-id="tlc.mx",Premium | Discovery TLC (Lat) HD
+http://51.222.241.122:8000/play/a06d
+#EXTINF:-1 tvg-id="tlc.mx",Premium | Discovery TLC (MX) HD
+http://51.222.241.122:8000/play/a06c
+#EXTINF:-1 tvg-id="discoveryhdtheater.ar",Premium | Discovery Theater HD
+http://51.222.241.122:8000/play/a067
+#EXTINF:-1 tvg-id="~ HD Discovery Theater",Premium | Discovery Theater SD
+http://51.222.241.122:8000/play/a068
+#EXTINF:-1 tvg-id="discoveryturbo.ar",Premium | Discovery Turbo (Lat) HD
+http://51.222.241.122:8000/play/a06f
+#EXTINF:-1 tvg-id="discoveryturbo.mx",Premium | Discovery Turbo (MX) HD
+http://51.222.241.122:8000/play/a06e
+#EXTINF:-1 tvg-id="discoveryworldhd.ar",Premium | Discovery World (Lat) HD
+http://51.222.241.122:8000/play/a06b
+#EXTINF:-1 tvg-id="discoveryworld.mx",Premium | Discovery World (MX) HD
+http://51.222.241.122:8000/play/a06a
+#EXTINF:-1 tvg-id="discoveryworld.mx",Premium | Discovery World SD
+http://51.222.241.122:8000/play/a069
+#EXTINF:-1 tvg-id="eentertainment.mx",Premium | E! Entertainment HD
+http://51.222.241.122:8000/play/a06s
+#EXTINF:-1 tvg-id="Elgourmet.mx",Premium | El Gourmet (Lat) HD
+http://51.222.241.122:8000/play/a073
+#EXTINF:-1 tvg-id="elgourmet.mx",Premium | El Gourmet (MX) HD
+http://51.222.241.122:8000/play/a072
+#EXTINF:-1 tvg-id="foxlife.mx",Premium | FOX Life HD (A)
+http://51.222.241.122:8000/play/a06t
+#EXTINF:-1 tvg-id="filmandarts.mx",Premium | Film & Arts HD
+http://51.222.241.122:8000/play/a070
+#EXTINF:-1 tvg-id="glitz.mx",Premium | Glitz HD
+http://51.222.241.122:8000/play/a06x
+#EXTINF:-1 tvg-id="History2LatinAmerica.pa",Premium | H2 HD
+http://51.222.241.122:8000/play/a06i
+#EXTINF:-1 tvg-id="historychannel.ar",Premium | History Channel (Lat) HD
+http://51.222.241.122:8000/play/a06h
+#EXTINF:-1 tvg-id="historychannel.mx",Premium | History Channel (MX) HD
+http://51.222.241.122:8000/play/a06g
+#EXTINF:-1 tvg-id="holatv.co",Premium | Hola TV HD
+http://51.222.241.122:8000/play/a06y
+#EXTINF:-1 tvg-id="isat.mx",Premium | I SAT (Lat) HD
+http://51.222.241.122:8000/play/a075
+#EXTINF:-1 tvg-id="isat.mx",Premium | I SAT (MX) HD
+http://51.222.241.122:8000/play/a074
+#EXTINF:-1 tvg-id="lifetime.mx",Premium | Lifetime HD
+http://51.222.241.122:8000/play/a06u
+#EXTINF:-1 tvg-id="maschictv.mx",Premium | MAS CHIC (Lat) HD
+http://51.222.241.122:8000/play/a077
+#EXTINF:-1 tvg-id="maschictv.mx",Premium | Mas Chic (MX) HD
+http://51.222.241.122:8000/play/a076
+#EXTINF:-1 tvg-id="NationalGeographic.co",Premium | Nat Geo (Lat) HD
+http://51.222.241.122:8000/play/a06j
+#EXTINF:-1 tvg-id="natgeo.mx",Premium | Nat Geo (MX) HD
+http://51.222.241.122:8000/play/a06k
+#EXTINF:-1 tvg-id="natgeomundo.us",Premium | Nat Geo Mundo HD
+http://51.222.241.122:8000/play/a06n
+#EXTINF:-1 tvg-id="natgeowild.co",Premium | Nat Geo Wild (Lat) HD
+http://51.222.241.122:8000/play/a06m
+#EXTINF:-1 tvg-id="natgeowild.mx",Premium | Nat Geo Wild (MX) HD
+http://51.222.241.122:8000/play/a06l
+#EXTINF:-1 tvg-id="pasioneslatinamerica.pa",Premium | Pasiones HD
+http://51.222.241.122:8000/play/a06z
+#EXTINF:-1 tvg-id="sundancetv.mx",Premium | Sundance HD
+http://51.222.241.122:8000/play/a071
+#EXTINF:-1 tvg-id="trutv.mx",Premium | TruTV HD
+http://51.222.241.122:8000/play/a07b
+#EXTINF:-1 tvg-id="unicable.mx",Premium | Unicable HD
+http://51.222.241.122:8000/play/a078
+#EXTINF:-1 tvg-id="worldofbusinessideas.mx",Premium | Wobi HD
+http://51.222.241.122:8000/play/a079
+#EXTINF:-1,REWIND
+http://51.222.241.122:8000/play/a00h
+#EXTINF:-1,RTS
+http://51.222.241.122:8000/play/a00d
+#EXTINF:-1,TC HD
+http://51.222.241.122:8000/play/a002
+#EXTINF:-1,TELEAMAZONAS HD
+http://51.222.241.122:8000/play/a001
+#EXTINF:-1 tvg-id="GALAHD",USA Latino | Galavision Atlanta HD
+http://51.222.241.122:8000/play/a094
+#EXTINF:-1 tvg-id="la.Canal 5 Galavision",USA Latino | Galavision Austin HD
+http://51.222.241.122:8000/play/a095
+#EXTINF:-1 tvg-id="GALAHD",USA Latino | Galavision East HD
+http://51.222.241.122:8000/play/a096
+#EXTINF:-1 tvg-id="la.Canal 5 Galavision",USA Latino | Galavision Houston HD
+http://51.222.241.122:8000/play/a093
+#EXTINF:-1 tvg-id="la.Canal 5 Galavision",USA Latino | Galavision Los Angeles HD
+http://51.222.241.122:8000/play/a091
+#EXTINF:-1 tvg-id="galavision.us",USA Latino | Galavision Miami HD
+http://51.222.241.122:8000/play/a090
+#EXTINF:-1 tvg-id="la.Canal 5 Galavision",USA Latino | Galavision New York HD
+http://51.222.241.122:8000/play/a08z
+
+
 #EXTINF:-1 group-title="BEIN SPORTS 4K",31 RTSH Sport HD
 http://185.204.32.4:9981/stream/channelid/1261192802?ticket=E164CD67A6836FEAF3BC6D7E2CADDEC4EAC87E29&profile=pass&checkedby:iptvcat.com
 #EXTINF:-1 group-title="BEIN SPORTS 4K",ESPN
